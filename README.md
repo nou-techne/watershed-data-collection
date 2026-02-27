@@ -15,9 +15,9 @@ Pulls three streams of public watershed data for the Colorado River Basin and se
 
 | Data Layer | Source | Update Frequency |
 |---|---|---|
-| Stream gauges (discharge + gage height) | USGS Water Services API | Every 15 min (real-time) |
-| Reservoir levels (Lake Powell, Lake Mead) | USGS Water Services API | Every 15 min (real-time) |
-| Snowpack — Snow Water Equivalent | NRCS SNOTEL / AWDB REST API | Daily |
+| Stream gauges (discharge + gage height) | USGS Water Services API | Twice daily (source updates every 15 min) |
+| Reservoir levels (Lake Powell) | USGS Water Services API | Twice daily (source updates every 15 min) |
+| Snowpack — Snow Water Equivalent | NRCS SNOTEL / AWDB REST API | Twice daily (source updates daily) |
 
 A GitHub Actions workflow runs twice daily, fetches fresh data from all three sources, writes it to `docs/data.json`, and GitHub Pages serves the live dashboard.
 
