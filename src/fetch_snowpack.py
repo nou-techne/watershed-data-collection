@@ -58,22 +58,23 @@ def get_colorado_river_stations() -> list[dict]:
     return basin_stations
 
 
-def fetch_station_data(triplets: list[str], element_cd: str, today: str) -> dict:
-    """Batch-fetch element data for a list of station triplets."""
-    resp = requests.get(
-        f"{AWDB_BASE}/data",
-        params={
-            "stationTriplets": ",".join(triplets),
-            "elements": element_cd,  # Changed from elementCd to elements
-            "beginDate": today,
-            "endDate": today,
-        },
-        timeout=60
-    )
+def fetch_station_data(triplets: list[str], element_cd: str, today: str,
+                       include_median: bool = False) -> dict:
+    """Batch-fetch element data for a list of station triplets.
+    If include_median=True, returns {triplet: (value, median)} tuples."""
+    params = {
+        "stationTriplets": ",".join(triplets),
+        "elements": element_cd,
+        "beginDate": today,
+        "endDate": today,
+    }
+    if include_median:
+        params["centralTendencyType"] = "MEDIAN"
+
+    resp = requests.get(f"{AWDB_BASE}/data", params=params, timeout=120)
     if resp.status_code != 200:
         return {}
     raw = resp.json()
-    # raw is list of {stationTriplet, data: [{stationElement, values: [{date, value}]}]}
     result = {}
     for entry in raw:
         triplet = entry.get("stationTriplet")
@@ -82,8 +83,12 @@ def fetch_station_data(triplets: list[str], element_cd: str, today: str) -> dict
             values = data_list[0]["values"]
             if values:
                 val = values[-1].get("value")
+                med = values[-1].get("median") if include_median else None
                 if val is not None:
-                    result[triplet] = float(val)
+                    if include_median:
+                        result[triplet] = (float(val), float(med) if med is not None else None)
+                    else:
+                        result[triplet] = float(val)
     return result
 
 
@@ -101,28 +106,48 @@ def fetch_snowpack() -> dict:
     yesterday = (date.today() - timedelta(days=1)).isoformat()
     triplets = [s["stationTriplet"] for s in stations]
 
-    # Batch fetch in chunks of 50 (API can be slow with large lists)
-    CHUNK = 50
+    # Batch fetch — smaller chunks for median requests (heavier API load)
+    CHUNK = 30
     swe_data, prec_data, snwd_data = {}, {}, {}
 
     for i in range(0, len(triplets), CHUNK):
         chunk = triplets[i : i + CHUNK]
-        swe_data.update(fetch_station_data(chunk, "WTEQ", yesterday))
-        prec_data.update(fetch_station_data(chunk, "PREC", yesterday))
-        snwd_data.update(fetch_station_data(chunk, "SNWD", yesterday))
+        try:
+            swe_data.update(fetch_station_data(chunk, "WTEQ", yesterday, include_median=True))
+        except Exception as e:
+            print(f"[snowpack] SWE batch {i} failed: {e}")
+        try:
+            prec_data.update(fetch_station_data(chunk, "PREC", yesterday))
+        except Exception as e:
+            print(f"[snowpack] PREC batch {i} failed: {e}")
+        try:
+            snwd_data.update(fetch_station_data(chunk, "SNWD", yesterday))
+        except Exception as e:
+            print(f"[snowpack] SNWD batch {i} failed: {e}")
 
     # Build station records
     station_records = []
     swe_values = []
 
+    pct_values = []
+
     for s in stations:
         triplet = s["stationTriplet"]
-        swe = swe_data.get(triplet)
+        swe_entry = swe_data.get(triplet)  # (value, median) tuple or None
         prec = prec_data.get(triplet)
         snwd = snwd_data.get(triplet)
 
-        if swe is not None:
-            swe_values.append(swe)
+        swe = None
+        swe_median = None
+        pct_of_median = None
+
+        if swe_entry is not None:
+            swe, swe_median = swe_entry
+            if swe is not None:
+                swe_values.append(swe)
+            if swe is not None and swe_median and swe_median > 0:
+                pct_of_median = round(swe / swe_median * 100, 1)
+                pct_values.append(pct_of_median)
 
         station_records.append({
             "triplet": triplet,
@@ -133,6 +158,8 @@ def fetch_snowpack() -> dict:
             "longitude": s.get("longitude"),
             "huc": s.get("huc"),
             "swe_in": swe,
+            "swe_median_in": swe_median,
+            "pct_of_median": pct_of_median,
             "precip_in": prec,
             "snow_depth_in": snwd,
             "date": yesterday,
@@ -143,12 +170,14 @@ def fetch_snowpack() -> dict:
 
     # Basin summary
     valid_swe = [v for v in swe_values if v is not None]
+    valid_pct = [v for v in pct_values if v is not None]
     summary = {
         "station_count": len(station_records),
         "stations_reporting": len(valid_swe),
         "mean_swe_in": round(sum(valid_swe) / len(valid_swe), 2) if valid_swe else None,
         "max_swe_in": max(valid_swe) if valid_swe else None,
         "min_swe_in": min(valid_swe) if valid_swe else None,
+        "mean_pct_of_median": round(sum(valid_pct) / len(valid_pct), 1) if valid_pct else None,
         "date": yesterday,
     }
 

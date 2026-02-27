@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-27T16:31:53.579526+00:00",
+  "fetched_at": "2026-02-27T16:57:28.028648+00:00",
   "basin": "Colorado River Basin",
   "sources": {
     "gauges": "USGS Water Services API \u2014 waterservices.usgs.gov",
@@ -26,7 +26,9 @@
           "unit": "ft",
           "datetime": "2026-02-27T09:00:00.000-07:00"
         }
-      }
+      },
+      "median_discharge_cfs": 876.0,
+      "pct_of_median": 87.9
     },
     {
       "site_id": "09095500",
@@ -39,15 +41,17 @@
           "name": "Streamflow, ft&#179;/s",
           "value": 1270.0,
           "unit": "ft3/s",
-          "datetime": "2026-02-27T09:15:00.000-07:00"
+          "datetime": "2026-02-27T09:30:00.000-07:00"
         },
         "00065": {
           "name": "Gage height, ft",
           "value": 3.33,
           "unit": "ft",
-          "datetime": "2026-02-27T09:15:00.000-07:00"
+          "datetime": "2026-02-27T09:30:00.000-07:00"
         }
-      }
+      },
+      "median_discharge_cfs": 1520.0,
+      "pct_of_median": 83.6
     },
     {
       "site_id": "09163500",
@@ -66,9 +70,11 @@
           "name": "Gage height, ft",
           "value": 3.0,
           "unit": "ft",
-          "datetime": "2026-02-27T08:45:00.000-07:00"
+          "datetime": "2026-02-27T09:45:00.000-07:00"
         }
-      }
+      },
+      "median_discharge_cfs": 3040.0,
+      "pct_of_median": 73.4
     },
     {
       "site_id": "09180000",
@@ -81,15 +87,17 @@
           "name": "Streamflow, ft&#179;/s",
           "value": 116.0,
           "unit": "ft3/s",
-          "datetime": "2026-02-27T09:15:00.000-07:00"
+          "datetime": "2026-02-27T09:45:00.000-07:00"
         },
         "00065": {
           "name": "Gage height, ft",
           "value": 7.1,
           "unit": "ft",
-          "datetime": "2026-02-27T09:15:00.000-07:00"
+          "datetime": "2026-02-27T09:45:00.000-07:00"
         }
-      }
+      },
+      "median_discharge_cfs": 179.0,
+      "pct_of_median": 64.8
     },
     {
       "site_id": "09306500",
@@ -110,7 +118,9 @@
           "unit": "ft",
           "datetime": "2026-02-27T08:45:00.000-07:00"
         }
-      }
+      },
+      "median_discharge_cfs": 410.0,
+      "pct_of_median": 98.5
     },
     {
       "site_id": "09315000",
@@ -121,17 +131,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 1710.0,
+          "value": 1730.0,
           "unit": "ft3/s",
-          "datetime": "2026-02-27T09:15:00.000-07:00"
+          "datetime": "2026-02-27T09:45:00.000-07:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 5.97,
+          "value": 5.98,
           "unit": "ft",
-          "datetime": "2026-02-27T09:15:00.000-07:00"
+          "datetime": "2026-02-27T09:45:00.000-07:00"
         }
-      }
+      },
+      "median_discharge_cfs": 2710.0,
+      "pct_of_median": 63.8
     },
     {
       "site_id": "09328500",
@@ -142,17 +154,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 8.84,
+          "value": 8.27,
           "unit": "ft3/s",
-          "datetime": "2026-02-27T09:15:00.000-07:00"
+          "datetime": "2026-02-27T09:45:00.000-07:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 4.79,
+          "value": 4.78,
           "unit": "ft",
-          "datetime": "2026-02-27T09:15:00.000-07:00"
+          "datetime": "2026-02-27T09:45:00.000-07:00"
         }
-      }
+      },
+      "median_discharge_cfs": 54.0,
+      "pct_of_median": 15.3
     },
     {
       "site_id": "09380000",
@@ -173,7 +187,9 @@
           "unit": "ft",
           "datetime": "2026-02-27T09:00:00.000-07:00"
         }
-      }
+      },
+      "median_discharge_cfs": 9500.0,
+      "pct_of_median": 104.8
     },
     {
       "site_id": "09402500",
@@ -194,7 +210,9 @@
           "unit": "ft",
           "datetime": "2026-02-27T09:15:00.000-07:00"
         }
-      }
+      },
+      "median_discharge_cfs": 10300.0,
+      "pct_of_median": 98.1
     },
     {
       "site_id": "09421500",
@@ -205,11 +223,13 @@
       "parameters": {
         "00065": {
           "name": "Gage height, ft",
-          "value": 44.03,
+          "value": 43.26,
           "unit": "ft",
-          "datetime": "2026-02-27T08:10:00.000-08:00"
+          "datetime": "2026-02-27T08:40:00.000-08:00"
         }
-      }
+      },
+      "median_discharge_cfs": 12300.0,
+      "pct_of_median": null
     },
     {
       "site_id": "09430500",
@@ -230,7 +250,9 @@
           "unit": "ft",
           "datetime": "2026-02-27T09:00:00.000-07:00"
         }
-      }
+      },
+      "median_discharge_cfs": 120.0,
+      "pct_of_median": 78.9
     }
   ],
   "reservoirs": [
@@ -238,9 +260,11 @@
       "site_id": "09379900",
       "name": "Lake Powell (Glen Canyon Dam)",
       "elevation_ft": 3530.8,
+      "median_elevation_ft": 3562.15,
       "full_pool_ft": 3700.0,
       "dead_pool_ft": 3370.0,
       "fill_pct": 48.7,
+      "pct_of_median": 83.7,
       "latitude": 36.9366548,
       "longitude": -111.4840472,
       "datetime": "2026-02-27T08:45:00.000-07:00",
@@ -253,6 +277,7 @@
     "mean_swe_in": 7.01,
     "max_swe_in": 25.7,
     "min_swe_in": 0.0,
+    "mean_pct_of_median": 59.6,
     "date": "2026-02-26"
   },
   "snowpack_stations": [
@@ -265,6 +290,8 @@
       "longitude": -106.67655,
       "huc": "140500010407",
       "swe_in": 25.7,
+      "swe_median_in": 34.8,
+      "pct_of_median": 73.9,
       "precip_in": 27.2,
       "snow_depth_in": 76.0,
       "date": "2026-02-26"
@@ -278,6 +305,8 @@
       "longitude": -110.60992,
       "huc": "140401010402",
       "swe_in": 20.2,
+      "swe_median_in": 19.0,
+      "pct_of_median": 106.3,
       "precip_in": 15.0,
       "snow_depth_in": 67.0,
       "date": "2026-02-26"
@@ -291,6 +320,8 @@
       "longitude": -110.5914,
       "huc": "140401010503",
       "swe_in": 19.5,
+      "swe_median_in": 18.4,
+      "pct_of_median": 106.0,
       "precip_in": 23.7,
       "snow_depth_in": 69.0,
       "date": "2026-02-26"
@@ -304,6 +335,8 @@
       "longitude": -110.66148,
       "huc": "140401011001",
       "swe_in": 18.8,
+      "swe_median_in": 19.2,
+      "pct_of_median": 97.9,
       "precip_in": 21.3,
       "snow_depth_in": 69.0,
       "date": "2026-02-26"
@@ -317,6 +350,8 @@
       "longitude": -106.90795,
       "huc": "140500030102",
       "swe_in": 18.8,
+      "swe_median_in": 21.0,
+      "pct_of_median": 89.5,
       "precip_in": 22.4,
       "snow_depth_in": 59.0,
       "date": "2026-02-26"
@@ -330,6 +365,8 @@
       "longitude": -106.94284,
       "huc": "140500030103",
       "swe_in": 17.4,
+      "swe_median_in": 21.4,
+      "pct_of_median": 81.3,
       "precip_in": 23.0,
       "snow_depth_in": 58.0,
       "date": "2026-02-26"
@@ -343,6 +380,8 @@
       "longitude": -110.67753,
       "huc": "140401070502",
       "swe_in": 17.2,
+      "swe_median_in": 18.6,
+      "pct_of_median": 92.5,
       "precip_in": 17.8,
       "snow_depth_in": 62.0,
       "date": "2026-02-26"
@@ -356,6 +395,8 @@
       "longitude": -107.04933,
       "huc": "140100040701",
       "swe_in": 17.2,
+      "swe_median_in": 23.5,
+      "pct_of_median": 73.2,
       "precip_in": 20.4,
       "snow_depth_in": 58.0,
       "date": "2026-02-26"
@@ -369,6 +410,8 @@
       "longitude": -110.62121,
       "huc": "140600030601",
       "swe_in": 15.6,
+      "swe_median_in": 15.6,
+      "pct_of_median": 100.0,
       "precip_in": 18.8,
       "snow_depth_in": 56.0,
       "date": "2026-02-26"
@@ -382,6 +425,8 @@
       "longitude": -113.05386,
       "huc": "150100080102",
       "swe_in": 14.6,
+      "swe_median_in": 15.8,
+      "pct_of_median": 92.4,
       "precip_in": 20.3,
       "snow_depth_in": 45.0,
       "date": "2026-02-26"
@@ -395,6 +440,8 @@
       "longitude": -106.80234,
       "huc": "140801010203",
       "swe_in": 14.6,
+      "swe_median_in": 23.2,
+      "pct_of_median": 62.9,
       "precip_in": 23.2,
       "snow_depth_in": 55.0,
       "date": "2026-02-26"
@@ -408,6 +455,8 @@
       "longitude": -106.74833,
       "huc": "140500010203",
       "swe_in": 14.2,
+      "swe_median_in": 18.6,
+      "pct_of_median": 76.3,
       "precip_in": 16.0,
       "snow_depth_in": 47.0,
       "date": "2026-02-26"
@@ -421,6 +470,8 @@
       "longitude": -111.65084,
       "huc": "150200160201",
       "swe_in": 13.6,
+      "swe_median_in": 14.0,
+      "pct_of_median": 97.1,
       "precip_in": 21.9,
       "snow_depth_in": 39.0,
       "date": "2026-02-26"
@@ -434,6 +485,8 @@
       "longitude": -106.7814,
       "huc": "140500010409",
       "swe_in": 13.4,
+      "swe_median_in": 16.6,
+      "pct_of_median": 80.7,
       "precip_in": 15.0,
       "snow_depth_in": 43.0,
       "date": "2026-02-26"
@@ -447,6 +500,8 @@
       "longitude": -106.83528,
       "huc": "140801010203",
       "swe_in": 13.0,
+      "swe_median_in": 23.9,
+      "pct_of_median": 54.4,
       "precip_in": 25.9,
       "snow_depth_in": 48.0,
       "date": "2026-02-26"
@@ -460,6 +515,8 @@
       "longitude": -105.81941,
       "huc": "140100010302",
       "swe_in": 12.9,
+      "swe_median_in": 18.4,
+      "pct_of_median": 70.1,
       "precip_in": 14.2,
       "snow_depth_in": 51.0,
       "date": "2026-02-26"
@@ -473,6 +530,8 @@
       "longitude": -110.58587,
       "huc": "140600030604",
       "swe_in": 12.7,
+      "swe_median_in": 13.9,
+      "pct_of_median": 91.4,
       "precip_in": 15.6,
       "snow_depth_in": 47.0,
       "date": "2026-02-26"
@@ -486,6 +545,8 @@
       "longitude": -108.18376,
       "huc": "140300020103",
       "swe_in": 12.6,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 17.5,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -499,6 +560,8 @@
       "longitude": -106.74118,
       "huc": "140500010402",
       "swe_in": 12.4,
+      "swe_median_in": 19.4,
+      "pct_of_median": 63.9,
       "precip_in": 17.5,
       "snow_depth_in": 43.0,
       "date": "2026-02-26"
@@ -512,6 +575,8 @@
       "longitude": -106.38141,
       "huc": "140100010604",
       "swe_in": 12.1,
+      "swe_median_in": 17.2,
+      "pct_of_median": 70.3,
       "precip_in": 13.3,
       "snow_depth_in": 46.0,
       "date": "2026-02-26"
@@ -525,6 +590,8 @@
       "longitude": -110.46721,
       "huc": "140600030701",
       "swe_in": 12.0,
+      "swe_median_in": 13.3,
+      "pct_of_median": 90.2,
       "precip_in": 14.7,
       "snow_depth_in": 41.0,
       "date": "2026-02-26"
@@ -538,6 +605,8 @@
       "longitude": -110.14007,
       "huc": "140401010201",
       "swe_in": 11.9,
+      "swe_median_in": 12.4,
+      "pct_of_median": 96.0,
       "precip_in": 14.2,
       "snow_depth_in": 46.0,
       "date": "2026-02-26"
@@ -551,6 +620,8 @@
       "longitude": -106.83912,
       "huc": "140100040202",
       "swe_in": 11.8,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 18.4,
       "snow_depth_in": 46.0,
       "date": "2026-02-26"
@@ -564,6 +635,8 @@
       "longitude": -108.02468,
       "huc": "140801050101",
       "swe_in": 11.8,
+      "swe_median_in": 18.4,
+      "pct_of_median": 64.1,
       "precip_in": 21.1,
       "snow_depth_in": 45.0,
       "date": "2026-02-26"
@@ -577,6 +650,8 @@
       "longitude": -107.29383,
       "huc": "140500050102",
       "swe_in": 11.8,
+      "swe_median_in": 20.2,
+      "pct_of_median": 58.4,
       "precip_in": 14.7,
       "snow_depth_in": 46.0,
       "date": "2026-02-26"
@@ -590,6 +665,8 @@
       "longitude": -107.87951,
       "huc": "140200050111",
       "swe_in": 11.7,
+      "swe_median_in": 19.6,
+      "pct_of_median": 59.7,
       "precip_in": 18.0,
       "snow_depth_in": 44.0,
       "date": "2026-02-26"
@@ -603,6 +680,8 @@
       "longitude": -111.33981,
       "huc": "140700030406",
       "swe_in": 11.6,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 17.3,
       "snow_depth_in": 38.0,
       "date": "2026-02-26"
@@ -616,6 +695,8 @@
       "longitude": -106.42473,
       "huc": "140100020602",
       "swe_in": 11.5,
+      "swe_median_in": 13.2,
+      "pct_of_median": 87.1,
       "precip_in": 10.8,
       "snow_depth_in": 39.0,
       "date": "2026-02-26"
@@ -629,6 +710,8 @@
       "longitude": -107.35628,
       "huc": "140100011401",
       "swe_in": 11.4,
+      "swe_median_in": 19.0,
+      "pct_of_median": 60.0,
       "precip_in": 16.8,
       "snow_depth_in": 43.0,
       "date": "2026-02-26"
@@ -642,6 +725,8 @@
       "longitude": -106.96861,
       "huc": "140500010206",
       "swe_in": 11.4,
+      "swe_median_in": 14.5,
+      "pct_of_median": 78.6,
       "precip_in": 14.9,
       "snow_depth_in": 37.0,
       "date": "2026-02-26"
@@ -655,6 +740,8 @@
       "longitude": -111.30576,
       "huc": "140600070201",
       "swe_in": 11.4,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 14.2,
       "snow_depth_in": 34.0,
       "date": "2026-02-26"
@@ -668,6 +755,8 @@
       "longitude": -107.77841,
       "huc": "140801040203",
       "swe_in": 11.4,
+      "swe_median_in": 18.9,
+      "pct_of_median": 60.3,
       "precip_in": 22.0,
       "snow_depth_in": 43.0,
       "date": "2026-02-26"
@@ -681,6 +770,8 @@
       "longitude": -110.01671,
       "huc": "140401010302",
       "swe_in": 11.1,
+      "swe_median_in": 9.6,
+      "pct_of_median": 115.6,
       "precip_in": 14.8,
       "snow_depth_in": 42.0,
       "date": "2026-02-26"
@@ -694,6 +785,8 @@
       "longitude": -107.84484,
       "huc": "140300030103",
       "swe_in": 10.4,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 16.3,
       "snow_depth_in": 43.0,
       "date": "2026-02-26"
@@ -707,6 +800,8 @@
       "longitude": -110.66068,
       "huc": "140401070301",
       "swe_in": 10.4,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 12.8,
       "snow_depth_in": 40.0,
       "date": "2026-02-26"
@@ -720,6 +815,8 @@
       "longitude": -110.80181,
       "huc": "140401070501",
       "swe_in": 10.4,
+      "swe_median_in": 12.0,
+      "pct_of_median": 86.7,
       "precip_in": 15.0,
       "snow_depth_in": 32.0,
       "date": "2026-02-26"
@@ -733,6 +830,8 @@
       "longitude": -108.38313,
       "huc": "140200050202",
       "swe_in": 10.2,
+      "swe_median_in": 14.3,
+      "pct_of_median": 71.3,
       "precip_in": 15.7,
       "snow_depth_in": 35.0,
       "date": "2026-02-26"
@@ -746,6 +845,8 @@
       "longitude": -105.86765,
       "huc": "140100010203",
       "swe_in": 10.2,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 11.1,
       "snow_depth_in": 38.0,
       "date": "2026-02-26"
@@ -759,6 +860,8 @@
       "longitude": -107.14388,
       "huc": "140100040703",
       "swe_in": 10.2,
+      "swe_median_in": 13.2,
+      "pct_of_median": 77.3,
       "precip_in": 14.0,
       "snow_depth_in": 34.0,
       "date": "2026-02-26"
@@ -772,6 +875,8 @@
       "longitude": -107.71389,
       "huc": "140801040103",
       "swe_in": 10.1,
+      "swe_median_in": 16.7,
+      "pct_of_median": 60.5,
       "precip_in": 18.2,
       "snow_depth_in": 43.0,
       "date": "2026-02-26"
@@ -785,6 +890,8 @@
       "longitude": -109.75893,
       "huc": "140401020103",
       "swe_in": 10.0,
+      "swe_median_in": 9.6,
+      "pct_of_median": 104.2,
       "precip_in": null,
       "snow_depth_in": 38.0,
       "date": "2026-02-26"
@@ -798,6 +905,8 @@
       "longitude": -109.26332,
       "huc": "140300050401",
       "swe_in": 10.0,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 13.9,
       "snow_depth_in": 34.0,
       "date": "2026-02-26"
@@ -811,6 +920,8 @@
       "longitude": -108.19636,
       "huc": "140300030302",
       "swe_in": 10.0,
+      "swe_median_in": 12.9,
+      "pct_of_median": 77.5,
       "precip_in": 14.7,
       "snow_depth_in": 37.0,
       "date": "2026-02-26"
@@ -824,6 +935,8 @@
       "longitude": -110.50462,
       "huc": "140401070203",
       "swe_in": 9.9,
+      "swe_median_in": 11.2,
+      "pct_of_median": 88.4,
       "precip_in": 12.0,
       "snow_depth_in": 38.0,
       "date": "2026-02-26"
@@ -837,6 +950,8 @@
       "longitude": -107.10113,
       "huc": "140500010601",
       "swe_in": 9.8,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": 35.0,
       "date": "2026-02-26"
@@ -850,6 +965,8 @@
       "longitude": -109.25965,
       "huc": "140401040101",
       "swe_in": 9.5,
+      "swe_median_in": 10.0,
+      "pct_of_median": 95.0,
       "precip_in": 9.7,
       "snow_depth_in": 41.0,
       "date": "2026-02-26"
@@ -863,6 +980,8 @@
       "longitude": -105.75472,
       "huc": "140100010205",
       "swe_in": 9.5,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 10.2,
       "snow_depth_in": 41.0,
       "date": "2026-02-26"
@@ -876,6 +995,8 @@
       "longitude": -106.33967,
       "huc": "140200030105",
       "swe_in": 9.5,
+      "swe_median_in": 12.0,
+      "pct_of_median": 79.2,
       "precip_in": 11.3,
       "snow_depth_in": 37.0,
       "date": "2026-02-26"
@@ -889,6 +1010,8 @@
       "longitude": -105.77786,
       "huc": "140100010202",
       "swe_in": 9.4,
+      "swe_median_in": 13.5,
+      "pct_of_median": 69.6,
       "precip_in": 12.9,
       "snow_depth_in": 38.0,
       "date": "2026-02-26"
@@ -902,6 +1025,8 @@
       "longitude": -108.11405,
       "huc": "140300020206",
       "swe_in": 9.4,
+      "swe_median_in": 14.6,
+      "pct_of_median": 64.4,
       "precip_in": 15.4,
       "snow_depth_in": 38.0,
       "date": "2026-02-26"
@@ -915,6 +1040,8 @@
       "longitude": -110.67833,
       "huc": "140401070504",
       "swe_in": 9.2,
+      "swe_median_in": 9.0,
+      "pct_of_median": 102.2,
       "precip_in": 10.6,
       "snow_depth_in": 36.0,
       "date": "2026-02-26"
@@ -928,6 +1055,8 @@
       "longitude": -110.0105,
       "huc": "140600031202",
       "swe_in": 9.1,
+      "swe_median_in": 10.4,
+      "pct_of_median": 87.5,
       "precip_in": 11.9,
       "snow_depth_in": 36.0,
       "date": "2026-02-26"
@@ -941,6 +1070,8 @@
       "longitude": -110.00527,
       "huc": "140401060501",
       "swe_in": 9.0,
+      "swe_median_in": 8.8,
+      "pct_of_median": 102.3,
       "precip_in": 12.6,
       "snow_depth_in": 33.0,
       "date": "2026-02-26"
@@ -954,6 +1085,8 @@
       "longitude": -107.15255,
       "huc": "140500030203",
       "swe_in": 8.7,
+      "swe_median_in": 14.9,
+      "pct_of_median": 58.4,
       "precip_in": 12.7,
       "snow_depth_in": 33.0,
       "date": "2026-02-26"
@@ -967,6 +1100,8 @@
       "longitude": -107.63348,
       "huc": "140801040702",
       "swe_in": 8.5,
+      "swe_median_in": 13.6,
+      "pct_of_median": 62.5,
       "precip_in": 18.0,
       "snow_depth_in": 34.0,
       "date": "2026-02-26"
@@ -980,6 +1115,8 @@
       "longitude": -110.43316,
       "huc": "140600030705",
       "swe_in": 8.4,
+      "swe_median_in": 9.6,
+      "pct_of_median": 87.5,
       "precip_in": 13.6,
       "snow_depth_in": 32.0,
       "date": "2026-02-26"
@@ -993,6 +1130,8 @@
       "longitude": -107.32139,
       "huc": "140801020203",
       "swe_in": 8.4,
+      "swe_median_in": 13.8,
+      "pct_of_median": 60.9,
       "precip_in": 20.2,
       "snow_depth_in": 36.0,
       "date": "2026-02-26"
@@ -1006,6 +1145,8 @@
       "longitude": -105.8694,
       "huc": "140100020201",
       "swe_in": 8.3,
+      "swe_median_in": 13.5,
+      "pct_of_median": 61.5,
       "precip_in": 9.3,
       "snow_depth_in": 37.0,
       "date": "2026-02-26"
@@ -1019,6 +1160,8 @@
       "longitude": -107.17043,
       "huc": "140500030208",
       "swe_in": 8.3,
+      "swe_median_in": 10.0,
+      "pct_of_median": 83.0,
       "precip_in": 11.7,
       "snow_depth_in": 28.0,
       "date": "2026-02-26"
@@ -1032,6 +1175,8 @@
       "longitude": -106.38019,
       "huc": "140100030102",
       "swe_in": 8.3,
+      "swe_median_in": 13.8,
+      "pct_of_median": 60.1,
       "precip_in": 10.1,
       "snow_depth_in": 34.0,
       "date": "2026-02-26"
@@ -1045,6 +1190,8 @@
       "longitude": -108.02235,
       "huc": "140300020202",
       "swe_in": 8.2,
+      "swe_median_in": 10.8,
+      "pct_of_median": 75.9,
       "precip_in": 14.7,
       "snow_depth_in": 31.0,
       "date": "2026-02-26"
@@ -1058,6 +1205,8 @@
       "longitude": -106.95327,
       "huc": "140200010206",
       "swe_in": 8.1,
+      "swe_median_in": 10.4,
+      "pct_of_median": 77.9,
       "precip_in": 9.9,
       "snow_depth_in": 32.0,
       "date": "2026-02-26"
@@ -1071,6 +1220,8 @@
       "longitude": -107.92475,
       "huc": "140300020201",
       "swe_in": 8.1,
+      "swe_median_in": 11.5,
+      "pct_of_median": 70.4,
       "precip_in": 11.6,
       "snow_depth_in": 33.0,
       "date": "2026-02-26"
@@ -1084,6 +1235,8 @@
       "longitude": -107.28834,
       "huc": "140200040203",
       "swe_in": 8.1,
+      "swe_median_in": 13.0,
+      "pct_of_median": 62.3,
       "precip_in": 13.4,
       "snow_depth_in": 27.0,
       "date": "2026-02-26"
@@ -1097,6 +1250,8 @@
       "longitude": -106.74504,
       "huc": "140200010101",
       "swe_in": 8.1,
+      "swe_median_in": 10.4,
+      "pct_of_median": 77.9,
       "precip_in": 10.7,
       "snow_depth_in": 31.0,
       "date": "2026-02-26"
@@ -1110,6 +1265,8 @@
       "longitude": -109.94947,
       "huc": "140401020201",
       "swe_in": 8.0,
+      "swe_median_in": 8.5,
+      "pct_of_median": 94.1,
       "precip_in": 11.1,
       "snow_depth_in": 32.0,
       "date": "2026-02-26"
@@ -1123,6 +1280,8 @@
       "longitude": -110.53203,
       "huc": "140401010906",
       "swe_in": 7.9,
+      "swe_median_in": 10.6,
+      "pct_of_median": 74.5,
       "precip_in": 12.6,
       "snow_depth_in": 29.0,
       "date": "2026-02-26"
@@ -1136,6 +1295,8 @@
       "longitude": -108.17005,
       "huc": "140801070102",
       "swe_in": 7.8,
+      "swe_median_in": 12.4,
+      "pct_of_median": 62.9,
       "precip_in": 11.8,
       "snow_depth_in": 22.0,
       "date": "2026-02-26"
@@ -1149,6 +1310,8 @@
       "longitude": -107.50748,
       "huc": "140801011105",
       "swe_in": 7.8,
+      "swe_median_in": 13.0,
+      "pct_of_median": 60.0,
       "precip_in": 17.0,
       "snow_depth_in": 33.0,
       "date": "2026-02-26"
@@ -1162,6 +1325,8 @@
       "longitude": -106.54907,
       "huc": "140100040501",
       "swe_in": 7.7,
+      "swe_median_in": 11.4,
+      "pct_of_median": 67.5,
       "precip_in": 9.0,
       "snow_depth_in": 29.0,
       "date": "2026-02-26"
@@ -1175,6 +1340,8 @@
       "longitude": -107.68933,
       "huc": "140801040302",
       "swe_in": 7.7,
+      "swe_median_in": 14.5,
+      "pct_of_median": 53.1,
       "precip_in": 15.3,
       "snow_depth_in": 30.0,
       "date": "2026-02-26"
@@ -1188,6 +1355,8 @@
       "longitude": -105.90655,
       "huc": "140100010402",
       "swe_in": 7.5,
+      "swe_median_in": 11.9,
+      "pct_of_median": 63.0,
       "precip_in": 10.9,
       "snow_depth_in": 34.0,
       "date": "2026-02-26"
@@ -1201,6 +1370,8 @@
       "longitude": -115.69543,
       "huc": "150100150206",
       "swe_in": 7.3,
+      "swe_median_in": 7.1,
+      "pct_of_median": 102.8,
       "precip_in": 19.6,
       "snow_depth_in": 17.0,
       "date": "2026-02-26"
@@ -1214,6 +1385,8 @@
       "longitude": -111.43722,
       "huc": "140600090302",
       "swe_in": 7.3,
+      "swe_median_in": 12.7,
+      "pct_of_median": 57.5,
       "precip_in": 11.1,
       "snow_depth_in": 24.0,
       "date": "2026-02-26"
@@ -1227,6 +1400,8 @@
       "longitude": -106.61154,
       "huc": "140100040101",
       "swe_in": 7.2,
+      "swe_median_in": 12.8,
+      "pct_of_median": 56.2,
       "precip_in": 8.5,
       "snow_depth_in": 31.0,
       "date": "2026-02-26"
@@ -1240,6 +1415,8 @@
       "longitude": -112.90155,
       "huc": "150100080101",
       "swe_in": 7.2,
+      "swe_median_in": 10.7,
+      "pct_of_median": 67.3,
       "precip_in": 19.1,
       "snow_depth_in": 22.0,
       "date": "2026-02-26"
@@ -1253,6 +1430,8 @@
       "longitude": -107.59902,
       "huc": "140500050302",
       "swe_in": 7.1,
+      "swe_median_in": 11.6,
+      "pct_of_median": 61.2,
       "precip_in": 11.9,
       "snow_depth_in": 25.0,
       "date": "2026-02-26"
@@ -1266,6 +1445,8 @@
       "longitude": -106.17154,
       "huc": "140100020302",
       "swe_in": 6.9,
+      "swe_median_in": 11.5,
+      "pct_of_median": 60.0,
       "precip_in": 8.5,
       "snow_depth_in": 31.0,
       "date": "2026-02-26"
@@ -1279,6 +1460,8 @@
       "longitude": -106.62944,
       "huc": "140100040504",
       "swe_in": 6.8,
+      "swe_median_in": 12.1,
+      "pct_of_median": 56.2,
       "precip_in": 9.4,
       "snow_depth_in": 28.0,
       "date": "2026-02-26"
@@ -1292,6 +1475,8 @@
       "longitude": -106.5962,
       "huc": "140100010706",
       "swe_in": 6.7,
+      "swe_median_in": 11.6,
+      "pct_of_median": 57.8,
       "precip_in": 9.2,
       "snow_depth_in": 28.0,
       "date": "2026-02-26"
@@ -1305,6 +1490,8 @@
       "longitude": -107.6762,
       "huc": "140200060201",
       "swe_in": 6.7,
+      "swe_median_in": 10.0,
+      "pct_of_median": 67.0,
       "precip_in": 13.4,
       "snow_depth_in": 24.0,
       "date": "2026-02-26"
@@ -1318,6 +1505,8 @@
       "longitude": -108.00833,
       "huc": "140300020204",
       "swe_in": 6.7,
+      "swe_median_in": 9.4,
+      "pct_of_median": 71.3,
       "precip_in": 11.2,
       "snow_depth_in": 24.0,
       "date": "2026-02-26"
@@ -1331,6 +1520,8 @@
       "longitude": -111.25677,
       "huc": "140600040101",
       "swe_in": 6.6,
+      "swe_median_in": 11.8,
+      "pct_of_median": 55.9,
       "precip_in": 12.6,
       "snow_depth_in": 23.0,
       "date": "2026-02-26"
@@ -1344,6 +1535,8 @@
       "longitude": -114.95575,
       "huc": "150100110105",
       "swe_in": 6.6,
+      "swe_median_in": 10.4,
+      "pct_of_median": 63.5,
       "precip_in": 12.9,
       "snow_depth_in": 26.0,
       "date": "2026-02-26"
@@ -1357,6 +1550,8 @@
       "longitude": -110.5828,
       "huc": "140401070303",
       "swe_in": 6.5,
+      "swe_median_in": 6.4,
+      "pct_of_median": 101.6,
       "precip_in": 9.0,
       "snow_depth_in": 18.0,
       "date": "2026-02-26"
@@ -1370,6 +1565,8 @@
       "longitude": -110.74604,
       "huc": "140600040701",
       "swe_in": 6.5,
+      "swe_median_in": 8.7,
+      "pct_of_median": 74.7,
       "precip_in": 10.6,
       "snow_depth_in": 21.0,
       "date": "2026-02-26"
@@ -1383,6 +1580,8 @@
       "longitude": -109.27198,
       "huc": "140300050404",
       "swe_in": 6.4,
+      "swe_median_in": 10.0,
+      "pct_of_median": 64.0,
       "precip_in": 11.8,
       "snow_depth_in": 19.0,
       "date": "2026-02-26"
@@ -1396,6 +1595,8 @@
       "longitude": -109.8881,
       "huc": "140600100702",
       "swe_in": 6.4,
+      "swe_median_in": 8.4,
+      "pct_of_median": 76.2,
       "precip_in": 9.3,
       "snow_depth_in": 25.0,
       "date": "2026-02-26"
@@ -1409,6 +1610,8 @@
       "longitude": -107.63583,
       "huc": "140200040101",
       "swe_in": 6.4,
+      "swe_median_in": 9.7,
+      "pct_of_median": 66.0,
       "precip_in": 11.2,
       "snow_depth_in": 22.0,
       "date": "2026-02-26"
@@ -1422,6 +1625,8 @@
       "longitude": -106.19784,
       "huc": "140100020301",
       "swe_in": 6.3,
+      "swe_median_in": 12.2,
+      "pct_of_median": 51.6,
       "precip_in": 7.6,
       "snow_depth_in": 30.0,
       "date": "2026-02-26"
@@ -1435,6 +1640,8 @@
       "longitude": -107.20392,
       "huc": "140200020502",
       "swe_in": 6.3,
+      "swe_median_in": 10.4,
+      "pct_of_median": 60.6,
       "precip_in": 10.2,
       "snow_depth_in": 26.0,
       "date": "2026-02-26"
@@ -1448,6 +1655,8 @@
       "longitude": -108.05756,
       "huc": "140100051307",
       "swe_in": 6.2,
+      "swe_median_in": 12.2,
+      "pct_of_median": 50.8,
       "precip_in": 13.3,
       "snow_depth_in": 24.0,
       "date": "2026-02-26"
@@ -1461,6 +1670,8 @@
       "longitude": -107.72657,
       "huc": "140801040103",
       "swe_in": 6.1,
+      "swe_median_in": 11.4,
+      "pct_of_median": 53.5,
       "precip_in": 13.5,
       "snow_depth_in": 20.0,
       "date": "2026-02-26"
@@ -1474,6 +1685,8 @@
       "longitude": -111.27221,
       "huc": "140600090202",
       "swe_in": 6.1,
+      "swe_median_in": 10.5,
+      "pct_of_median": 58.1,
       "precip_in": 12.2,
       "snow_depth_in": 20.0,
       "date": "2026-02-26"
@@ -1487,6 +1700,8 @@
       "longitude": -107.05769,
       "huc": "140500010106",
       "swe_in": 6.0,
+      "swe_median_in": 9.6,
+      "pct_of_median": 62.5,
       "precip_in": 9.4,
       "snow_depth_in": 21.0,
       "date": "2026-02-26"
@@ -1500,6 +1715,8 @@
       "longitude": -111.20665,
       "huc": "140600040103",
       "swe_in": 5.9,
+      "swe_median_in": 11.8,
+      "pct_of_median": 50.0,
       "precip_in": 12.4,
       "snow_depth_in": 18.0,
       "date": "2026-02-26"
@@ -1513,6 +1730,8 @@
       "longitude": -106.0952,
       "huc": "140100010102",
       "swe_in": 5.9,
+      "swe_median_in": 10.5,
+      "pct_of_median": 56.2,
       "precip_in": 8.1,
       "snow_depth_in": 26.0,
       "date": "2026-02-26"
@@ -1526,6 +1745,8 @@
       "longitude": -111.08993,
       "huc": "140600040401",
       "swe_in": 5.7,
+      "swe_median_in": 7.6,
+      "pct_of_median": 75.0,
       "precip_in": 10.6,
       "snow_depth_in": 13.0,
       "date": "2026-02-26"
@@ -1539,6 +1760,8 @@
       "longitude": -106.61501,
       "huc": "140100040504",
       "swe_in": 5.6,
+      "swe_median_in": 9.9,
+      "pct_of_median": 56.6,
       "precip_in": 7.0,
       "snow_depth_in": 23.0,
       "date": "2026-02-26"
@@ -1552,6 +1775,8 @@
       "longitude": -107.23618,
       "huc": "140500050101",
       "swe_in": 5.6,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 10.4,
       "snow_depth_in": 17.0,
       "date": "2026-02-26"
@@ -1565,6 +1790,8 @@
       "longitude": -106.544,
       "huc": "140100030304",
       "swe_in": 5.4,
+      "swe_median_in": 11.6,
+      "pct_of_median": 46.6,
       "precip_in": 11.2,
       "snow_depth_in": 22.0,
       "date": "2026-02-26"
@@ -1578,6 +1805,8 @@
       "longitude": -106.1577,
       "huc": "140100020502",
       "swe_in": 5.4,
+      "swe_median_in": 8.6,
+      "pct_of_median": 62.8,
       "precip_in": 7.6,
       "snow_depth_in": 22.0,
       "date": "2026-02-26"
@@ -1591,6 +1820,8 @@
       "longitude": -110.98845,
       "huc": "140600070102",
       "swe_in": 5.3,
+      "swe_median_in": 9.1,
+      "pct_of_median": 58.2,
       "precip_in": 10.1,
       "snow_depth_in": 18.0,
       "date": "2026-02-26"
@@ -1604,6 +1835,8 @@
       "longitude": -106.51113,
       "huc": "140100030301",
       "swe_in": 5.2,
+      "swe_median_in": 9.8,
+      "pct_of_median": 53.1,
       "precip_in": 8.3,
       "snow_depth_in": 20.0,
       "date": "2026-02-26"
@@ -1617,6 +1850,8 @@
       "longitude": -109.44717,
       "huc": "140802030103",
       "swe_in": 5.2,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 17.7,
       "snow_depth_in": 20.0,
       "date": "2026-02-26"
@@ -1630,6 +1865,8 @@
       "longitude": -109.48723,
       "huc": "140802010301",
       "swe_in": 5.2,
+      "swe_median_in": 11.2,
+      "pct_of_median": 46.4,
       "precip_in": 16.0,
       "snow_depth_in": 12.0,
       "date": "2026-02-26"
@@ -1643,6 +1880,8 @@
       "longitude": -111.43297,
       "huc": "140600090203",
       "swe_in": 5.2,
+      "swe_median_in": 9.6,
+      "pct_of_median": 54.2,
       "precip_in": 7.6,
       "snow_depth_in": 18.0,
       "date": "2026-02-26"
@@ -1656,6 +1895,8 @@
       "longitude": -106.02802,
       "huc": "140100010402",
       "swe_in": 5.1,
+      "swe_median_in": 9.2,
+      "pct_of_median": 55.4,
       "precip_in": 6.5,
       "snow_depth_in": 21.0,
       "date": "2026-02-26"
@@ -1669,6 +1910,8 @@
       "longitude": -111.35685,
       "huc": "140600090303",
       "swe_in": 5.1,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 8.6,
       "snow_depth_in": 18.0,
       "date": "2026-02-26"
@@ -1682,6 +1925,8 @@
       "longitude": -111.46875,
       "huc": "140700020201",
       "swe_in": 5.0,
+      "swe_median_in": 9.2,
+      "pct_of_median": 54.3,
       "precip_in": 9.8,
       "snow_depth_in": 17.0,
       "date": "2026-02-26"
@@ -1695,6 +1940,8 @@
       "longitude": -106.60786,
       "huc": "140100040504",
       "swe_in": 5.0,
+      "swe_median_in": 6.6,
+      "pct_of_median": 75.8,
       "precip_in": 6.2,
       "snow_depth_in": 17.0,
       "date": "2026-02-26"
@@ -1708,6 +1955,8 @@
       "longitude": -110.48419,
       "huc": "140401070203",
       "swe_in": 4.8,
+      "swe_median_in": 7.6,
+      "pct_of_median": 63.2,
       "precip_in": 9.4,
       "snow_depth_in": 22.0,
       "date": "2026-02-26"
@@ -1721,6 +1970,8 @@
       "longitude": -109.6728,
       "huc": "140600100802",
       "swe_in": 4.8,
+      "swe_median_in": 7.1,
+      "pct_of_median": 67.6,
       "precip_in": 8.1,
       "snow_depth_in": 18.0,
       "date": "2026-02-26"
@@ -1734,6 +1985,8 @@
       "longitude": -106.58962,
       "huc": "140200010107",
       "swe_in": 4.7,
+      "swe_median_in": 7.9,
+      "pct_of_median": 59.5,
       "precip_in": 7.8,
       "snow_depth_in": 19.0,
       "date": "2026-02-26"
@@ -1747,6 +2000,8 @@
       "longitude": -107.00948,
       "huc": "140500010102",
       "swe_in": 4.5,
+      "swe_median_in": 8.5,
+      "pct_of_median": 52.9,
       "precip_in": 6.9,
       "snow_depth_in": 19.0,
       "date": "2026-02-26"
@@ -1760,6 +2015,8 @@
       "longitude": -106.67095,
       "huc": "140100011001",
       "swe_in": 4.5,
+      "swe_median_in": 8.8,
+      "pct_of_median": 51.1,
       "precip_in": 6.9,
       "snow_depth_in": 16.0,
       "date": "2026-02-26"
@@ -1773,6 +2030,8 @@
       "longitude": -107.26674,
       "huc": "140500030109",
       "swe_in": 4.4,
+      "swe_median_in": 10.0,
+      "pct_of_median": 44.0,
       "precip_in": 11.4,
       "snow_depth_in": 14.0,
       "date": "2026-02-26"
@@ -1786,6 +2045,8 @@
       "longitude": -110.43395,
       "huc": "140600070903",
       "swe_in": 4.3,
+      "swe_median_in": 8.1,
+      "pct_of_median": 53.1,
       "precip_in": 9.3,
       "snow_depth_in": 12.0,
       "date": "2026-02-26"
@@ -1799,6 +2060,8 @@
       "longitude": -107.36428,
       "huc": "140200020602",
       "swe_in": 4.2,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 10.8,
       "snow_depth_in": 16.0,
       "date": "2026-02-26"
@@ -1812,6 +2075,8 @@
       "longitude": -110.7933,
       "huc": "140700010502",
       "swe_in": 4.1,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 11.4,
       "snow_depth_in": 10.0,
       "date": "2026-02-26"
@@ -1825,6 +2090,8 @@
       "longitude": -108.70711,
       "huc": "150400040605",
       "swe_in": 4.1,
+      "swe_median_in": 7.4,
+      "pct_of_median": 55.4,
       "precip_in": 10.8,
       "snow_depth_in": 7.0,
       "date": "2026-02-26"
@@ -1838,6 +2105,8 @@
       "longitude": -105.9198,
       "huc": "140100010306",
       "swe_in": 4.0,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 5.6,
       "snow_depth_in": 11.0,
       "date": "2026-02-26"
@@ -1851,6 +2120,8 @@
       "longitude": -113.45988,
       "huc": "150100080701",
       "swe_in": 3.8,
+      "swe_median_in": 10.1,
+      "pct_of_median": 37.6,
       "precip_in": 16.4,
       "snow_depth_in": 10.0,
       "date": "2026-02-26"
@@ -1864,6 +2135,8 @@
       "longitude": -115.62972,
       "huc": "150100150301",
       "swe_in": 3.8,
+      "swe_median_in": 5.2,
+      "pct_of_median": 73.1,
       "precip_in": 25.6,
       "snow_depth_in": 9.0,
       "date": "2026-02-26"
@@ -1877,6 +2150,8 @@
       "longitude": -111.50868,
       "huc": "150200150202",
       "swe_in": 3.7,
+      "swe_median_in": 7.8,
+      "pct_of_median": 47.4,
       "precip_in": 15.6,
       "snow_depth_in": 9.0,
       "date": "2026-02-26"
@@ -1890,6 +2165,8 @@
       "longitude": -110.69292,
       "huc": "140600030304",
       "swe_in": 3.7,
+      "swe_median_in": 6.6,
+      "pct_of_median": 56.1,
       "precip_in": 11.0,
       "snow_depth_in": 12.0,
       "date": "2026-02-26"
@@ -1903,6 +2180,8 @@
       "longitude": -111.2491,
       "huc": "140600090201",
       "swe_in": 3.7,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 8.9,
       "snow_depth_in": 11.0,
       "date": "2026-02-26"
@@ -1916,6 +2195,8 @@
       "longitude": -110.54056,
       "huc": "140401070302",
       "swe_in": 3.5,
+      "swe_median_in": 8.1,
+      "pct_of_median": 43.2,
       "precip_in": 8.2,
       "snow_depth_in": 15.0,
       "date": "2026-02-26"
@@ -1929,6 +2210,8 @@
       "longitude": -109.96287,
       "huc": "140401060501",
       "swe_in": 3.5,
+      "swe_median_in": 5.8,
+      "pct_of_median": 60.3,
       "precip_in": 6.4,
       "snow_depth_in": 18.0,
       "date": "2026-02-26"
@@ -1942,6 +2225,8 @@
       "longitude": -111.59765,
       "huc": "140700030101",
       "swe_in": 3.4,
+      "swe_median_in": 7.0,
+      "pct_of_median": 48.6,
       "precip_in": 6.6,
       "snow_depth_in": 8.0,
       "date": "2026-02-26"
@@ -1955,6 +2240,8 @@
       "longitude": -111.47412,
       "huc": "140700030305",
       "swe_in": 3.4,
+      "swe_median_in": 5.7,
+      "pct_of_median": 59.6,
       "precip_in": 6.4,
       "snow_depth_in": 13.0,
       "date": "2026-02-26"
@@ -1968,6 +2255,8 @@
       "longitude": -109.54401,
       "huc": "140600100303",
       "swe_in": 3.4,
+      "swe_median_in": 7.4,
+      "pct_of_median": 45.9,
       "precip_in": 9.5,
       "snow_depth_in": 16.0,
       "date": "2026-02-26"
@@ -1981,6 +2270,8 @@
       "longitude": -107.80287,
       "huc": "140801040201",
       "swe_in": 3.2,
+      "swe_median_in": 8.7,
+      "pct_of_median": 36.8,
       "precip_in": 15.6,
       "snow_depth_in": 7.0,
       "date": "2026-02-26"
@@ -1994,6 +2285,8 @@
       "longitude": -110.18623,
       "huc": "140401060205",
       "swe_in": 3.2,
+      "swe_median_in": 5.4,
+      "pct_of_median": 59.3,
       "precip_in": 7.3,
       "snow_depth_in": 15.0,
       "date": "2026-02-26"
@@ -2007,6 +2300,8 @@
       "longitude": -110.77241,
       "huc": "140700010301",
       "swe_in": 3.2,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 10.0,
       "snow_depth_in": 9.0,
       "date": "2026-02-26"
@@ -2020,6 +2315,8 @@
       "longitude": -111.38262,
       "huc": "150602030103",
       "swe_in": 3.0,
+      "swe_median_in": 10.5,
+      "pct_of_median": 28.6,
       "precip_in": 19.4,
       "snow_depth_in": 7.0,
       "date": "2026-02-26"
@@ -2033,6 +2330,8 @@
       "longitude": -110.3529,
       "huc": "140600030705",
       "swe_in": 2.8,
+      "swe_median_in": 5.1,
+      "pct_of_median": 54.9,
       "precip_in": 8.5,
       "snow_depth_in": 8.0,
       "date": "2026-02-26"
@@ -2046,6 +2345,8 @@
       "longitude": -109.29164,
       "huc": "140300050404",
       "swe_in": 2.6,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 8.8,
       "snow_depth_in": 6.0,
       "date": "2026-02-26"
@@ -2059,6 +2360,8 @@
       "longitude": -109.53179,
       "huc": "140600060205",
       "swe_in": 2.4,
+      "swe_median_in": 6.7,
+      "pct_of_median": 35.8,
       "precip_in": 9.2,
       "snow_depth_in": 6.0,
       "date": "2026-02-26"
@@ -2072,6 +2375,8 @@
       "longitude": -112.51458,
       "huc": "150100080201",
       "swe_in": 2.0,
+      "swe_median_in": 4.2,
+      "pct_of_median": 47.6,
       "precip_in": 12.0,
       "snow_depth_in": 4.0,
       "date": "2026-02-26"
@@ -2085,6 +2390,8 @@
       "longitude": -111.41219,
       "huc": "150602020604",
       "swe_in": 1.9,
+      "swe_median_in": 5.0,
+      "pct_of_median": 38.0,
       "precip_in": 16.3,
       "snow_depth_in": 4.0,
       "date": "2026-02-26"
@@ -2098,6 +2405,8 @@
       "longitude": -115.67508,
       "huc": "150100150206",
       "swe_in": 1.9,
+      "swe_median_in": 6.0,
+      "pct_of_median": 31.7,
       "precip_in": 23.6,
       "snow_depth_in": 5.0,
       "date": "2026-02-26"
@@ -2111,6 +2420,8 @@
       "longitude": -109.77156,
       "huc": "140802010402",
       "swe_in": 1.8,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 11.0,
       "snow_depth_in": 4.0,
       "date": "2026-02-26"
@@ -2124,6 +2435,8 @@
       "longitude": -108.94556,
       "huc": "140801061604",
       "swe_in": 1.8,
+      "swe_median_in": 7.3,
+      "pct_of_median": 24.7,
       "precip_in": 8.9,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2137,6 +2450,8 @@
       "longitude": -113.94235,
       "huc": "150100100101",
       "swe_in": 1.5,
+      "swe_median_in": 7.8,
+      "pct_of_median": 19.2,
       "precip_in": 16.8,
       "snow_depth_in": 4.0,
       "date": "2026-02-26"
@@ -2150,6 +2465,8 @@
       "longitude": -110.37906,
       "huc": "140600070903",
       "swe_in": 1.0,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 9.7,
       "snow_depth_in": 2.0,
       "date": "2026-02-26"
@@ -2163,6 +2480,8 @@
       "longitude": -111.84477,
       "huc": "150602020501",
       "swe_in": 1.0,
+      "swe_median_in": 5.8,
+      "pct_of_median": 17.2,
       "precip_in": 16.5,
       "snow_depth_in": 1.0,
       "date": "2026-02-26"
@@ -2176,6 +2495,8 @@
       "longitude": -111.51864,
       "huc": "150200150201",
       "swe_in": 1.0,
+      "swe_median_in": 4.6,
+      "pct_of_median": 21.7,
       "precip_in": 16.2,
       "snow_depth_in": 2.0,
       "date": "2026-02-26"
@@ -2189,6 +2510,8 @@
       "longitude": -111.40651,
       "huc": "150602030206",
       "swe_in": 0.6,
+      "swe_median_in": 3.3,
+      "pct_of_median": 18.2,
       "precip_in": 19.0,
       "snow_depth_in": 2.0,
       "date": "2026-02-26"
@@ -2202,6 +2525,8 @@
       "longitude": -109.30877,
       "huc": "150601010107",
       "swe_in": 0.6,
+      "swe_median_in": 9.0,
+      "pct_of_median": 6.7,
       "precip_in": 9.8,
       "snow_depth_in": 1.0,
       "date": "2026-02-26"
@@ -2215,6 +2540,8 @@
       "longitude": -109.45872,
       "huc": "150601010104",
       "swe_in": 0.5,
+      "swe_median_in": 7.8,
+      "pct_of_median": 6.4,
       "precip_in": 8.2,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -2228,6 +2555,8 @@
       "longitude": -109.15465,
       "huc": "150400040301",
       "swe_in": 0.4,
+      "swe_median_in": 0.0,
+      "pct_of_median": null,
       "precip_in": 5.0,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -2241,6 +2570,8 @@
       "longitude": -109.48078,
       "huc": "150601010109",
       "swe_in": 0.4,
+      "swe_median_in": 2.6,
+      "pct_of_median": 15.4,
       "precip_in": 9.4,
       "snow_depth_in": 1.0,
       "date": "2026-02-26"
@@ -2254,6 +2585,8 @@
       "longitude": -109.15352,
       "huc": "150400040501",
       "swe_in": 0.3,
+      "swe_median_in": 0.6,
+      "pct_of_median": 50.0,
       "precip_in": 7.7,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -2267,6 +2600,8 @@
       "longitude": -111.60497,
       "huc": "150602020601",
       "swe_in": 0.2,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 16.0,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -2280,6 +2615,8 @@
       "longitude": -112.06221,
       "huc": "150602020305",
       "swe_in": 0.2,
+      "swe_median_in": 1.3,
+      "pct_of_median": 15.4,
       "precip_in": 10.1,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -2293,6 +2630,8 @@
       "longitude": -111.74479,
       "huc": "150200150102",
       "swe_in": 0.2,
+      "swe_median_in": 0.2,
+      "pct_of_median": 100.0,
       "precip_in": 9.7,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -2306,6 +2645,8 @@
       "longitude": -110.75433,
       "huc": "150200100201",
       "swe_in": 0.2,
+      "swe_median_in": 3.3,
+      "pct_of_median": 6.1,
       "precip_in": 12.4,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -2319,6 +2660,8 @@
       "longitude": -112.14966,
       "huc": "150602020204",
       "swe_in": 0.2,
+      "swe_median_in": 2.0,
+      "pct_of_median": 10.0,
       "precip_in": 13.9,
       "snow_depth_in": 1.0,
       "date": "2026-02-26"
@@ -2332,6 +2675,8 @@
       "longitude": -109.05702,
       "huc": "140802040401",
       "swe_in": 0.1,
+      "swe_median_in": 7.5,
+      "pct_of_median": 1.3,
       "precip_in": 10.1,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -2345,6 +2690,8 @@
       "longitude": -108.94327,
       "huc": "150400040303",
       "swe_in": 0.1,
+      "swe_median_in": 2.2,
+      "pct_of_median": 4.5,
       "precip_in": 5.2,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -2358,6 +2705,8 @@
       "longitude": -111.01088,
       "huc": "150200080306",
       "swe_in": 0.1,
+      "swe_median_in": 9.5,
+      "pct_of_median": 1.1,
       "precip_in": 17.3,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -2371,6 +2720,8 @@
       "longitude": -109.36429,
       "huc": "140802030601",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 6.23,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2384,6 +2735,8 @@
       "longitude": -109.1469,
       "huc": "150400040301",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2397,6 +2750,8 @@
       "longitude": -107.88034,
       "huc": "140801040604",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2410,6 +2765,8 @@
       "longitude": -107.87765,
       "huc": "140801040901",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2423,6 +2780,8 @@
       "longitude": -105.76079,
       "huc": "140100010202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2436,6 +2795,8 @@
       "longitude": -109.62209,
       "huc": "140600100805",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2449,6 +2810,8 @@
       "longitude": -106.838,
       "huc": "140100040203",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2462,6 +2825,8 @@
       "longitude": -105.90642,
       "huc": "140100010402",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2475,6 +2840,8 @@
       "longitude": -107.6577,
       "huc": "140500030704",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2488,6 +2855,8 @@
       "longitude": -111.38333,
       "huc": "150602030206",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2501,6 +2870,8 @@
       "longitude": -109.50357,
       "huc": "150200010203",
       "swe_in": 0.0,
+      "swe_median_in": 7.0,
+      "pct_of_median": 0.0,
       "precip_in": 8.0,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -2514,6 +2885,8 @@
       "longitude": -109.21685,
       "huc": "150601010107",
       "swe_in": 0.0,
+      "swe_median_in": 1.2,
+      "pct_of_median": 0.0,
       "precip_in": 7.5,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -2527,6 +2900,8 @@
       "longitude": -109.05704,
       "huc": "140801061701",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2540,6 +2915,8 @@
       "longitude": -109.05,
       "huc": "140802040401",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2553,6 +2930,8 @@
       "longitude": -105.75701,
       "huc": "140100010202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2566,6 +2945,8 @@
       "longitude": -105.7764,
       "huc": "140100010202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2579,6 +2960,8 @@
       "longitude": -109.46542,
       "huc": "140600100205",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2592,6 +2975,8 @@
       "longitude": -106.1599,
       "huc": "140100010407",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2605,6 +2990,8 @@
       "longitude": -107.00074,
       "huc": "140500010102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2618,6 +3005,8 @@
       "longitude": -110.22139,
       "huc": "140600030907",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2631,6 +3020,8 @@
       "longitude": -109.43007,
       "huc": "140401040112",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2644,6 +3035,8 @@
       "longitude": -109.5119,
       "huc": "140401040112",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2657,6 +3050,8 @@
       "longitude": -108.50939,
       "huc": "140401050202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2670,6 +3065,8 @@
       "longitude": -109.7516,
       "huc": "150601010313",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2683,6 +3080,8 @@
       "longitude": -110.57973,
       "huc": "140401070303",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2696,6 +3095,8 @@
       "longitude": -106.8097,
       "huc": "140801010304",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2709,6 +3110,8 @@
       "longitude": -107.33428,
       "huc": "140200020706",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2722,6 +3125,8 @@
       "longitude": -106.06641,
       "huc": "140100020501",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2735,6 +3140,8 @@
       "longitude": -106.33392,
       "huc": "140100020602",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2748,6 +3155,8 @@
       "longitude": -106.05404,
       "huc": "140100020101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2761,6 +3170,8 @@
       "longitude": -107.8988,
       "huc": "140100051302",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2774,6 +3185,8 @@
       "longitude": -108.39709,
       "huc": "150200040201",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2787,6 +3200,8 @@
       "longitude": -109.68956,
       "huc": "140401020602",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2800,6 +3215,8 @@
       "longitude": -108.88029,
       "huc": "150200060301",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2813,6 +3230,8 @@
       "longitude": -108.88029,
       "huc": "150200060301",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2826,6 +3245,8 @@
       "longitude": -108.9256,
       "huc": "150200060301",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2839,6 +3260,8 @@
       "longitude": -106.04314,
       "huc": "140100020102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2852,6 +3275,8 @@
       "longitude": -112.06667,
       "huc": "150100010606",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2865,6 +3290,8 @@
       "longitude": -112.0619,
       "huc": "150100010606",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2878,6 +3305,8 @@
       "longitude": -110.12185,
       "huc": "140600031002",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2891,6 +3320,8 @@
       "longitude": -109.85,
       "huc": "150200050101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2904,6 +3335,8 @@
       "longitude": -106.96352,
       "huc": "140500010102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2917,6 +3350,8 @@
       "longitude": -106.99004,
       "huc": "140500030101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2930,6 +3365,8 @@
       "longitude": -108.8045,
       "huc": "140801061604",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2943,6 +3380,8 @@
       "longitude": -110.86032,
       "huc": "140600070507",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2956,6 +3395,8 @@
       "longitude": -111.5367,
       "huc": "150501001003",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2969,6 +3410,8 @@
       "longitude": -113.12341,
       "huc": "150100080503",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 12.68,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2982,6 +3425,8 @@
       "longitude": -112.06667,
       "huc": "150602020305",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -2995,6 +3440,8 @@
       "longitude": -109.48925,
       "huc": "150200010203",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3008,6 +3455,8 @@
       "longitude": -110.08837,
       "huc": "140401071003",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3021,6 +3470,8 @@
       "longitude": -107.557,
       "huc": "140200020906",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3034,6 +3485,8 @@
       "longitude": -111.23896,
       "huc": "140600090101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3047,6 +3500,8 @@
       "longitude": -106.77361,
       "huc": "140200030508",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3060,6 +3515,8 @@
       "longitude": -106.76156,
       "huc": "140200030509",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3073,6 +3530,8 @@
       "longitude": -111.48349,
       "huc": "140700061105",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3086,6 +3545,8 @@
       "longitude": -106.00419,
       "huc": "140100010501",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3099,6 +3560,8 @@
       "longitude": -105.86723,
       "huc": "140100010309",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3112,6 +3575,8 @@
       "longitude": -108.2662,
       "huc": "140100051407",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3125,6 +3590,8 @@
       "longitude": -109.29345,
       "huc": "140300050302",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3138,6 +3605,8 @@
       "longitude": -107.07801,
       "huc": "140100011508",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3151,6 +3620,8 @@
       "longitude": -105.90057,
       "huc": "140100010309",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3164,6 +3635,8 @@
       "longitude": -106.44003,
       "huc": "140100010905",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3177,6 +3650,8 @@
       "longitude": -111.58787,
       "huc": "140700061105",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3190,6 +3665,8 @@
       "longitude": -109.1535,
       "huc": "150400040501",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3203,6 +3680,8 @@
       "longitude": -106.15535,
       "huc": "140100010601",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3216,6 +3695,8 @@
       "longitude": -108.595,
       "huc": "140802020104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3229,6 +3710,8 @@
       "longitude": -106.42116,
       "huc": "140200010106",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": 33.0,
       "date": "2026-02-26"
@@ -3242,6 +3725,8 @@
       "longitude": -111.18402,
       "huc": "150200080303",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3255,6 +3740,8 @@
       "longitude": -107.60617,
       "huc": "140200021204",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3268,6 +3755,8 @@
       "longitude": -107.00467,
       "huc": "140200010205",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3281,6 +3770,8 @@
       "longitude": -106.9772,
       "huc": "140200010206",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3294,6 +3785,8 @@
       "longitude": -108.1702,
       "huc": "140801070102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3307,6 +3800,8 @@
       "longitude": -107.62384,
       "huc": "140200021101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3320,6 +3815,8 @@
       "longitude": -111.04961,
       "huc": "140600040402",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3333,6 +3830,8 @@
       "longitude": -111.046,
       "huc": "140600040402",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3346,6 +3845,8 @@
       "longitude": -110.90766,
       "huc": "140600040405",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3359,6 +3860,8 @@
       "longitude": -111.05222,
       "huc": "140600040401",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3372,6 +3875,8 @@
       "longitude": -111.05274,
       "huc": "140600040401",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3385,6 +3890,8 @@
       "longitude": -107.7584,
       "huc": "140200060208",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3398,6 +3905,8 @@
       "longitude": -108.43002,
       "huc": "150200040103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3411,6 +3920,8 @@
       "longitude": -110.12729,
       "huc": "140401010701",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3424,6 +3935,8 @@
       "longitude": -108.2283,
       "huc": "140801070101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3437,6 +3950,8 @@
       "longitude": -115.3601,
       "huc": "150100150208",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3450,6 +3965,8 @@
       "longitude": -106.03353,
       "huc": "140100020401",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3463,6 +3980,8 @@
       "longitude": -106.06198,
       "huc": "140100020401",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3476,6 +3995,8 @@
       "longitude": -110.21667,
       "huc": "150400050910",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3489,6 +4010,8 @@
       "longitude": -110.7089,
       "huc": "140600030304",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3502,6 +4025,8 @@
       "longitude": -109.18333,
       "huc": "140300040605",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3515,6 +4040,8 @@
       "longitude": -108.49759,
       "huc": "140300020306",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3528,6 +4055,8 @@
       "longitude": -108.57259,
       "huc": "140300020601",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3541,6 +4070,8 @@
       "longitude": -108.5497,
       "huc": "140802020103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3554,6 +4085,8 @@
       "longitude": -108.5901,
       "huc": "140802020105",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3567,6 +4100,8 @@
       "longitude": -110.3019,
       "huc": "140600030406",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3580,6 +4115,8 @@
       "longitude": -110.44266,
       "huc": "140600030402",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3593,6 +4130,8 @@
       "longitude": -110.06376,
       "huc": "140600031502",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3606,6 +4145,8 @@
       "longitude": -109.78139,
       "huc": "140600031505",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3619,6 +4160,8 @@
       "longitude": -110.60426,
       "huc": "140600030206",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3632,6 +4175,8 @@
       "longitude": -107.0,
       "huc": "140801010505",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3645,6 +4190,8 @@
       "longitude": -106.95366,
       "huc": "140100030606",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3658,6 +4205,8 @@
       "longitude": -111.18402,
       "huc": "150200080303",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3671,6 +4220,8 @@
       "longitude": -110.38379,
       "huc": "140401070202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3684,6 +4235,8 @@
       "longitude": -108.2062,
       "huc": "140801070104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3697,6 +4250,8 @@
       "longitude": -106.84809,
       "huc": "140200010210",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3710,6 +4265,8 @@
       "longitude": -111.26375,
       "huc": "150602030202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3723,6 +4280,8 @@
       "longitude": -109.17193,
       "huc": "140802030109",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 6.62,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3736,6 +4295,8 @@
       "longitude": -109.38259,
       "huc": "140401040601",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3749,6 +4310,8 @@
       "longitude": -110.39864,
       "huc": "140401070202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3762,6 +4325,8 @@
       "longitude": -108.3491,
       "huc": "150200040302",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3775,6 +4340,8 @@
       "longitude": -111.21204,
       "huc": "140600090102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3788,6 +4355,8 @@
       "longitude": -106.95394,
       "huc": "140500010306",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3801,6 +4370,8 @@
       "longitude": -107.3209,
       "huc": "140500010606",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3814,6 +4385,8 @@
       "longitude": -107.3873,
       "huc": "140500010606",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3827,6 +4400,8 @@
       "longitude": -111.43158,
       "huc": "140600090203",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3840,6 +4415,8 @@
       "longitude": -111.31139,
       "huc": "140600070201",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3853,6 +4430,8 @@
       "longitude": -110.7572,
       "huc": "140600030203",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3866,6 +4445,8 @@
       "longitude": -109.43088,
       "huc": "140401040601",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3879,6 +4460,8 @@
       "longitude": -111.22899,
       "huc": "140600090303",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3892,6 +4475,8 @@
       "longitude": -108.2562,
       "huc": "140801070102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3905,6 +4490,8 @@
       "longitude": -111.19101,
       "huc": "140600070205",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3918,6 +4505,8 @@
       "longitude": -111.76699,
       "huc": "140700030108",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3931,6 +4520,8 @@
       "longitude": -111.76693,
       "huc": "140700030108",
       "swe_in": 0.0,
+      "swe_median_in": 8.0,
+      "pct_of_median": 0.0,
       "precip_in": 5.8,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -3944,6 +4535,8 @@
       "longitude": -106.93453,
       "huc": "140500010102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3957,6 +4550,8 @@
       "longitude": -111.66637,
       "huc": "150200150104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3970,6 +4565,8 @@
       "longitude": -109.42239,
       "huc": "140401060805",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3983,6 +4580,8 @@
       "longitude": -109.42291,
       "huc": "140401060805",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -3996,6 +4595,8 @@
       "longitude": -107.66111,
       "huc": "140801040704",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4009,6 +4610,8 @@
       "longitude": -109.25672,
       "huc": "150200110104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4022,6 +4625,8 @@
       "longitude": -109.2571,
       "huc": "150200110104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4035,6 +4640,8 @@
       "longitude": -110.06984,
       "huc": "140401011305",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4048,6 +4655,8 @@
       "longitude": -110.06113,
       "huc": "140401030602",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4061,6 +4670,8 @@
       "longitude": -109.51667,
       "huc": "150200010203",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4074,6 +4685,8 @@
       "longitude": -111.7448,
       "huc": "150200150102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4087,6 +4700,8 @@
       "longitude": -105.75195,
       "huc": "140100010202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4100,6 +4715,8 @@
       "longitude": -111.51879,
       "huc": "140700030301",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4113,6 +4730,8 @@
       "longitude": -107.95446,
       "huc": "140200050105",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4126,6 +4745,8 @@
       "longitude": -107.57843,
       "huc": "140200021203",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4139,6 +4760,8 @@
       "longitude": -106.81861,
       "huc": "140100040505",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4152,6 +4775,8 @@
       "longitude": -107.8139,
       "huc": "140100051202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4165,6 +4790,8 @@
       "longitude": -110.22009,
       "huc": "150400051002",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4178,6 +4805,8 @@
       "longitude": -108.53739,
       "huc": "150400010907",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4191,6 +4820,8 @@
       "longitude": -108.84685,
       "huc": "150400020702",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4204,6 +4835,8 @@
       "longitude": -110.53121,
       "huc": "150501000104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4217,6 +4850,8 @@
       "longitude": -109.47961,
       "huc": "150400050503",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4230,6 +4865,8 @@
       "longitude": -108.2372,
       "huc": "140801070104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4243,6 +4880,8 @@
       "longitude": -107.33847,
       "huc": "140100050102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4256,6 +4895,8 @@
       "longitude": -106.55278,
       "huc": "140100010707",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4269,6 +4910,8 @@
       "longitude": -108.3258,
       "huc": "140100051502",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4282,6 +4925,8 @@
       "longitude": -105.99534,
       "huc": "140100010104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4295,6 +4940,8 @@
       "longitude": -111.96667,
       "huc": "150100010604",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4308,6 +4955,8 @@
       "longitude": -112.15536,
       "huc": "150100040803",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4321,6 +4970,8 @@
       "longitude": -108.54081,
       "huc": "140100051602",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4334,6 +4985,8 @@
       "longitude": -105.8322,
       "huc": "140100010308",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4347,6 +5000,8 @@
       "longitude": -105.8666,
       "huc": "140100010308",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4360,6 +5015,8 @@
       "longitude": -108.3505,
       "huc": "140100051502",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4373,6 +5030,8 @@
       "longitude": -108.2397,
       "huc": "140801070104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4386,6 +5045,8 @@
       "longitude": -106.33026,
       "huc": "140100020504",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4399,6 +5060,8 @@
       "longitude": -109.42291,
       "huc": "140401060805",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4412,6 +5075,8 @@
       "longitude": -110.04981,
       "huc": "140401030602",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4425,6 +5090,8 @@
       "longitude": -110.15125,
       "huc": "140600080208",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4438,6 +5105,8 @@
       "longitude": -110.11886,
       "huc": "140401010306",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4451,6 +5120,8 @@
       "longitude": -109.44902,
       "huc": "140401060101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4464,6 +5135,8 @@
       "longitude": -109.42222,
       "huc": "140401060805",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4477,6 +5150,8 @@
       "longitude": -110.16321,
       "huc": "140401011302",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4490,6 +5165,8 @@
       "longitude": -110.16264,
       "huc": "140600080208",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 2.13,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4503,6 +5180,8 @@
       "longitude": -109.47017,
       "huc": "140401030610",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4516,6 +5195,8 @@
       "longitude": -110.2829,
       "huc": "140600030406",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4529,6 +5210,8 @@
       "longitude": -108.26667,
       "huc": "140300020102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4542,6 +5225,8 @@
       "longitude": -108.29179,
       "huc": "140300020102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4555,6 +5240,8 @@
       "longitude": -113.77556,
       "huc": "150100080804",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4568,6 +5255,8 @@
       "longitude": -107.62228,
       "huc": "140200021101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4581,6 +5270,8 @@
       "longitude": -107.53728,
       "huc": "140200021005",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4594,6 +5285,8 @@
       "longitude": -106.9672,
       "huc": "140200020204",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4607,6 +5300,8 @@
       "longitude": -107.34811,
       "huc": "140200021003",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4620,6 +5315,8 @@
       "longitude": -106.94976,
       "huc": "140200020204",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4633,6 +5330,8 @@
       "longitude": -108.45065,
       "huc": "140200050803",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4646,6 +5345,8 @@
       "longitude": -107.6492,
       "huc": "140200021101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4659,6 +5360,8 @@
       "longitude": -110.8401,
       "huc": "140600030106",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4672,6 +5375,8 @@
       "longitude": -106.49466,
       "huc": "140100040501",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4685,6 +5390,8 @@
       "longitude": -110.70942,
       "huc": "140401070504",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4698,6 +5405,8 @@
       "longitude": -110.66011,
       "huc": "140401070507",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4711,6 +5420,8 @@
       "longitude": -111.4,
       "huc": "150602030101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4724,6 +5435,8 @@
       "longitude": -111.4094,
       "huc": "150602020604",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4737,6 +5450,8 @@
       "longitude": -109.23998,
       "huc": "140300020802",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 4.16,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4750,6 +5465,8 @@
       "longitude": -107.03333,
       "huc": "140500030108",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4763,6 +5480,8 @@
       "longitude": -109.76531,
       "huc": "150601020106",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4776,6 +5495,8 @@
       "longitude": -107.2548,
       "huc": "140500011103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4789,6 +5510,8 @@
       "longitude": -110.38145,
       "huc": "140401060201",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 9.1,
       "snow_depth_in": 29.0,
       "date": "2026-02-26"
@@ -4802,6 +5525,8 @@
       "longitude": -109.0,
       "huc": "140802040102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4815,6 +5540,8 @@
       "longitude": -109.0,
       "huc": "140802040102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4828,6 +5555,8 @@
       "longitude": -107.29974,
       "huc": "140500030207",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4841,6 +5570,8 @@
       "longitude": -115.2236,
       "huc": "150100111405",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4854,6 +5585,8 @@
       "longitude": -106.46311,
       "huc": "140100030204",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4867,6 +5600,8 @@
       "longitude": -110.5091,
       "huc": "150200140404",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 4.28,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4880,6 +5615,8 @@
       "longitude": -106.67912,
       "huc": "140100040105",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4893,6 +5630,8 @@
       "longitude": -111.26245,
       "huc": "140600090101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4906,6 +5645,8 @@
       "longitude": -111.2086,
       "huc": "140600090102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4919,6 +5660,8 @@
       "longitude": -111.08823,
       "huc": "140600090105",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4932,6 +5675,8 @@
       "longitude": -110.94355,
       "huc": "140600090105",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4945,6 +5690,8 @@
       "longitude": -111.30494,
       "huc": "140600070201",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4958,6 +5705,8 @@
       "longitude": -106.61211,
       "huc": "140100040101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4971,6 +5720,8 @@
       "longitude": -107.6622,
       "huc": "140200060201",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4984,6 +5735,8 @@
       "longitude": -113.71329,
       "huc": "150100080808",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -4997,6 +5750,8 @@
       "longitude": -112.51995,
       "huc": "150100030505",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5010,6 +5765,8 @@
       "longitude": -108.27398,
       "huc": "140801070103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5023,6 +5780,8 @@
       "longitude": -110.7379,
       "huc": "140600030205",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5036,6 +5795,8 @@
       "longitude": -111.27017,
       "huc": "140600090205",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5049,6 +5810,8 @@
       "longitude": -105.90698,
       "huc": "140100010402",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5062,6 +5825,8 @@
       "longitude": -110.53328,
       "huc": "140401070603",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5075,6 +5840,8 @@
       "longitude": -109.42845,
       "huc": "140300050403",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5088,6 +5855,8 @@
       "longitude": -107.0412,
       "huc": "140200010204",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5101,6 +5870,8 @@
       "longitude": -109.4439,
       "huc": "150200110108",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5114,6 +5885,8 @@
       "longitude": -110.41408,
       "huc": "140600030402",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5127,6 +5900,8 @@
       "longitude": -113.03583,
       "huc": "150100080106",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5140,6 +5915,8 @@
       "longitude": -115.67467,
       "huc": "150100150301",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5153,6 +5930,8 @@
       "longitude": -115.60852,
       "huc": "150100150301",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 17.04,
       "snow_depth_in": 5.0,
       "date": "2026-02-26"
@@ -5166,6 +5945,8 @@
       "longitude": -108.04063,
       "huc": "140801050102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5179,6 +5960,8 @@
       "longitude": -107.25242,
       "huc": "140200020602",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5192,6 +5975,8 @@
       "longitude": -107.23005,
       "huc": "140200020608",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5205,6 +5990,8 @@
       "longitude": -110.52711,
       "huc": "140600030604",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5218,6 +6005,8 @@
       "longitude": -110.48461,
       "huc": "140600030605",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5231,6 +6020,8 @@
       "longitude": -105.86667,
       "huc": "140100010308",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5244,6 +6035,8 @@
       "longitude": -114.15717,
       "huc": "150301010713",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5257,6 +6050,8 @@
       "longitude": -105.81667,
       "huc": "140100010302",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5270,6 +6065,8 @@
       "longitude": -111.45243,
       "huc": "150200150202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5283,6 +6080,8 @@
       "longitude": -111.59222,
       "huc": "150200150204",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5296,6 +6095,8 @@
       "longitude": -114.73333,
       "huc": "150100051310",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5309,6 +6110,8 @@
       "longitude": -114.5702,
       "huc": "150301010217",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5322,6 +6125,8 @@
       "longitude": -111.4845,
       "huc": "140700061008",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5335,6 +6140,8 @@
       "longitude": -105.89031,
       "huc": "140100010203",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5348,6 +6155,8 @@
       "longitude": -106.25,
       "huc": "140200030103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5361,6 +6170,8 @@
       "longitude": -115.16343,
       "huc": "150100150704",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5374,6 +6185,8 @@
       "longitude": -109.2896,
       "huc": "140300050404",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5387,6 +6200,8 @@
       "longitude": -111.04868,
       "huc": "140600040402",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5400,6 +6215,8 @@
       "longitude": -108.2576,
       "huc": "140801070102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5413,6 +6230,8 @@
       "longitude": -115.69664,
       "huc": "150100150206",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5426,6 +6245,8 @@
       "longitude": -107.67275,
       "huc": "140801040702",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5439,6 +6260,8 @@
       "longitude": -107.66019,
       "huc": "140801040703",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5452,6 +6275,8 @@
       "longitude": -106.96851,
       "huc": "140500010102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5465,6 +6290,8 @@
       "longitude": -109.36231,
       "huc": "150200010409",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5478,6 +6305,8 @@
       "longitude": -110.04428,
       "huc": "150200020709",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5491,6 +6320,8 @@
       "longitude": -106.81056,
       "huc": "140801010604",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5504,6 +6335,8 @@
       "longitude": -110.30464,
       "huc": "140600030406",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 2.32,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5517,6 +6350,8 @@
       "longitude": -107.54886,
       "huc": "140500030704",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5530,6 +6365,8 @@
       "longitude": -108.42432,
       "huc": "140500031102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5543,6 +6380,8 @@
       "longitude": -107.14339,
       "huc": "140500030110",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5556,6 +6395,8 @@
       "longitude": -108.2041,
       "huc": "140801070101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5569,6 +6410,8 @@
       "longitude": -107.83203,
       "huc": "150400010402",
       "swe_in": 0.0,
+      "swe_median_in": 0.3,
+      "pct_of_median": 0.0,
       "precip_in": 5.4,
       "snow_depth_in": 1.0,
       "date": "2026-02-26"
@@ -5582,6 +6425,8 @@
       "longitude": -107.57756,
       "huc": "140801011401",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5595,6 +6440,8 @@
       "longitude": -106.62019,
       "huc": "140100040102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5608,6 +6455,8 @@
       "longitude": -109.38482,
       "huc": "150200010409",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5621,6 +6470,8 @@
       "longitude": -108.3161,
       "huc": "140801070104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5634,6 +6485,8 @@
       "longitude": -108.2548,
       "huc": "140801070104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5647,6 +6500,8 @@
       "longitude": -106.75242,
       "huc": "140100030401",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5660,6 +6515,8 @@
       "longitude": -109.86002,
       "huc": "150200050101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5673,6 +6530,8 @@
       "longitude": -109.33776,
       "huc": "140802010508",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 5.11,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5686,6 +6545,8 @@
       "longitude": -108.45764,
       "huc": "150200040201",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5699,6 +6560,8 @@
       "longitude": -108.57076,
       "huc": "140300020406",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5712,6 +6575,8 @@
       "longitude": -110.58067,
       "huc": "140401070303",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5725,6 +6590,8 @@
       "longitude": -108.08205,
       "huc": "140100051308",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5738,6 +6605,8 @@
       "longitude": -108.4893,
       "huc": "140801070206",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5751,6 +6620,8 @@
       "longitude": -106.0224,
       "huc": "140100010402",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5764,6 +6635,8 @@
       "longitude": -106.68561,
       "huc": "140100040105",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5777,6 +6650,8 @@
       "longitude": -109.40502,
       "huc": "140300050404",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5790,6 +6665,8 @@
       "longitude": -111.24222,
       "huc": "140600090101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5803,6 +6680,8 @@
       "longitude": -111.18794,
       "huc": "140600090304",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5816,6 +6695,8 @@
       "longitude": -105.83912,
       "huc": "140100010302",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5829,6 +6710,8 @@
       "longitude": -108.83333,
       "huc": "140801061603",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5842,6 +6725,8 @@
       "longitude": -108.83333,
       "huc": "140801061603",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5855,6 +6740,8 @@
       "longitude": -110.48989,
       "huc": "140600030604",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5868,6 +6755,8 @@
       "longitude": -111.50919,
       "huc": "150200150202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5881,6 +6770,8 @@
       "longitude": -107.53333,
       "huc": "140200021005",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5894,6 +6785,8 @@
       "longitude": -109.88404,
       "huc": "140600100702",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5907,6 +6800,8 @@
       "longitude": -110.40602,
       "huc": "140600030802",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 2.77,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5920,6 +6815,8 @@
       "longitude": -110.33747,
       "huc": "140401070207",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5933,6 +6830,8 @@
       "longitude": -106.39809,
       "huc": "140100010709",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5946,6 +6845,8 @@
       "longitude": -107.35811,
       "huc": "140200040403",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5959,6 +6860,8 @@
       "longitude": -111.25389,
       "huc": "140700020204",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5972,6 +6875,8 @@
       "longitude": -106.41392,
       "huc": "140100010709",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5985,6 +6890,8 @@
       "longitude": -110.1134,
       "huc": "140600030806",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -5998,6 +6905,8 @@
       "longitude": -108.62943,
       "huc": "140802020105",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6011,6 +6920,8 @@
       "longitude": -106.61306,
       "huc": "140100040504",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6024,6 +6935,8 @@
       "longitude": -107.61374,
       "huc": "140801011901",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6037,6 +6950,8 @@
       "longitude": -106.73722,
       "huc": "140801010606",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6050,6 +6965,8 @@
       "longitude": -107.60937,
       "huc": "140801011605",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6063,6 +6980,8 @@
       "longitude": -109.93015,
       "huc": "140401020606",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6076,6 +6995,8 @@
       "longitude": -111.68333,
       "huc": "150602020502",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6089,6 +7010,8 @@
       "longitude": -107.43422,
       "huc": "140200040403",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6102,6 +7025,8 @@
       "longitude": -106.71938,
       "huc": "140100040105",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6115,6 +7040,8 @@
       "longitude": -110.968,
       "huc": "150503010311",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6128,6 +7055,8 @@
       "longitude": -105.76553,
       "huc": "140100010305",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6141,6 +7070,8 @@
       "longitude": -109.15517,
       "huc": "150400040301",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6154,6 +7085,8 @@
       "longitude": -111.89099,
       "huc": "150602020511",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6167,6 +7100,8 @@
       "longitude": -111.76182,
       "huc": "150602020508",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6180,6 +7115,8 @@
       "longitude": -106.7372,
       "huc": "140801010606",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6193,6 +7130,8 @@
       "longitude": -114.4582,
       "huc": "150100120904",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6206,6 +7145,8 @@
       "longitude": -111.44874,
       "huc": "140700061008",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6219,6 +7160,8 @@
       "longitude": -106.9941,
       "huc": "140801010406",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6232,6 +7175,8 @@
       "longitude": -107.35163,
       "huc": "140200040401",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6245,6 +7190,8 @@
       "longitude": -106.59031,
       "huc": "140200010107",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6258,6 +7205,8 @@
       "longitude": -111.3446,
       "huc": "150602030204",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6271,6 +7220,8 @@
       "longitude": -105.84606,
       "huc": "140100010302",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6284,6 +7235,8 @@
       "longitude": -112.00365,
       "huc": "150601060306",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6297,6 +7250,8 @@
       "longitude": -107.39782,
       "huc": "140801020503",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6310,6 +7265,8 @@
       "longitude": -109.77353,
       "huc": "140401020102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6323,6 +7280,8 @@
       "longitude": -111.63601,
       "huc": "140700050106",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6336,6 +7295,8 @@
       "longitude": -115.20422,
       "huc": "150100150202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 7.74,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -6349,6 +7310,8 @@
       "longitude": -107.3178,
       "huc": "140801011101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6362,6 +7325,8 @@
       "longitude": -109.86233,
       "huc": "140401020103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6375,6 +7340,8 @@
       "longitude": -110.3965,
       "huc": "140600030402",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6388,6 +7355,8 @@
       "longitude": -108.26834,
       "huc": "140100051310",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6401,6 +7370,8 @@
       "longitude": -110.9659,
       "huc": "150601030402",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6414,6 +7385,8 @@
       "longitude": -109.41118,
       "huc": "140401020505",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6427,6 +7400,8 @@
       "longitude": -109.4112,
       "huc": "140401020505",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6440,6 +7415,8 @@
       "longitude": -106.34111,
       "huc": "140200030105",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6453,6 +7430,8 @@
       "longitude": -112.4322,
       "huc": "150602020102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6466,6 +7445,8 @@
       "longitude": -110.80604,
       "huc": "140600070603",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 2.88,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6479,6 +7460,8 @@
       "longitude": -111.12017,
       "huc": "140600070206",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6492,6 +7475,8 @@
       "longitude": -110.86385,
       "huc": "140600070507",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6505,6 +7490,8 @@
       "longitude": -113.38098,
       "huc": "150100080906",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6518,6 +7505,8 @@
       "longitude": -108.4889,
       "huc": "150200040103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6531,6 +7520,8 @@
       "longitude": -105.74165,
       "huc": "140100010204",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6544,6 +7535,8 @@
       "longitude": -108.2598,
       "huc": "140801070104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6557,6 +7550,8 @@
       "longitude": -109.47651,
       "huc": "140802010302",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6570,6 +7565,8 @@
       "longitude": -109.42272,
       "huc": "140600100205",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6583,6 +7580,8 @@
       "longitude": -110.8442,
       "huc": "140600030107",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6596,6 +7595,8 @@
       "longitude": -110.91982,
       "huc": "140600030102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6609,6 +7610,8 @@
       "longitude": -107.75696,
       "huc": "140200060209",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6622,6 +7625,8 @@
       "longitude": -107.28333,
       "huc": "140500050102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6635,6 +7640,8 @@
       "longitude": -106.81222,
       "huc": "140801010304",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6648,6 +7655,8 @@
       "longitude": -108.55297,
       "huc": "150200040203",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6661,6 +7670,8 @@
       "longitude": -107.33083,
       "huc": "140100041003",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6674,6 +7685,8 @@
       "longitude": -110.69794,
       "huc": "140600030305",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6687,6 +7700,8 @@
       "longitude": -110.57723,
       "huc": "140600030306",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6700,6 +7715,8 @@
       "longitude": -109.0529,
       "huc": "140401050903",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6713,6 +7730,8 @@
       "longitude": -110.52945,
       "huc": "140401010402",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6726,6 +7745,8 @@
       "longitude": -106.81664,
       "huc": "140100040505",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6739,6 +7760,8 @@
       "longitude": -108.1596,
       "huc": "140801070102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6752,6 +7775,8 @@
       "longitude": -109.6808,
       "huc": "150400050701",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6765,6 +7790,8 @@
       "longitude": -110.9215,
       "huc": "150601030905",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6778,6 +7805,8 @@
       "longitude": -111.53583,
       "huc": "150601060113",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6791,6 +7820,8 @@
       "longitude": -108.2321,
       "huc": "140801070104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6804,6 +7835,8 @@
       "longitude": -110.52788,
       "huc": "150400051010",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6817,6 +7850,8 @@
       "longitude": -109.29902,
       "huc": "150400040905",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6830,6 +7865,8 @@
       "longitude": -108.88,
       "huc": "150400040807",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6843,6 +7880,8 @@
       "longitude": -109.86669,
       "huc": "140802050406",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6856,6 +7895,8 @@
       "longitude": -107.69864,
       "huc": "140801011901",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6869,6 +7910,8 @@
       "longitude": -107.31227,
       "huc": "140801010803",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6882,6 +7925,8 @@
       "longitude": -108.11029,
       "huc": "140300030305",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6895,6 +7940,8 @@
       "longitude": -110.1751,
       "huc": "150502020706",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6908,6 +7955,8 @@
       "longitude": -110.37015,
       "huc": "140600091007",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6921,6 +7970,8 @@
       "longitude": -113.35615,
       "huc": "150100080907",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 3.56,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6934,6 +7985,8 @@
       "longitude": -113.37472,
       "huc": "150100080907",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6947,6 +8000,8 @@
       "longitude": -113.48329,
       "huc": "150100080702",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6960,6 +8015,8 @@
       "longitude": -106.42398,
       "huc": "140200030105",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6973,6 +8030,8 @@
       "longitude": -111.12573,
       "huc": "140600070206",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6986,6 +8045,8 @@
       "longitude": -114.92161,
       "huc": "150301020104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -6999,6 +8060,8 @@
       "longitude": -111.26944,
       "huc": "140600090205",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7012,6 +8075,8 @@
       "longitude": -111.64797,
       "huc": "140700030103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7025,6 +8090,8 @@
       "longitude": -105.8414,
       "huc": "140100010308",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7038,6 +8105,8 @@
       "longitude": -107.2267,
       "huc": "140100011604",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7051,6 +8120,8 @@
       "longitude": -106.21667,
       "huc": "140100030101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7064,6 +8135,8 @@
       "longitude": -110.28073,
       "huc": "150502020703",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7077,6 +8150,8 @@
       "longitude": -108.14546,
       "huc": "150400010803",
       "swe_in": 0.0,
+      "swe_median_in": 1.8,
+      "pct_of_median": 0.0,
       "precip_in": 9.6,
       "snow_depth_in": 0.0,
       "date": "2026-02-26"
@@ -7090,6 +8165,8 @@
       "longitude": -107.54173,
       "huc": "140200020902",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7103,6 +8180,8 @@
       "longitude": -107.6633,
       "huc": "140801040104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7116,6 +8195,8 @@
       "longitude": -106.95337,
       "huc": "140200010206",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7129,6 +8210,8 @@
       "longitude": -106.96949,
       "huc": "140200010206",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7142,6 +8225,8 @@
       "longitude": -108.2598,
       "huc": "140801070104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7155,6 +8240,8 @@
       "longitude": -108.2105,
       "huc": "140801070101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7168,6 +8255,8 @@
       "longitude": -105.92429,
       "huc": "140100020201",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7181,6 +8270,8 @@
       "longitude": -111.68755,
       "huc": "150200150102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7194,6 +8285,8 @@
       "longitude": -109.36956,
       "huc": "140802030103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7207,6 +8300,8 @@
       "longitude": -107.67642,
       "huc": "140801011502",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 6.46,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7220,6 +8315,8 @@
       "longitude": -107.8152,
       "huc": "140100051202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7233,6 +8330,8 @@
       "longitude": -108.1469,
       "huc": "140801070102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7246,6 +8345,8 @@
       "longitude": -109.35326,
       "huc": "140600101102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 2.42,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7259,6 +8360,8 @@
       "longitude": -111.26189,
       "huc": "140700050701",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 4.7,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7272,6 +8375,8 @@
       "longitude": -106.834,
       "huc": "140500010111",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7285,6 +8390,8 @@
       "longitude": -110.44801,
       "huc": "140600040806",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7298,6 +8405,8 @@
       "longitude": -109.05,
       "huc": "150400040502",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7311,6 +8420,8 @@
       "longitude": -110.38626,
       "huc": "140401070202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7324,6 +8435,8 @@
       "longitude": -106.8233,
       "huc": "140500010409",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7337,6 +8450,8 @@
       "longitude": -109.53403,
       "huc": "140600100901",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7350,6 +8465,8 @@
       "longitude": -110.70433,
       "huc": "140600030305",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7363,6 +8480,8 @@
       "longitude": -111.10857,
       "huc": "140600040105",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7376,6 +8495,8 @@
       "longitude": -110.55488,
       "huc": "140600040805",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7389,6 +8510,8 @@
       "longitude": -111.02489,
       "huc": "140600040106",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7402,6 +8525,8 @@
       "longitude": -111.17989,
       "huc": "140600040103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7415,6 +8540,8 @@
       "longitude": -107.92118,
       "huc": "140200050111",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7428,6 +8555,8 @@
       "longitude": -111.1979,
       "huc": "140600040103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7441,6 +8570,8 @@
       "longitude": -106.84531,
       "huc": "140200010113",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7454,6 +8585,8 @@
       "longitude": -106.6086,
       "huc": "140200010113",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7467,6 +8600,8 @@
       "longitude": -106.60511,
       "huc": "140200010107",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7480,6 +8615,8 @@
       "longitude": -106.6092,
       "huc": "140200010113",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7493,6 +8630,8 @@
       "longitude": -107.80899,
       "huc": "140300030106",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7506,6 +8645,8 @@
       "longitude": -107.8736,
       "huc": "140300030106",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7519,6 +8660,8 @@
       "longitude": -106.94096,
       "huc": "140200030605",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7532,6 +8675,8 @@
       "longitude": -106.42262,
       "huc": "140200030105",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7545,6 +8690,8 @@
       "longitude": -111.30346,
       "huc": "150601050311",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7558,6 +8705,8 @@
       "longitude": -108.2564,
       "huc": "140801070102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7571,6 +8720,8 @@
       "longitude": -107.8836,
       "huc": "140300030102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7584,6 +8735,8 @@
       "longitude": -107.88416,
       "huc": "140300030102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7597,6 +8750,8 @@
       "longitude": -109.1,
       "huc": "140802040401",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7610,6 +8765,8 @@
       "longitude": -109.1,
       "huc": "140802040401",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7623,6 +8780,8 @@
       "longitude": -109.10863,
       "huc": "140802040401",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7636,6 +8795,8 @@
       "longitude": -109.1,
       "huc": "140802040401",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7649,6 +8810,8 @@
       "longitude": -110.95638,
       "huc": "150503010902",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7662,6 +8825,8 @@
       "longitude": -110.42575,
       "huc": "140600030605",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7675,6 +8840,8 @@
       "longitude": -110.11433,
       "huc": "140600031104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7688,6 +8855,8 @@
       "longitude": -107.77923,
       "huc": "140200060302",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7701,6 +8870,8 @@
       "longitude": -107.76031,
       "huc": "140200060209",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7714,6 +8885,8 @@
       "longitude": -107.7459,
       "huc": "140200060209",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7727,6 +8900,8 @@
       "longitude": -106.83333,
       "huc": "140801010203",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7740,6 +8915,8 @@
       "longitude": -110.69971,
       "huc": "140600030305",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7753,6 +8930,8 @@
       "longitude": -107.5812,
       "huc": "140801011401",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7766,6 +8945,8 @@
       "longitude": -107.57558,
       "huc": "140801011205",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7779,6 +8960,8 @@
       "longitude": -105.82186,
       "huc": "140100010201",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7792,6 +8975,8 @@
       "longitude": -111.00467,
       "huc": "140600030103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7805,6 +8990,8 @@
       "longitude": -107.81173,
       "huc": "140100051202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7818,6 +9005,8 @@
       "longitude": -111.71626,
       "huc": "150602030409",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7831,6 +9020,8 @@
       "longitude": -111.62988,
       "huc": "150602030509",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7844,6 +9035,8 @@
       "longitude": -112.19252,
       "huc": "140700070405",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 7.9,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7857,6 +9050,8 @@
       "longitude": -105.79155,
       "huc": "140100020202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7870,6 +9065,8 @@
       "longitude": -113.92441,
       "huc": "150100100602",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7883,6 +9080,8 @@
       "longitude": -113.18078,
       "huc": "150100080508",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7896,6 +9095,8 @@
       "longitude": -113.39523,
       "huc": "150100080909",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7909,6 +9110,8 @@
       "longitude": -110.6502,
       "huc": "140401070505",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7922,6 +9125,8 @@
       "longitude": -106.66411,
       "huc": "140200030201",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7935,6 +9140,8 @@
       "longitude": -110.83683,
       "huc": "140600030103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7948,6 +9155,8 @@
       "longitude": -110.05185,
       "huc": "150502020707",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 4.58,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7961,6 +9170,8 @@
       "longitude": -107.97841,
       "huc": "140402000705",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7974,6 +9185,8 @@
       "longitude": -111.03893,
       "huc": "140600040404",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -7987,6 +9200,8 @@
       "longitude": -108.2549,
       "huc": "140801070104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8000,6 +9215,8 @@
       "longitude": -108.2106,
       "huc": "140801070101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8013,6 +9230,8 @@
       "longitude": -108.211,
       "huc": "140801070101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8026,6 +9245,8 @@
       "longitude": -107.3217,
       "huc": "140801011101",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8039,6 +9260,8 @@
       "longitude": -109.12745,
       "huc": "140300050503",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 6.43,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8052,6 +9275,8 @@
       "longitude": -111.00361,
       "huc": "140600030103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8065,6 +9290,8 @@
       "longitude": -109.0667,
       "huc": "140802040102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8078,6 +9305,8 @@
       "longitude": -108.95,
       "huc": "140802040206",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8091,6 +9320,8 @@
       "longitude": -108.95,
       "huc": "140802040206",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8104,6 +9335,8 @@
       "longitude": -111.03752,
       "huc": "140600070103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8117,6 +9350,8 @@
       "longitude": -107.8623,
       "huc": "140500050310",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8130,6 +9365,8 @@
       "longitude": -109.17873,
       "huc": "140500070705",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8143,6 +9380,8 @@
       "longitude": -115.37929,
       "huc": "150100110302",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8156,6 +9395,8 @@
       "longitude": -115.37922,
       "huc": "150100110302",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": 9.6,
       "snow_depth_in": 3.0,
       "date": "2026-02-26"
@@ -8169,6 +9410,8 @@
       "longitude": -109.93238,
       "huc": "140600031204",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8182,6 +9425,8 @@
       "longitude": -109.8369,
       "huc": "150502010604",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8195,6 +9440,8 @@
       "longitude": -112.1929,
       "huc": "150100040502",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8208,6 +9455,8 @@
       "longitude": -107.2178,
       "huc": "140801020103",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8221,6 +9470,8 @@
       "longitude": -108.1952,
       "huc": "140801070104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8234,6 +9485,8 @@
       "longitude": -106.20502,
       "huc": "140100010407",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8247,6 +9500,8 @@
       "longitude": -106.18037,
       "huc": "140100010407",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8260,6 +9515,8 @@
       "longitude": -106.20574,
       "huc": "140100010407",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8273,6 +9530,8 @@
       "longitude": -112.19422,
       "huc": "150100040502",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8286,6 +9545,8 @@
       "longitude": -105.94002,
       "huc": "140100010104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8299,6 +9560,8 @@
       "longitude": -106.1,
       "huc": "140100010102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8312,6 +9575,8 @@
       "longitude": -105.94263,
       "huc": "140100010104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8325,6 +9590,8 @@
       "longitude": -111.00867,
       "huc": "140600030102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8338,6 +9605,8 @@
       "longitude": -110.72206,
       "huc": "150200080701",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8351,6 +9620,8 @@
       "longitude": -105.76206,
       "huc": "140100010202",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8364,6 +9635,8 @@
       "longitude": -106.41503,
       "huc": "140100010709",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8377,6 +9650,8 @@
       "longitude": -110.91852,
       "huc": "150601030802",
       "swe_in": 0.0,
+      "swe_median_in": 2.2,
+      "pct_of_median": 0.0,
       "precip_in": 16.5,
       "snow_depth_in": 4.0,
       "date": "2026-02-26"
@@ -8390,6 +9665,8 @@
       "longitude": -106.3525,
       "huc": "140100030201",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8403,6 +9680,8 @@
       "longitude": -106.3609,
       "huc": "140100030201",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8416,6 +9695,8 @@
       "longitude": -107.04744,
       "huc": "140500010102",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8429,6 +9710,8 @@
       "longitude": -106.91103,
       "huc": "140500010104",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8442,6 +9725,8 @@
       "longitude": -106.89177,
       "huc": "140500010111",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8455,6 +9740,8 @@
       "longitude": -106.83243,
       "huc": "140500010409",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8468,6 +9755,8 @@
       "longitude": -106.82906,
       "huc": "140500010111",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8481,6 +9770,8 @@
       "longitude": -108.03342,
       "huc": "140500020406",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8494,6 +9785,8 @@
       "longitude": -106.77328,
       "huc": "140500010402",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8507,6 +9800,8 @@
       "longitude": -110.34155,
       "huc": "140600030705",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"
@@ -8520,6 +9815,8 @@
       "longitude": -108.75167,
       "huc": "150200040313",
       "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
       "date": "2026-02-26"

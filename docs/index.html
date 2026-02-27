@@ -137,9 +137,11 @@
       border-radius: 50%;
       display: inline-block;
     }
-    .legend-dot.gauge { background: var(--blue); }
-    .legend-dot.reservoir { background: var(--amber); }
-    .legend-dot.snotel { background: var(--teal); opacity: 0.7; }
+    .legend-dot.above { background: var(--green); }
+    .legend-dot.normal { background: var(--blue); }
+    .legend-dot.below { background: var(--amber); }
+    .legend-dot.critical { background: var(--red); }
+    .legend-dot.reservoir { background: var(--amber); border: 2px solid var(--text); }
 
     /* Leaflet popup overrides */
     .leaflet-popup-content-wrapper {
@@ -284,18 +286,19 @@
       color: var(--text);
     }
     .data-table tr:hover td { background: var(--surface); }
-    .swe-chip {
+    .swe-chip, .dev-chip {
       display: inline-block;
       padding: 2px 8px;
       border-radius: 4px;
       font-size: 0.72rem;
       font-weight: 600;
     }
-    .swe-high { background: rgba(31,200,192,0.15); color: var(--teal); }
-    .swe-med  { background: rgba(59,158,255,0.12); color: var(--blue); }
-    .swe-low  { background: rgba(245,166,35,0.12); color: var(--amber); }
-    .swe-zero { background: rgba(90,122,154,0.1); color: var(--muted); }
-    .flow-val { color: var(--blue); font-weight: 600; }
+    .dev-above  { background: rgba(76,175,125,0.15); color: var(--green); }
+    .dev-normal { background: rgba(59,158,255,0.12); color: var(--blue); }
+    .dev-below  { background: rgba(245,166,35,0.12); color: var(--amber); }
+    .dev-critical { background: rgba(224,82,82,0.15); color: var(--red); }
+    .dev-none   { background: rgba(90,122,154,0.1); color: var(--muted); }
+    .flow-val { font-weight: 600; }
 
     .toggle-btn {
       background: none;
@@ -419,12 +422,29 @@ function fillClass(pct) {
   return '';
 }
 
-function sweClass(v) {
-  if (v === null || v === undefined) return 'swe-zero';
-  if (v >= 15) return 'swe-high';
-  if (v >= 5)  return 'swe-med';
-  if (v > 0)   return 'swe-low';
-  return 'swe-zero';
+// Deviation from median: green = above, blue = normal, amber = below, red = critical
+function devClass(pct) {
+  if (pct === null || pct === undefined) return 'dev-none';
+  if (pct >= 110) return 'dev-above';
+  if (pct >= 90)  return 'dev-normal';
+  if (pct >= 70)  return 'dev-below';
+  return 'dev-critical';
+}
+
+function devColor(pct) {
+  if (pct === null || pct === undefined) return '#5a7a9a';
+  if (pct >= 110) return '#4caf7d';  // green — above average
+  if (pct >= 90)  return '#3b9eff';  // blue — average
+  if (pct >= 70)  return '#f5a623';  // amber — below average
+  return '#e05252';                   // red — significantly below
+}
+
+function devLabel(pct) {
+  if (pct === null || pct === undefined) return '';
+  if (pct >= 110) return 'above avg';
+  if (pct >= 90)  return 'normal';
+  if (pct >= 70)  return 'below avg';
+  return 'critical';
 }
 
 function ago(isoStr) {
@@ -452,7 +472,9 @@ function basinContext(d) {
 
   let snowNote = '';
   if (sp.mean_swe_in !== null) {
-    snowNote = `Across <span class="highlight-blue">${sp.stations_reporting}</span> SNOTEL stations in the basin headwaters, mean snow water equivalent is <span class="highlight">${fmt(sp.mean_swe_in, 1)}"</span> (range ${fmt(sp.min_swe_in, 1)}" \u2013 ${fmt(sp.max_swe_in, 1)}"). This snowpack is the basin's forward water supply \u2014 spring runoff feeds rivers, reservoirs, and 40 million people downstream.`;
+    const pctMed = sp.mean_pct_of_median;
+    const pctStr = pctMed !== null ? ` (<span class="${devClass(pctMed)}" style="padding:1px 6px;border-radius:3px">${fmt(pctMed, 0)}% of median</span>)` : '';
+    snowNote = `Across <span class="highlight-blue">${sp.stations_reporting}</span> SNOTEL stations in the basin headwaters, mean snow water equivalent is <span class="highlight">${fmt(sp.mean_swe_in, 1)}"</span>${pctStr}. This snowpack is the basin's forward water supply \u2014 spring runoff feeds rivers, reservoirs, and 40 million people downstream.`;
   }
 
   let flowNote = '';
@@ -482,52 +504,63 @@ function initMap(d) {
     .addAttribution('CartoDB Dark Matter')
     .addTo(map);
 
-  // Gauge markers
+  // Gauge markers — colored by % of median discharge
   for (const g of d.gauges) {
     if (!g.latitude) continue;
     const q = g.parameters?.['00060'];
     const h = g.parameters?.['00065'];
+    const pct = g.pct_of_median;
+    const clr = devColor(pct);
     const marker = L.circleMarker([g.latitude, g.longitude], {
-      radius: 7, color: '#3b9eff', fillColor: '#3b9eff',
-      fillOpacity: 0.7, weight: 1.5,
+      radius: 8, color: clr, fillColor: clr,
+      fillOpacity: 0.75, weight: 1.5,
     }).addTo(map);
+    const pctLine = pct !== null ? `<div style="margin-top:2px"><span class="dev-chip ${devClass(pct)}">${fmt(pct, 0)}% of median</span> <span style="color:#5a7a9a;font-size:0.65rem">(median: ${fmt(g.median_discharge_cfs)} cfs)</span></div>` : '';
     marker.bindPopup(`
       <div class="popup-title">${g.name}</div>
       ${q ? `<div>Discharge: <span class="popup-val">${fmt(q.value)} cfs</span></div>` : ''}
       ${h ? `<div>Gage height: <span class="popup-val">${fmt(h.value, 2)} ft</span></div>` : ''}
+      ${pctLine}
       <div style="color:#5a7a9a;font-size:0.7rem;margin-top:4px">USGS ${g.site_id} \u00b7 ${ago(q?.datetime || h?.datetime)}</div>
     `);
   }
 
-  // Reservoir markers
+  // Reservoir markers — colored by % of median capacity
   for (const r of d.reservoirs) {
     if (!r.latitude) continue;
+    const pct = r.pct_of_median;
+    const clr = devColor(pct);
     const marker = L.circleMarker([r.latitude, r.longitude], {
-      radius: 12, color: '#f5a623', fillColor: '#f5a623',
-      fillOpacity: 0.6, weight: 2,
+      radius: 14, color: '#c9d8e8', fillColor: clr,
+      fillOpacity: 0.7, weight: 2,
     }).addTo(map);
+    const pctLine = pct !== null ? `<div style="margin-top:2px"><span class="dev-chip ${devClass(pct)}">${fmt(pct, 0)}% of median</span></div>` : '';
     marker.bindPopup(`
       <div class="popup-title">${r.name}</div>
       <div>Elevation: <span class="popup-val">${fmt(r.elevation_ft, 1)} ft</span></div>
-      <div>Capacity: <span class="popup-val">${fmt(r.fill_pct, 1)}%</span></div>
+      <div>Capacity: <span class="popup-val">${fmt(r.fill_pct, 1)}%</span> usable</div>
+      ${pctLine}
       <div style="color:#5a7a9a;font-size:0.7rem;margin-top:4px">${ago(r.datetime)}</div>
     `);
   }
 
-  // SNOTEL markers (smaller, translucent)
+  // SNOTEL markers — colored by % of median SWE
   const snotelStations = (d.snowpack_stations || []).filter(s => s.latitude && s.swe_in !== null);
   for (const s of snotelStations) {
     const swe = s.swe_in || 0;
+    const pct = s.pct_of_median;
+    const clr = devColor(pct);
     const r = Math.max(3, Math.min(8, swe / 3));
-    const opacity = Math.max(0.3, Math.min(0.8, swe / 20));
     const marker = L.circleMarker([s.latitude, s.longitude], {
-      radius: r, color: '#1fc8c0', fillColor: '#1fc8c0',
-      fillOpacity: opacity, weight: 0.5,
+      radius: r, color: clr, fillColor: clr,
+      fillOpacity: 0.7, weight: 0.5,
     }).addTo(map);
+    const pctLine = pct !== null ? `<div style="margin-top:2px"><span class="dev-chip ${devClass(pct)}">${fmt(pct, 0)}% of median</span> <span style="color:#5a7a9a;font-size:0.65rem">(median: ${s.swe_median_in}")</span></div>` : '';
     marker.bindPopup(`
       <div class="popup-title">${s.name}</div>
       <div>SWE: <span class="popup-val">${s.swe_in}"</span></div>
       ${s.snow_depth_in !== null ? `<div>Snow depth: <span class="popup-val">${s.snow_depth_in}"</span></div>` : ''}
+      ${pctLine}
       <div style="color:#5a7a9a;font-size:0.7rem;margin-top:4px">${fmt(s.elevation_ft)} ft \u00b7 ${s.state}</div>
     `);
   }
@@ -552,9 +585,12 @@ function render(d) {
       <h2>Basin Overview</h2>
     </div>
     <div class="map-legend">
-      <span><span class="legend-dot gauge"></span> Stream gauge</span>
-      <span><span class="legend-dot reservoir"></span> Reservoir</span>
-      <span><span class="legend-dot snotel"></span> SNOTEL station (size = SWE)</span>
+      <span><span class="legend-dot above"></span> Above avg (&gt;110%)</span>
+      <span><span class="legend-dot normal"></span> Normal (90\u2013110%)</span>
+      <span><span class="legend-dot below"></span> Below avg (70\u201390%)</span>
+      <span><span class="legend-dot critical"></span> Critical (&lt;70%)</span>
+      <span style="margin-left:8px"><span class="legend-dot reservoir"></span> Reservoir</span>
+      <span style="color:var(--faint)">| Dot size = relative magnitude</span>
     </div>
     <div id="map"></div>
   </section>`;
@@ -608,9 +644,9 @@ function render(d) {
         <div class="lbl">Basin mean SWE</div>
       </div>
       <div class="stat-box">
-        <div class="icon-row"><i data-lucide="arrow-up-right"></i></div>
-        <div class="val">${fmt(sp.max_swe_in, 1)}<span style="font-size:1rem">"</span></div>
-        <div class="lbl">Peak SWE (single station)</div>
+        <div class="icon-row"><i data-lucide="percent"></i></div>
+        <div class="val" style="color:${devColor(sp.mean_pct_of_median)}">${fmt(sp.mean_pct_of_median, 0)}%</div>
+        <div class="lbl">of median (basin avg)</div>
       </div>
       <div class="stat-box">
         <div class="icon-row"><i data-lucide="radio-tower"></i></div>
@@ -634,19 +670,19 @@ function render(d) {
     <table class="data-table">
       <thead><tr>
         <th>Station</th><th>State</th><th>Elev (ft)</th>
-        <th>SWE (in)</th><th>Precip (in)</th><th>Snow depth (in)</th>
+        <th>SWE (in)</th><th>% of Median</th><th>Snow depth (in)</th>
       </tr></thead>
       <tbody>`;
 
   stations.forEach((s, i) => {
     const cls = i >= TOP ? 'hidden extra-station' : '';
-    const sc = sweClass(s.swe_in);
+    const dc = devClass(s.pct_of_median);
     html += `<tr class="${cls}">
       <td>${s.name || '\u2014'}</td>
       <td>${s.state || '\u2014'}</td>
       <td>${fmt(s.elevation_ft)}</td>
-      <td><span class="swe-chip ${sc}">${s.swe_in !== null ? s.swe_in : '\u2014'}</span></td>
-      <td>${s.precip_in !== null ? s.precip_in : '\u2014'}</td>
+      <td>${s.swe_in !== null ? s.swe_in : '\u2014'}</td>
+      <td><span class="dev-chip ${dc}">${s.pct_of_median !== null ? fmt(s.pct_of_median, 0) + '%' : '\u2014'}</span></td>
       <td>${s.snow_depth_in !== null ? s.snow_depth_in : '\u2014'}</td>
     </tr>`;
   });
@@ -661,7 +697,7 @@ function render(d) {
     <table class="data-table">
       <thead><tr>
         <th>Station</th><th>State</th>
-        <th>Discharge (cfs)</th><th>Gage height (ft)</th><th>Updated</th>
+        <th>Discharge (cfs)</th><th>% of Median</th><th>Gage height (ft)</th><th>Updated</th>
       </tr></thead>
       <tbody>`;
 
@@ -669,10 +705,13 @@ function render(d) {
     const p = g.parameters || {};
     const q = p['00060'];
     const h = p['00065'];
+    const pct = g.pct_of_median;
+    const dc = devClass(pct);
     html += `<tr>
       <td>${g.name}</td>
       <td>${g.state || '\u2014'}</td>
-      <td class="flow-val">${q ? fmt(q.value) : '\u2014'}</td>
+      <td class="flow-val" style="color:${devColor(pct)}">${q ? fmt(q.value) : '\u2014'}</td>
+      <td><span class="dev-chip ${dc}">${pct !== null ? fmt(pct, 0) + '%' : '\u2014'}</span></td>
       <td>${h ? fmt(h.value, 2) : '\u2014'}</td>
       <td>${ago(q?.datetime || h?.datetime)}</td>
     </tr>`;
