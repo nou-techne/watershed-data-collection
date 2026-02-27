@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-27T16:57:28.028648+00:00",
+  "fetched_at": "2026-02-27T17:09:09.172188+00:00",
   "basin": "Colorado River Basin",
   "sources": {
     "gauges": "USGS Water Services API \u2014 waterservices.usgs.gov",
@@ -41,13 +41,13 @@
           "name": "Streamflow, ft&#179;/s",
           "value": 1270.0,
           "unit": "ft3/s",
-          "datetime": "2026-02-27T09:30:00.000-07:00"
+          "datetime": "2026-02-27T09:45:00.000-07:00"
         },
         "00065": {
           "name": "Gage height, ft",
           "value": 3.33,
           "unit": "ft",
-          "datetime": "2026-02-27T09:30:00.000-07:00"
+          "datetime": "2026-02-27T09:45:00.000-07:00"
         }
       },
       "median_discharge_cfs": 1520.0,
@@ -64,7 +64,7 @@
           "name": "Streamflow, ft&#179;/s",
           "value": 2230.0,
           "unit": "ft3/s",
-          "datetime": "2026-02-27T08:45:00.000-07:00"
+          "datetime": "2026-02-27T09:45:00.000-07:00"
         },
         "00065": {
           "name": "Gage height, ft",
@@ -87,13 +87,13 @@
           "name": "Streamflow, ft&#179;/s",
           "value": 116.0,
           "unit": "ft3/s",
-          "datetime": "2026-02-27T09:45:00.000-07:00"
+          "datetime": "2026-02-27T10:00:00.000-07:00"
         },
         "00065": {
           "name": "Gage height, ft",
           "value": 7.1,
           "unit": "ft",
-          "datetime": "2026-02-27T09:45:00.000-07:00"
+          "datetime": "2026-02-27T10:00:00.000-07:00"
         }
       },
       "median_discharge_cfs": 179.0,
@@ -108,19 +108,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 404.0,
+          "value": 419.0,
           "unit": "ft3/s",
-          "datetime": "2026-02-27T08:45:00.000-07:00"
+          "datetime": "2026-02-27T09:45:00.000-07:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 2.25,
+          "value": 2.29,
           "unit": "ft",
-          "datetime": "2026-02-27T08:45:00.000-07:00"
+          "datetime": "2026-02-27T09:45:00.000-07:00"
         }
       },
       "median_discharge_cfs": 410.0,
-      "pct_of_median": 98.5
+      "pct_of_median": 102.2
     },
     {
       "site_id": "09315000",
@@ -223,9 +223,9 @@
       "parameters": {
         "00065": {
           "name": "Gage height, ft",
-          "value": 43.26,
+          "value": 43.11,
           "unit": "ft",
-          "datetime": "2026-02-27T08:40:00.000-08:00"
+          "datetime": "2026-02-27T08:55:00.000-08:00"
         }
       },
       "median_discharge_cfs": 12300.0,
@@ -267,7 +267,7 @@
       "pct_of_median": 83.7,
       "latitude": 36.9366548,
       "longitude": -111.4840472,
-      "datetime": "2026-02-27T08:45:00.000-07:00",
+      "datetime": "2026-02-27T09:45:00.000-07:00",
       "notes": "Full pool 3700 ft; dead pool 3370 ft (generators go offline)"
     }
   ],
