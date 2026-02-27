@@ -7,27 +7,35 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="https://unpkg.com/lucide@latest"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant:wght@400;600;700&family=Source+Serif+4:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg: #0a0f14;
-      --surface: #111820;
-      --surface2: #16202c;
-      --border: #1e2d3d;
-      --text: #c9d8e8;
-      --muted: #5a7a9a;
-      --faint: #2d3f52;
-      --blue: #3b9eff;
-      --teal: #1fc8c0;
-      --amber: #f5a623;
-      --red: #e05252;
-      --green: #4caf7d;
-      --purple: #9b6dff;
+      --bg: #08080a;
+      --surface: #0f0f12;
+      --surface2: #1a1a1f;
+      --border: #2a2a30;
+      --text: #d8d3c8;
+      --muted: #9a958a;
+      --faint: #2a2a30;
+      --ember: #c2512a;
+      --ember-dim: #8a3a1f;
+      --ember-glow: rgba(194, 81, 42, 0.08);
+      --sage: #4a5f4a;
+      --sage-light: #6b836b;
+      --blue: #7a9ab5;
+      --amber: #c49a3c;
+      --red: #c2512a;
+      --green: #4a5f4a;
+      --teal: #6b836b;
+      --font-display: 'Cormorant', serif;
+      --font-body: 'Source Serif 4', serif;
+      --font-mono: 'IBM Plex Mono', monospace;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
       background: var(--bg);
       color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+      font-family: var(--font-body);
       font-size: 14px;
       line-height: 1.6;
     }
@@ -43,11 +51,12 @@
       gap: 12px;
     }
     .header-left { display: flex; align-items: center; gap: 12px; }
-    .header-icon { color: var(--teal); flex-shrink: 0; }
+    .header-icon { color: var(--ember); flex-shrink: 0; }
     header h1 {
       font-size: 1.25rem;
       font-weight: 600;
-      color: var(--teal);
+      color: var(--ember);
+      font-family: var(--font-display);
       letter-spacing: -0.02em;
     }
     header .subtitle {
@@ -86,6 +95,7 @@
       text-transform: uppercase;
       letter-spacing: 0.12em;
       color: var(--muted);
+      font-family: var(--font-mono);
     }
 
     /* Basin context */
@@ -111,7 +121,7 @@
       gap: 6px;
     }
     .basin-context .context-label i { width: 12px; height: 12px; }
-    .highlight { color: var(--teal); font-weight: 600; }
+    .highlight { color: var(--ember); font-weight: 600; }
     .highlight-amber { color: var(--amber); font-weight: 600; }
     .highlight-blue { color: var(--blue); font-weight: 600; }
 
@@ -137,24 +147,24 @@
       border-radius: 50%;
       display: inline-block;
     }
-    .legend-dot.above { background: var(--green); }
+    .legend-dot.above { background: var(--sage-light); }
     .legend-dot.normal { background: var(--blue); }
     .legend-dot.below { background: var(--amber); }
-    .legend-dot.critical { background: var(--red); }
-    .legend-dot.reservoir { background: var(--amber); border: 2px solid var(--text); }
+    .legend-dot.critical { background: var(--ember); }
+    .legend-dot.reservoir { background: var(--ember-dim); border: 2px solid var(--text); }
 
     /* Leaflet popup overrides */
     .leaflet-popup-content-wrapper {
-      background: var(--surface) !important;
+      background: var(--surface2) !important;
       color: var(--text) !important;
       border: 1px solid var(--border) !important;
       border-radius: 6px !important;
-      font-family: inherit !important;
+      font-family: var(--font-body) !important;
       font-size: 0.78rem !important;
     }
-    .leaflet-popup-tip { background: var(--surface) !important; }
-    .popup-title { font-weight: 600; color: var(--blue); margin-bottom: 4px; }
-    .popup-val { color: var(--teal); font-weight: 600; }
+    .leaflet-popup-tip { background: var(--surface2) !important; }
+    .popup-title { font-weight: 600; color: var(--ember); margin-bottom: 4px; font-family: var(--font-display); }
+    .popup-val { color: var(--text); font-weight: 600; font-family: var(--font-mono); }
 
     /* Reservoirs */
     .reservoir-grid {
@@ -172,7 +182,8 @@
       font-size: 1rem;
       font-weight: 600;
       margin-bottom: 12px;
-      color: var(--blue);
+      color: var(--ember);
+      font-family: var(--font-display);
       display: flex;
       align-items: center;
       gap: 8px;
@@ -185,6 +196,7 @@
       color: var(--text);
       line-height: 1;
       margin-bottom: 4px;
+      font-family: var(--font-mono);
     }
     .big-label {
       font-size: 0.75rem;
@@ -200,11 +212,11 @@
     .fill-bar-fill {
       height: 100%;
       border-radius: 3px;
-      background: var(--teal);
+      background: var(--sage-light);
       transition: width 0.8s ease;
     }
     .fill-bar-fill.low { background: var(--amber); }
-    .fill-bar-fill.critical { background: var(--red); }
+    .fill-bar-fill.critical { background: var(--ember); }
     .fill-ticks {
       display: flex;
       justify-content: space-between;
@@ -256,7 +268,8 @@
       font-size: 1.6rem;
       font-weight: 700;
       letter-spacing: -0.02em;
-      color: var(--teal);
+      color: var(--ember);
+      font-family: var(--font-mono);
     }
     .stat-box .lbl {
       font-size: 0.72rem;
@@ -279,6 +292,7 @@
       text-transform: uppercase;
       letter-spacing: 0.06em;
       border-bottom: 1px solid var(--border);
+      font-family: var(--font-mono);
     }
     .data-table td {
       padding: 7px 10px;
@@ -293,11 +307,11 @@
       font-size: 0.72rem;
       font-weight: 600;
     }
-    .dev-above  { background: rgba(76,175,125,0.15); color: var(--green); }
-    .dev-normal { background: rgba(59,158,255,0.12); color: var(--blue); }
-    .dev-below  { background: rgba(245,166,35,0.12); color: var(--amber); }
-    .dev-critical { background: rgba(224,82,82,0.15); color: var(--red); }
-    .dev-none   { background: rgba(90,122,154,0.1); color: var(--muted); }
+    .dev-above  { background: rgba(74,95,74,0.25); color: var(--sage-light); }
+    .dev-normal { background: rgba(122,154,181,0.15); color: var(--blue); }
+    .dev-below  { background: rgba(196,154,60,0.15); color: var(--amber); }
+    .dev-critical { background: rgba(194,81,42,0.15); color: var(--ember); }
+    .dev-none   { background: rgba(154,149,138,0.1); color: var(--muted); }
     .flow-val { font-weight: 600; }
 
     .toggle-btn {
@@ -314,7 +328,7 @@
       gap: 6px;
     }
     .toggle-btn i { width: 12px; height: 12px; }
-    .toggle-btn:hover { border-color: var(--blue); color: var(--blue); }
+    .toggle-btn:hover { border-color: var(--ember); color: var(--ember); }
     .hidden { display: none; }
 
     /* Footer */
@@ -329,7 +343,7 @@
       align-items: center;
     }
     footer a { color: var(--muted); text-decoration: none; }
-    footer a:hover { color: var(--blue); }
+    footer a:hover { color: var(--ember); }
     footer .footer-item { display: flex; align-items: center; gap: 5px; }
     footer .footer-item i { width: 12px; height: 12px; }
 
@@ -375,6 +389,12 @@
 </main>
 
 <footer>
+  <div class="footer-item">
+    <i data-lucide="home"></i>
+    <a href="https://techne.institute" target="_blank">Techne Institute</a>
+    <span style="color:var(--faint)">·</span>
+    <a href="https://regenhub.xyz" target="_blank">RegenHub, LCA</a>
+  </div>
   <div class="footer-item">
     <i data-lucide="database"></i>
     <span>Data:</span>
@@ -432,11 +452,11 @@ function devClass(pct) {
 }
 
 function devColor(pct) {
-  if (pct === null || pct === undefined) return '#5a7a9a';
-  if (pct >= 110) return '#4caf7d';  // green — above average
-  if (pct >= 90)  return '#3b9eff';  // blue — average
-  if (pct >= 70)  return '#f5a623';  // amber — below average
-  return '#e05252';                   // red — significantly below
+  if (pct === null || pct === undefined) return '#9a958a';
+  if (pct >= 110) return '#6b836b';  // sage — above average
+  if (pct >= 90)  return '#7a9ab5';  // blue — average
+  if (pct >= 70)  return '#c49a3c';  // amber — below average
+  return '#c2512a';                   // ember — significantly below
 }
 
 function devLabel(pct) {
