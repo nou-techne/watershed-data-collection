@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-22T08:51:32.271662+00:00",
+  "fetched_at": "2026-05-22T19:43:11.895035+00:00",
   "basin": "Colorado River Basin",
   "sources": {
     "gauges": "USGS Water Services API \u2014 waterservices.usgs.gov",
@@ -16,19 +16,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 895.0,
+          "value": 855.0,
           "unit": "ft3/s",
-          "datetime": "2026-05-22T02:00:00.000-06:00"
+          "datetime": "2026-05-22T13:00:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 2.24,
+          "value": 2.19,
           "unit": "ft",
-          "datetime": "2026-05-22T02:00:00.000-06:00"
+          "datetime": "2026-05-22T13:00:00.000-06:00"
         }
       },
       "median_discharge_cfs": 4970.0,
-      "pct_of_median": 18.0
+      "pct_of_median": 17.2
     },
     {
       "site_id": "09095500",
@@ -39,19 +39,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 2350.0,
+          "value": 2300.0,
           "unit": "ft3/s",
-          "datetime": "2026-05-22T02:30:00.000-06:00"
+          "datetime": "2026-05-22T13:30:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 4.12,
+          "value": 4.09,
           "unit": "ft",
-          "datetime": "2026-05-22T02:30:00.000-06:00"
+          "datetime": "2026-05-22T13:30:00.000-06:00"
         }
       },
       "median_discharge_cfs": 9130.0,
-      "pct_of_median": 25.7
+      "pct_of_median": 25.2
     },
     {
       "site_id": "09163500",
@@ -62,19 +62,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 2860.0,
+          "value": 2750.0,
           "unit": "ft3/s",
-          "datetime": "2026-05-22T01:45:00.000-06:00"
+          "datetime": "2026-05-22T12:45:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 3.47,
+          "value": 3.4,
           "unit": "ft",
-          "datetime": "2026-05-22T01:45:00.000-06:00"
+          "datetime": "2026-05-22T12:45:00.000-06:00"
         }
       },
       "median_discharge_cfs": 13200.0,
-      "pct_of_median": 21.7
+      "pct_of_median": 20.8
     },
     {
       "site_id": "09180000",
@@ -85,19 +85,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 150.0,
+          "value": 140.0,
           "unit": "ft3/s",
-          "datetime": "2026-05-22T02:30:00.000-06:00"
+          "datetime": "2026-05-22T13:30:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 7.24,
+          "value": 7.2,
           "unit": "ft",
-          "datetime": "2026-05-22T02:30:00.000-06:00"
+          "datetime": "2026-05-22T13:30:00.000-06:00"
         }
       },
       "median_discharge_cfs": 1210.0,
-      "pct_of_median": 12.4
+      "pct_of_median": 11.6
     },
     {
       "site_id": "09306500",
@@ -108,19 +108,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 472.0,
+          "value": 443.0,
           "unit": "ft3/s",
-          "datetime": "2026-05-22T01:45:00.000-06:00"
+          "datetime": "2026-05-22T12:45:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 2.42,
+          "value": 2.35,
           "unit": "ft",
-          "datetime": "2026-05-22T01:45:00.000-06:00"
+          "datetime": "2026-05-22T12:45:00.000-06:00"
         }
       },
       "median_discharge_cfs": 1780.0,
-      "pct_of_median": 26.5
+      "pct_of_median": 24.9
     },
     {
       "site_id": "09315000",
@@ -131,19 +131,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 5160.0,
+          "value": 5250.0,
           "unit": "ft3/s",
-          "datetime": "2026-05-22T02:30:00.000-06:00"
+          "datetime": "2026-05-22T13:30:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 7.62,
+          "value": 7.66,
           "unit": "ft",
-          "datetime": "2026-05-22T02:30:00.000-06:00"
+          "datetime": "2026-05-22T13:30:00.000-06:00"
         }
       },
       "median_discharge_cfs": 15500.0,
-      "pct_of_median": 33.3
+      "pct_of_median": 33.9
     },
     {
       "site_id": "09328500",
@@ -156,13 +156,13 @@
           "name": "Streamflow, ft&#179;/s",
           "value": 0.0,
           "unit": "ft3/s",
-          "datetime": "2026-05-22T02:30:00.000-06:00"
+          "datetime": "2026-05-22T13:30:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
           "value": 4.5,
           "unit": "ft",
-          "datetime": "2026-05-22T02:30:00.000-06:00"
+          "datetime": "2026-05-22T13:30:00.000-06:00"
         }
       },
       "median_discharge_cfs": 130.0,
@@ -177,19 +177,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 8110.0,
+          "value": 7970.0,
           "unit": "ft3/s",
-          "datetime": "2026-05-22T01:00:00.000-07:00"
+          "datetime": "2026-05-22T12:00:00.000-07:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 8.09,
+          "value": 8.05,
           "unit": "ft",
-          "datetime": "2026-05-22T01:00:00.000-07:00"
+          "datetime": "2026-05-22T12:00:00.000-07:00"
         }
       },
       "median_discharge_cfs": 17100.0,
-      "pct_of_median": 47.4
+      "pct_of_median": 46.6
     },
     {
       "site_id": "09402500",
@@ -200,19 +200,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 7500.0,
+          "value": 8420.0,
           "unit": "ft3/s",
-          "datetime": "2026-05-22T01:15:00.000-07:00"
+          "datetime": "2026-05-22T12:15:00.000-07:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 6.07,
+          "value": 6.63,
           "unit": "ft",
-          "datetime": "2026-05-22T01:15:00.000-07:00"
+          "datetime": "2026-05-22T12:15:00.000-07:00"
         }
       },
       "median_discharge_cfs": 18100.0,
-      "pct_of_median": 41.4
+      "pct_of_median": 46.5
     },
     {
       "site_id": "09421500",
@@ -223,9 +223,9 @@
       "parameters": {
         "00065": {
           "name": "Gage height, ft",
-          "value": 47.06,
+          "value": 44.97,
           "unit": "ft",
-          "datetime": "2026-05-22T01:40:00.000-07:00"
+          "datetime": "2026-05-22T12:25:00.000-07:00"
         }
       },
       "median_discharge_cfs": 16700.0,
@@ -242,13 +242,13 @@
           "name": "Streamflow, ft&#179;/s",
           "value": 20.0,
           "unit": "ft3/s",
-          "datetime": "2026-05-22T02:00:00.000-06:00"
+          "datetime": "2026-05-22T13:00:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
           "value": 0.75,
           "unit": "ft",
-          "datetime": "2026-05-22T02:00:00.000-06:00"
+          "datetime": "2026-05-22T13:00:00.000-06:00"
         }
       },
       "median_discharge_cfs": 76.0,
@@ -259,25 +259,25 @@
     {
       "site_id": "09379900",
       "name": "Lake Powell (Glen Canyon Dam)",
-      "elevation_ft": 3527.4,
+      "elevation_ft": 3527.2,
       "median_elevation_ft": 3559.5,
       "full_pool_ft": 3700.0,
       "dead_pool_ft": 3370.0,
-      "fill_pct": 47.7,
-      "pct_of_median": 83.1,
+      "fill_pct": 47.6,
+      "pct_of_median": 83.0,
       "latitude": 36.9366548,
       "longitude": -111.4840472,
-      "datetime": "2026-05-22T00:45:00.000-07:00",
+      "datetime": "2026-05-22T11:45:00.000-07:00",
       "notes": "Full pool 3700 ft; dead pool 3370 ft (generators go offline)"
     }
   ],
   "snowpack_summary": {
     "station_count": 635,
-    "stations_reporting": 161,
+    "stations_reporting": 165,
     "mean_swe_in": 0.83,
     "max_swe_in": 23.5,
     "min_swe_in": 0.0,
-    "mean_pct_of_median": 15.2,
+    "mean_pct_of_median": 13.9,
     "date": "2026-05-21"
   },
   "snowpack_stations": [
@@ -304,9 +304,9 @@
       "latitude": 42.52516,
       "longitude": -110.66148,
       "huc": "140401011001",
-      "swe_in": 16.5,
+      "swe_in": 16.4,
       "swe_median_in": 19.8,
-      "pct_of_median": 83.3,
+      "pct_of_median": 82.8,
       "precip_in": 28.5,
       "snow_depth_in": 39.0,
       "date": "2026-05-21"
@@ -322,7 +322,7 @@
       "swe_in": 13.7,
       "swe_median_in": 20.8,
       "pct_of_median": 65.9,
-      "precip_in": 17.6,
+      "precip_in": 17.7,
       "snow_depth_in": 26.0,
       "date": "2026-05-21"
     },
@@ -338,7 +338,7 @@
       "swe_median_in": null,
       "pct_of_median": null,
       "precip_in": 24.1,
-      "snow_depth_in": null,
+      "snow_depth_in": 26.0,
       "date": "2026-05-21"
     },
     {
@@ -414,6 +414,21 @@
       "pct_of_median": 32.9,
       "precip_in": 23.9,
       "snow_depth_in": 12.0,
+      "date": "2026-05-21"
+    },
+    {
+      "triplet": "1344:CO:SNTL",
+      "name": "Alta Lakes",
+      "state": "CO",
+      "elevation_ft": 11290.0,
+      "latitude": 37.88929,
+      "longitude": -107.84484,
+      "huc": "140300030103",
+      "swe_in": 4.7,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": 21.7,
+      "snow_depth_in": 13.0,
       "date": "2026-05-21"
     },
     {
@@ -612,21 +627,6 @@
       "date": "2026-05-21"
     },
     {
-      "triplet": "342:WY:SNTL",
-      "name": "Big Sandy Opening",
-      "state": "WY",
-      "elevation_ft": 9100.0,
-      "latitude": 42.6458,
-      "longitude": -109.25965,
-      "huc": "140401040101",
-      "swe_in": 0.7,
-      "swe_median_in": 0.9,
-      "pct_of_median": 77.8,
-      "precip_in": 15.7,
-      "snow_depth_in": 2.0,
-      "date": "2026-05-21"
-    },
-    {
       "triplet": "709:CO:SNTL",
       "name": "Rabbit Ears",
       "state": "CO",
@@ -642,21 +642,6 @@
       "date": "2026-05-21"
     },
     {
-      "triplet": "1323:UT:SNTL",
-      "name": "Elk Ridge",
-      "state": "UT",
-      "elevation_ft": 8540.0,
-      "latitude": 37.82308,
-      "longitude": -109.77156,
-      "huc": "140802010402",
-      "swe_in": 0.5,
-      "swe_median_in": null,
-      "pct_of_median": null,
-      "precip_in": 13.4,
-      "snow_depth_in": 1.0,
-      "date": "2026-05-21"
-    },
-    {
       "triplet": "449:WY:SNTL",
       "name": "Divide Peak",
       "state": "WY",
@@ -669,21 +654,6 @@
       "pct_of_median": 12.5,
       "precip_in": 21.2,
       "snow_depth_in": 1.0,
-      "date": "2026-05-21"
-    },
-    {
-      "triplet": "461:UT:SNTL",
-      "name": "East Willow Creek",
-      "state": "UT",
-      "elevation_ft": 8300.0,
-      "latitude": 39.31213,
-      "longitude": -109.53179,
-      "huc": "140600060205",
-      "swe_in": 0.4,
-      "swe_median_in": 0.0,
-      "pct_of_median": null,
-      "precip_in": 13.0,
-      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -714,6 +684,21 @@
       "pct_of_median": null,
       "precip_in": 14.9,
       "snow_depth_in": 0.0,
+      "date": "2026-05-21"
+    },
+    {
+      "triplet": "554:WY:SNTL",
+      "name": "Kelley R.S.",
+      "state": "WY",
+      "elevation_ft": 8240.0,
+      "latitude": 42.26554,
+      "longitude": -110.80181,
+      "huc": "140401070501",
+      "swe_in": 0.3,
+      "swe_median_in": 1.0,
+      "pct_of_median": 30.0,
+      "precip_in": 20.6,
+      "snow_depth_in": 4.0,
       "date": "2026-05-21"
     },
     {
@@ -758,21 +743,6 @@
       "swe_median_in": 5.7,
       "pct_of_median": 3.5,
       "precip_in": 14.1,
-      "snow_depth_in": 1.0,
-      "date": "2026-05-21"
-    },
-    {
-      "triplet": "432:UT:SNTL",
-      "name": "Currant Creek",
-      "state": "UT",
-      "elevation_ft": 7920.0,
-      "latitude": 40.35747,
-      "longitude": -111.08993,
-      "huc": "140600040401",
-      "swe_in": 0.2,
-      "swe_median_in": 0.0,
-      "pct_of_median": null,
-      "precip_in": 13.2,
       "snow_depth_in": 1.0,
       "date": "2026-05-21"
     },
@@ -912,21 +882,6 @@
       "date": "2026-05-21"
     },
     {
-      "triplet": "1153:UT:SNTL",
-      "name": "Buckboard Flat",
-      "state": "UT",
-      "elevation_ft": 8920.0,
-      "latitude": 37.86943,
-      "longitude": -109.44717,
-      "huc": "140802030103",
-      "swe_in": 0.1,
-      "swe_median_in": null,
-      "pct_of_median": null,
-      "precip_in": 20.9,
-      "snow_depth_in": 1.0,
-      "date": "2026-05-21"
-    },
-    {
       "triplet": "913:CO:SNTL",
       "name": "Buffalo Park",
       "state": "CO",
@@ -942,21 +897,6 @@
       "date": "2026-05-21"
     },
     {
-      "triplet": "387:CO:SNTL",
-      "name": "Cascade #2",
-      "state": "CO",
-      "elevation_ft": 8990.0,
-      "latitude": 37.65751,
-      "longitude": -107.80287,
-      "huc": "140801040201",
-      "swe_in": 0.1,
-      "swe_median_in": 0.0,
-      "pct_of_median": null,
-      "precip_in": 19.8,
-      "snow_depth_in": 18.0,
-      "date": "2026-05-21"
-    },
-    {
       "triplet": "416:AZ:SNTL",
       "name": "Coronado Trail",
       "state": "AZ",
@@ -968,21 +908,6 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 9.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-05-21"
-    },
-    {
-      "triplet": "444:UT:SNTL",
-      "name": "Dills Camp",
-      "state": "UT",
-      "elevation_ft": 9240.0,
-      "latitude": 39.04554,
-      "longitude": -111.46875,
-      "huc": "140700020201",
-      "swe_in": 0.1,
-      "swe_median_in": 0.0,
-      "pct_of_median": null,
-      "precip_in": 13.8,
       "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
@@ -1017,21 +942,6 @@
       "date": "2026-05-21"
     },
     {
-      "triplet": "1216:UT:SNTL",
-      "name": "Huntington Horse",
-      "state": "UT",
-      "elevation_ft": 9650.0,
-      "latitude": 39.61774,
-      "longitude": -111.30576,
-      "huc": "140600070201",
-      "swe_in": 0.1,
-      "swe_median_in": null,
-      "pct_of_median": null,
-      "precip_in": 19.8,
-      "snow_depth_in": 0.0,
-      "date": "2026-05-21"
-    },
-    {
       "triplet": "542:CO:SNTL",
       "name": "Independence Pass",
       "state": "CO",
@@ -1043,21 +953,6 @@
       "swe_median_in": 4.0,
       "pct_of_median": 2.5,
       "precip_in": 13.3,
-      "snow_depth_in": 0.0,
-      "date": "2026-05-21"
-    },
-    {
-      "triplet": "555:WY:SNTL",
-      "name": "Kendall R.S.",
-      "state": "WY",
-      "elevation_ft": 7790.0,
-      "latitude": 43.24922,
-      "longitude": -110.01671,
-      "huc": "140401010302",
-      "swe_in": 0.1,
-      "swe_median_in": 0.0,
-      "pct_of_median": null,
-      "precip_in": 18.5,
       "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
@@ -1089,21 +984,6 @@
       "pct_of_median": null,
       "precip_in": 13.0,
       "snow_depth_in": 1.0,
-      "date": "2026-05-21"
-    },
-    {
-      "triplet": "1215:UT:SNTL",
-      "name": "Lasal Mountain-Lower",
-      "state": "UT",
-      "elevation_ft": 8780.0,
-      "latitude": 38.48167,
-      "longitude": -109.29164,
-      "huc": "140300050404",
-      "swe_in": 0.1,
-      "swe_median_in": null,
-      "pct_of_median": null,
-      "precip_in": 12.6,
-      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -1354,21 +1234,6 @@
       "latitude": 33.8492,
       "longitude": -109.1469,
       "huc": "150400040301",
-      "swe_in": null,
-      "swe_median_in": null,
-      "pct_of_median": null,
-      "precip_in": null,
-      "snow_depth_in": null,
-      "date": "2026-05-21"
-    },
-    {
-      "triplet": "1344:CO:SNTL",
-      "name": "Alta Lakes",
-      "state": "CO",
-      "elevation_ft": 11290.0,
-      "latitude": 37.88929,
-      "longitude": -107.84484,
-      "huc": "140300030103",
       "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
@@ -1737,6 +1602,21 @@
       "date": "2026-05-21"
     },
     {
+      "triplet": "342:WY:SNTL",
+      "name": "Big Sandy Opening",
+      "state": "WY",
+      "elevation_ft": 9100.0,
+      "latitude": 42.6458,
+      "longitude": -109.25965,
+      "huc": "140401040101",
+      "swe_in": 0.0,
+      "swe_median_in": 0.9,
+      "pct_of_median": 0.0,
+      "precip_in": 15.7,
+      "snow_depth_in": 0.0,
+      "date": "2026-05-21"
+    },
+    {
       "triplet": "09213500:WY:USGS",
       "name": "Big Sandy R nr Farson",
       "state": "WY",
@@ -1928,7 +1808,7 @@
       "swe_median_in": null,
       "pct_of_median": null,
       "precip_in": null,
-      "snow_depth_in": null,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -2032,8 +1912,8 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": null,
-      "snow_depth_in": null,
+      "precip_in": 21.4,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -2112,6 +1992,21 @@
       "date": "2026-05-21"
     },
     {
+      "triplet": "1153:UT:SNTL",
+      "name": "Buckboard Flat",
+      "state": "UT",
+      "elevation_ft": 8920.0,
+      "latitude": 37.86943,
+      "longitude": -109.44717,
+      "huc": "140802030103",
+      "swe_in": 0.0,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": 21.0,
+      "snow_depth_in": 0.0,
+      "date": "2026-05-21"
+    },
+    {
       "triplet": "5800564A:CO:USGS",
       "name": "Buckingham Mandall Ditch",
       "state": "CO",
@@ -2167,7 +2062,7 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 18.7,
+      "precip_in": 19.2,
       "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
@@ -2214,6 +2109,21 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
+      "date": "2026-05-21"
+    },
+    {
+      "triplet": "387:CO:SNTL",
+      "name": "Cascade #2",
+      "state": "CO",
+      "elevation_ft": 8990.0,
+      "latitude": 37.65751,
+      "longitude": -107.80287,
+      "huc": "140801040201",
+      "swe_in": 0.0,
+      "swe_median_in": 0.0,
+      "pct_of_median": null,
+      "precip_in": 19.8,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -2528,7 +2438,7 @@
       "swe_median_in": 13.0,
       "pct_of_median": 0.0,
       "precip_in": 25.9,
-      "snow_depth_in": 1.0,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -2572,7 +2482,7 @@
       "swe_in": 0.0,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 13.9,
+      "precip_in": 14.1,
       "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
@@ -2757,6 +2667,21 @@
       "date": "2026-05-21"
     },
     {
+      "triplet": "432:UT:SNTL",
+      "name": "Currant Creek",
+      "state": "UT",
+      "elevation_ft": 7920.0,
+      "latitude": 40.35747,
+      "longitude": -111.08993,
+      "huc": "140600040401",
+      "swe_in": 0.0,
+      "swe_median_in": 0.0,
+      "pct_of_median": null,
+      "precip_in": 14.0,
+      "snow_depth_in": 0.0,
+      "date": "2026-05-21"
+    },
+    {
       "triplet": "09286699:UT:USGS",
       "name": "Currant Creek Diversion",
       "state": "UT",
@@ -2828,7 +2753,7 @@
       "swe_median_in": null,
       "pct_of_median": null,
       "precip_in": null,
-      "snow_depth_in": null,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -2842,7 +2767,7 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 17.3,
+      "precip_in": 17.0,
       "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
@@ -2904,6 +2829,21 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
+      "date": "2026-05-21"
+    },
+    {
+      "triplet": "444:UT:SNTL",
+      "name": "Dills Camp",
+      "state": "UT",
+      "elevation_ft": 9240.0,
+      "latitude": 39.04554,
+      "longitude": -111.46875,
+      "huc": "140700020201",
+      "swe_in": 0.0,
+      "swe_median_in": 0.0,
+      "pct_of_median": null,
+      "precip_in": 13.8,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -3207,6 +3147,21 @@
       "date": "2026-05-21"
     },
     {
+      "triplet": "461:UT:SNTL",
+      "name": "East Willow Creek",
+      "state": "UT",
+      "elevation_ft": 8300.0,
+      "latitude": 39.31213,
+      "longitude": -109.53179,
+      "huc": "140600060205",
+      "swe_in": 0.0,
+      "swe_median_in": 0.0,
+      "pct_of_median": null,
+      "precip_in": 13.2,
+      "snow_depth_in": 0.0,
+      "date": "2026-05-21"
+    },
+    {
       "triplet": "2130:UT:SCAN",
       "name": "Eastland",
       "state": "UT",
@@ -3324,6 +3279,21 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
+      "date": "2026-05-21"
+    },
+    {
+      "triplet": "1323:UT:SNTL",
+      "name": "Elk Ridge",
+      "state": "UT",
+      "elevation_ft": 8540.0,
+      "latitude": 37.82308,
+      "longitude": -109.77156,
+      "huc": "140802010402",
+      "swe_in": 0.0,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": 13.4,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -3503,7 +3473,7 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 7.2,
-      "snow_depth_in": 1.0,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -4223,7 +4193,7 @@
       "swe_median_in": null,
       "pct_of_median": null,
       "precip_in": null,
-      "snow_depth_in": null,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -4402,7 +4372,7 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 20.0,
+      "precip_in": 20.1,
       "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
@@ -4474,11 +4444,11 @@
       "latitude": 42.146,
       "longitude": -110.67833,
       "huc": "140401070504",
-      "swe_in": null,
-      "swe_median_in": null,
+      "swe_in": 0.0,
+      "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 14.8,
-      "snow_depth_in": 1.0,
+      "precip_in": 15.1,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -4842,6 +4812,21 @@
       "date": "2026-05-21"
     },
     {
+      "triplet": "1216:UT:SNTL",
+      "name": "Huntington Horse",
+      "state": "UT",
+      "elevation_ft": 9650.0,
+      "latitude": 39.61774,
+      "longitude": -111.30576,
+      "huc": "140600070201",
+      "swe_in": 0.0,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": 19.8,
+      "snow_depth_in": 0.0,
+      "date": "2026-05-21"
+    },
+    {
       "triplet": "09UTHUNT:UT:BOR",
       "name": "Huntington North Reservoir",
       "state": "UT",
@@ -4882,7 +4867,7 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 17.8,
+      "precip_in": 17.9,
       "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
@@ -5022,21 +5007,6 @@
       "date": "2026-05-21"
     },
     {
-      "triplet": "554:WY:SNTL",
-      "name": "Kelley R.S.",
-      "state": "WY",
-      "elevation_ft": 8240.0,
-      "latitude": 42.26554,
-      "longitude": -110.80181,
-      "huc": "140401070501",
-      "swe_in": null,
-      "swe_median_in": null,
-      "pct_of_median": null,
-      "precip_in": 20.6,
-      "snow_depth_in": 4.0,
-      "date": "2026-05-21"
-    },
-    {
       "triplet": "5105:WY:COOP",
       "name": "Kemmerer Wtr Trtmt",
       "state": "WY",
@@ -5064,6 +5034,21 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
+      "date": "2026-05-21"
+    },
+    {
+      "triplet": "555:WY:SNTL",
+      "name": "Kendall R.S.",
+      "state": "WY",
+      "elevation_ft": 7790.0,
+      "latitude": 43.24922,
+      "longitude": -110.01671,
+      "huc": "140401010302",
+      "swe_in": 0.0,
+      "swe_median_in": 0.0,
+      "pct_of_median": null,
+      "precip_in": 18.5,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -5453,7 +5438,7 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 17.0,
-      "snow_depth_in": 1.0,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -5469,6 +5454,21 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
+      "date": "2026-05-21"
+    },
+    {
+      "triplet": "1215:UT:SNTL",
+      "name": "Lasal Mountain-Lower",
+      "state": "UT",
+      "elevation_ft": 8780.0,
+      "latitude": 38.48167,
+      "longitude": -109.29164,
+      "huc": "140300050404",
+      "swe_in": 0.0,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": 12.6,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -5512,7 +5512,7 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": null,
+      "precip_in": 24.5,
       "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
@@ -5708,7 +5708,7 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 19.8,
-      "snow_depth_in": 1.0,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -5722,7 +5722,7 @@
       "swe_in": 0.0,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 12.8,
+      "precip_in": 12.9,
       "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
@@ -5752,8 +5752,8 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 14.4,
-      "snow_depth_in": 1.0,
+      "precip_in": 14.5,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -5783,7 +5783,7 @@
       "swe_median_in": 0.3,
       "pct_of_median": 0.0,
       "precip_in": 18.9,
-      "snow_depth_in": 1.0,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -6173,7 +6173,7 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 18.0,
-      "snow_depth_in": null,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -6218,7 +6218,7 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 20.4,
-      "snow_depth_in": 1.0,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -7102,7 +7102,7 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 21.6,
+      "precip_in": 21.8,
       "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
@@ -7193,7 +7193,7 @@
       "swe_median_in": 14.2,
       "pct_of_median": 0.0,
       "precip_in": 23.9,
-      "snow_depth_in": 1.0,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -7793,7 +7793,7 @@
       "swe_median_in": 4.4,
       "pct_of_median": 0.0,
       "precip_in": 21.5,
-      "snow_depth_in": 1.0,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -7987,7 +7987,7 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 16.7,
+      "precip_in": 16.8,
       "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
@@ -8242,7 +8242,7 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 16.9,
+      "precip_in": 17.5,
       "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
@@ -8329,7 +8329,7 @@
       "latitude": 38.048,
       "longitude": -111.33981,
       "huc": "140700030406",
-      "swe_in": null,
+      "swe_in": 0.0,
       "swe_median_in": null,
       "pct_of_median": null,
       "precip_in": 19.8,
@@ -9083,7 +9083,7 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 17.5,
-      "snow_depth_in": 1.0,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -9157,8 +9157,8 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 23.3,
-      "snow_depth_in": null,
+      "precip_in": 23.5,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -9338,7 +9338,7 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 13.4,
-      "snow_depth_in": 1.0,
+      "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
     {
@@ -9352,7 +9352,7 @@
       "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 12.1,
+      "precip_in": 12.2,
       "snow_depth_in": 0.0,
       "date": "2026-05-21"
     },
