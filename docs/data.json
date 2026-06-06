@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-05T19:54:25.504117+00:00",
+  "fetched_at": "2026-06-06T08:26:39.949478+00:00",
   "basin": "Colorado River Basin",
   "sources": {
     "gauges": "USGS Water Services API \u2014 waterservices.usgs.gov",
@@ -16,19 +16,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 1190.0,
+          "value": 1080.0,
           "unit": "ft3/s",
-          "datetime": "2026-06-05T13:00:00.000-06:00"
+          "datetime": "2026-06-06T02:00:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 2.59,
+          "value": 2.46,
           "unit": "ft",
-          "datetime": "2026-06-05T13:00:00.000-06:00"
+          "datetime": "2026-06-06T02:00:00.000-06:00"
         }
       },
-      "median_discharge_cfs": 6100.0,
-      "pct_of_median": 19.5
+      "median_discharge_cfs": 6330.0,
+      "pct_of_median": 17.1
     },
     {
       "site_id": "09095500",
@@ -39,19 +39,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 3080.0,
+          "value": 3260.0,
           "unit": "ft3/s",
-          "datetime": "2026-06-05T13:15:00.000-06:00"
+          "datetime": "2026-06-06T02:00:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 4.56,
+          "value": 4.66,
           "unit": "ft",
-          "datetime": "2026-06-05T13:30:00.000-06:00"
+          "datetime": "2026-06-06T02:00:00.000-06:00"
         }
       },
-      "median_discharge_cfs": 11800.0,
-      "pct_of_median": 26.1
+      "median_discharge_cfs": 12000.0,
+      "pct_of_median": 27.2
     },
     {
       "site_id": "09163500",
@@ -62,19 +62,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 3470.0,
+          "value": 3160.0,
           "unit": "ft3/s",
-          "datetime": "2026-06-05T12:45:00.000-06:00"
+          "datetime": "2026-06-06T01:45:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 3.81,
+          "value": 3.63,
           "unit": "ft",
-          "datetime": "2026-06-05T12:45:00.000-06:00"
+          "datetime": "2026-06-06T01:45:00.000-06:00"
         }
       },
-      "median_discharge_cfs": 16100.0,
-      "pct_of_median": 21.6
+      "median_discharge_cfs": 15800.0,
+      "pct_of_median": 20.0
     },
     {
       "site_id": "09180000",
@@ -85,19 +85,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 187.0,
+          "value": 206.0,
           "unit": "ft3/s",
-          "datetime": "2026-06-05T13:30:00.000-06:00"
+          "datetime": "2026-06-06T02:00:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 7.37,
+          "value": 7.43,
           "unit": "ft",
-          "datetime": "2026-06-05T13:30:00.000-06:00"
+          "datetime": "2026-06-06T02:00:00.000-06:00"
         }
       },
-      "median_discharge_cfs": 1150.0,
-      "pct_of_median": 16.3
+      "median_discharge_cfs": 1190.0,
+      "pct_of_median": 17.3
     },
     {
       "site_id": "09306500",
@@ -108,19 +108,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 404.0,
+          "value": 245.0,
           "unit": "ft3/s",
-          "datetime": "2026-06-05T12:45:00.000-06:00"
+          "datetime": "2026-06-06T01:45:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 2.25,
+          "value": 1.77,
           "unit": "ft",
-          "datetime": "2026-06-05T12:45:00.000-06:00"
+          "datetime": "2026-06-06T01:45:00.000-06:00"
         }
       },
       "median_discharge_cfs": 1880.0,
-      "pct_of_median": 21.5
+      "pct_of_median": 13.0
     },
     {
       "site_id": "09315000",
@@ -131,19 +131,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 4050.0,
+          "value": 3940.0,
           "unit": "ft3/s",
-          "datetime": "2026-06-05T13:30:00.000-06:00"
+          "datetime": "2026-06-06T02:00:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 7.12,
+          "value": 7.07,
           "unit": "ft",
-          "datetime": "2026-06-05T13:30:00.000-06:00"
+          "datetime": "2026-06-06T02:00:00.000-06:00"
         }
       },
-      "median_discharge_cfs": 17000.0,
-      "pct_of_median": 23.8
+      "median_discharge_cfs": 17600.0,
+      "pct_of_median": 22.4
     },
     {
       "site_id": "09328500",
@@ -154,15 +154,15 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 0.45,
+          "value": 0.18,
           "unit": "ft3/s",
-          "datetime": "2026-06-05T13:30:00.000-06:00"
+          "datetime": "2026-06-06T02:00:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 4.5,
+          "value": 4.49,
           "unit": "ft",
-          "datetime": "2026-06-05T13:30:00.000-06:00"
+          "datetime": "2026-06-06T02:00:00.000-06:00"
         }
       },
       "median_discharge_cfs": 315.0,
@@ -177,19 +177,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 8140.0,
+          "value": 10100.0,
           "unit": "ft3/s",
-          "datetime": "2026-06-05T12:00:00.000-07:00"
+          "datetime": "2026-06-06T01:00:00.000-07:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 8.1,
+          "value": 8.64,
           "unit": "ft",
-          "datetime": "2026-06-05T12:00:00.000-07:00"
+          "datetime": "2026-06-06T01:00:00.000-07:00"
         }
       },
-      "median_discharge_cfs": 17400.0,
-      "pct_of_median": 46.8
+      "median_discharge_cfs": 17600.0,
+      "pct_of_median": 57.4
     },
     {
       "site_id": "09402500",
@@ -200,19 +200,19 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 8880.0,
+          "value": 8900.0,
           "unit": "ft3/s",
-          "datetime": "2026-06-05T12:15:00.000-07:00"
+          "datetime": "2026-06-06T00:15:00.000-07:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 6.87,
+          "value": 6.86,
           "unit": "ft",
-          "datetime": "2026-06-05T12:15:00.000-07:00"
+          "datetime": "2026-06-06T00:15:00.000-07:00"
         }
       },
-      "median_discharge_cfs": 18400.0,
-      "pct_of_median": 48.3
+      "median_discharge_cfs": 18000.0,
+      "pct_of_median": 49.4
     },
     {
       "site_id": "09421500",
@@ -223,12 +223,12 @@
       "parameters": {
         "00065": {
           "name": "Gage height, ft",
-          "value": 46.21,
+          "value": 48.58,
           "unit": "ft",
-          "datetime": "2026-06-05T12:25:00.000-07:00"
+          "datetime": "2026-06-06T00:55:00.000-07:00"
         }
       },
-      "median_discharge_cfs": 15100.0,
+      "median_discharge_cfs": 15000.0,
       "pct_of_median": null
     },
     {
@@ -240,45 +240,45 @@
       "parameters": {
         "00060": {
           "name": "Streamflow, ft&#179;/s",
-          "value": 28.2,
+          "value": 31.6,
           "unit": "ft3/s",
-          "datetime": "2026-06-05T13:00:00.000-06:00"
+          "datetime": "2026-06-06T02:00:00.000-06:00"
         },
         "00065": {
           "name": "Gage height, ft",
-          "value": 0.86,
+          "value": 0.9,
           "unit": "ft",
-          "datetime": "2026-06-05T13:00:00.000-06:00"
+          "datetime": "2026-06-06T02:00:00.000-06:00"
         }
       },
-      "median_discharge_cfs": 50.0,
-      "pct_of_median": 56.4
+      "median_discharge_cfs": 49.0,
+      "pct_of_median": 64.5
     }
   ],
   "reservoirs": [
     {
       "site_id": "09379900",
       "name": "Lake Powell (Glen Canyon Dam)",
-      "elevation_ft": 3527.6,
-      "median_elevation_ft": 3565.9,
+      "elevation_ft": 3527.7,
+      "median_elevation_ft": 3566.8,
       "full_pool_ft": 3700.0,
       "dead_pool_ft": 3370.0,
       "fill_pct": 47.8,
-      "pct_of_median": 80.4,
+      "pct_of_median": 80.1,
       "latitude": 36.9366548,
       "longitude": -111.4840472,
-      "datetime": "2026-06-05T11:45:00.000-07:00",
+      "datetime": "2026-06-06T00:45:00.000-07:00",
       "notes": "Full pool 3700 ft; dead pool 3370 ft (generators go offline)"
     }
   ],
   "snowpack_summary": {
     "station_count": 635,
-    "stations_reporting": 167,
-    "mean_swe_in": 0.1,
-    "max_swe_in": 9.6,
+    "stations_reporting": 91,
+    "mean_swe_in": 0.11,
+    "max_swe_in": 7.8,
     "min_swe_in": 0.0,
-    "mean_pct_of_median": 3.5,
-    "date": "2026-06-04"
+    "mean_pct_of_median": 2.9,
+    "date": "2026-06-05"
   },
   "snowpack_stations": [
     {
@@ -289,72 +289,27 @@
       "latitude": 40.5374,
       "longitude": -106.67655,
       "huc": "140500010407",
-      "swe_in": 9.6,
-      "swe_median_in": 28.7,
-      "pct_of_median": 33.4,
+      "swe_in": 7.8,
+      "swe_median_in": 27.4,
+      "pct_of_median": 28.5,
       "precip_in": 42.5,
-      "snow_depth_in": 21.0,
-      "date": "2026-06-04"
+      "snow_depth_in": 17.0,
+      "date": "2026-06-05"
     },
     {
-      "triplet": "779:WY:SNTL",
-      "name": "Spring Creek Divide",
-      "state": "WY",
-      "elevation_ft": 9020.0,
-      "latitude": 42.52516,
-      "longitude": -110.66148,
-      "huc": "140401011001",
-      "swe_in": 3.4,
-      "swe_median_in": 10.0,
-      "pct_of_median": 34.0,
-      "precip_in": 29.0,
-      "snow_depth_in": 8.0,
-      "date": "2026-06-04"
-    },
-    {
-      "triplet": "1185:CO:SNTL",
-      "name": "Black Mesa",
-      "state": "CO",
-      "elevation_ft": 11580.0,
-      "latitude": 37.78968,
-      "longitude": -108.18376,
-      "huc": "140300020103",
-      "swe_in": 1.5,
-      "swe_median_in": null,
-      "pct_of_median": null,
-      "precip_in": 24.5,
-      "snow_depth_in": null,
-      "date": "2026-06-04"
-    },
-    {
-      "triplet": "485:CO:SNTL",
-      "name": "Fremont Pass",
-      "state": "CO",
-      "elevation_ft": 11310.0,
-      "latitude": 39.38014,
-      "longitude": -106.19784,
-      "huc": "140100020301",
-      "swe_in": 0.3,
-      "swe_median_in": 10.0,
-      "pct_of_median": 3.0,
-      "precip_in": 12.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
-    },
-    {
-      "triplet": "927:AZ:SNTL",
-      "name": "Snowslide Canyon",
-      "state": "AZ",
-      "elevation_ft": 9720.0,
-      "latitude": 35.34179,
-      "longitude": -111.65084,
-      "huc": "150200160201",
-      "swe_in": 0.3,
+      "triplet": "461:UT:SNTL",
+      "name": "East Willow Creek",
+      "state": "UT",
+      "elevation_ft": 8300.0,
+      "latitude": 39.31213,
+      "longitude": -109.53179,
+      "huc": "140600060205",
+      "swe_in": 0.4,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 23.8,
+      "precip_in": 13.1,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "310:AZ:SNTL",
@@ -369,7 +324,22 @@
       "pct_of_median": null,
       "precip_in": 10.5,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
+    },
+    {
+      "triplet": "345:CO:SNTL",
+      "name": "Bison Lake",
+      "state": "CO",
+      "elevation_ft": 10950.0,
+      "latitude": 39.76458,
+      "longitude": -107.35628,
+      "huc": "140100011401",
+      "swe_in": 0.2,
+      "swe_median_in": 14.4,
+      "pct_of_median": 1.4,
+      "precip_in": 24.6,
+      "snow_depth_in": 0.0,
+      "date": "2026-06-05"
     },
     {
       "triplet": "416:AZ:SNTL",
@@ -384,7 +354,52 @@
       "pct_of_median": null,
       "precip_in": 10.4,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
+    },
+    {
+      "triplet": "432:UT:SNTL",
+      "name": "Currant Creek",
+      "state": "UT",
+      "elevation_ft": 7920.0,
+      "latitude": 40.35747,
+      "longitude": -111.08993,
+      "huc": "140600040401",
+      "swe_in": 0.2,
+      "swe_median_in": 0.0,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": 1.0,
+      "date": "2026-06-05"
+    },
+    {
+      "triplet": "481:UT:SNTL",
+      "name": "Five Points Lake",
+      "state": "UT",
+      "elevation_ft": 10920.0,
+      "latitude": 40.71785,
+      "longitude": -110.46721,
+      "huc": "140600030701",
+      "swe_in": 0.2,
+      "swe_median_in": 0.0,
+      "pct_of_median": null,
+      "precip_in": 21.2,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
+    },
+    {
+      "triplet": "485:CO:SNTL",
+      "name": "Fremont Pass",
+      "state": "CO",
+      "elevation_ft": 11310.0,
+      "latitude": 39.38014,
+      "longitude": -106.19784,
+      "huc": "140100020301",
+      "swe_in": 0.2,
+      "swe_median_in": 9.6,
+      "pct_of_median": 2.1,
+      "precip_in": 12.4,
+      "snow_depth_in": 0.0,
+      "date": "2026-06-05"
     },
     {
       "triplet": "1125:AZ:SNTL",
@@ -399,7 +414,7 @@
       "pct_of_median": null,
       "precip_in": 18.5,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1127:AZ:SNTL",
@@ -414,7 +429,7 @@
       "pct_of_median": null,
       "precip_in": 7.4,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "861:AZ:SNTL",
@@ -427,24 +442,9 @@
       "swe_in": 0.2,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 15.5,
+      "precip_in": 15.4,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
-    },
-    {
-      "triplet": "866:AZ:SNTL",
-      "name": "Wildcat",
-      "state": "AZ",
-      "elevation_ft": 7850.0,
-      "latitude": 33.74347,
-      "longitude": -109.48078,
-      "huc": "150601010109",
-      "swe_in": 0.2,
-      "swe_median_in": 0.0,
-      "pct_of_median": null,
-      "precip_in": 12.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "387:CO:SNTL",
@@ -459,22 +459,22 @@
       "pct_of_median": null,
       "precip_in": 19.9,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
-      "triplet": "1101:CO:SNTL",
-      "name": "Chapman Tunnel",
+      "triplet": "1040:CO:SNTL",
+      "name": "Mccoy Park",
       "state": "CO",
-      "elevation_ft": 10090.0,
-      "latitude": 39.2621,
-      "longitude": -106.62944,
-      "huc": "140100040504",
+      "elevation_ft": 9500.0,
+      "latitude": 39.60231,
+      "longitude": -106.544,
+      "huc": "140100030304",
       "swe_in": 0.1,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 14.1,
+      "precip_in": 17.4,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1014:CO:SNTL",
@@ -489,37 +489,22 @@
       "pct_of_median": null,
       "precip_in": 11.8,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
-      "triplet": "780:CO:SNTL",
-      "name": "Spud Mountain",
+      "triplet": "869:CO:SNTL",
+      "name": "Willow Creek Pass",
       "state": "CO",
-      "elevation_ft": 10660.0,
-      "latitude": 37.69883,
-      "longitude": -107.77841,
-      "huc": "140801040203",
+      "elevation_ft": 9520.0,
+      "latitude": 40.34734,
+      "longitude": -106.0952,
+      "huc": "140100010102",
       "swe_in": 0.1,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 30.3,
+      "precip_in": 15.5,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
-    },
-    {
-      "triplet": "877:AZ:SNTL",
-      "name": "Workman Creek",
-      "state": "AZ",
-      "elevation_ft": 7030.0,
-      "latitude": 33.81259,
-      "longitude": -110.91852,
-      "huc": "150601030802",
-      "swe_in": 0.1,
-      "swe_median_in": 0.0,
-      "pct_of_median": null,
-      "precip_in": 18.8,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2138:UT:SCAN",
@@ -534,7 +519,7 @@
       "pct_of_median": null,
       "precip_in": 7.71,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "0159:AZ:COOP",
@@ -549,7 +534,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1344:CO:SNTL",
@@ -559,12 +544,12 @@
       "latitude": 37.88929,
       "longitude": -107.84484,
       "huc": "140300030103",
-      "swe_in": 0.0,
+      "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 21.7,
-      "snow_depth_in": 2.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09361500:CO:USGS",
@@ -579,7 +564,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "9362500:CO:USGS",
@@ -594,7 +579,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1030:CO:SNTL",
@@ -605,11 +590,11 @@
       "longitude": -106.38141,
       "huc": "140100010604",
       "swe_in": 0.0,
-      "swe_median_in": 8.8,
+      "swe_median_in": 7.6,
       "pct_of_median": 0.0,
       "precip_in": 23.0,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "05K12:CO:SNOW",
@@ -624,7 +609,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09266500:UT:USGS",
@@ -639,7 +624,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "0372:CO:COOP",
@@ -654,7 +639,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0041:CO:USGS",
@@ -669,7 +654,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "0484:WY:COOP",
@@ -684,7 +669,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "308:AZ:SNTL",
@@ -694,12 +679,12 @@
       "latitude": 34.45654,
       "longitude": -111.40651,
       "huc": "150602030206",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 20.6,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "11R07:AZ:SNOW",
@@ -714,7 +699,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1140:AZ:SNTL",
@@ -729,7 +714,7 @@
       "pct_of_median": null,
       "precip_in": 20.8,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1212:AZ:SNTL",
@@ -742,9 +727,9 @@
       "swe_in": 0.0,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 17.6,
+      "precip_in": 17.5,
       "snow_depth_in": 1.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "317:WY:SNTL",
@@ -757,9 +742,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 18.1,
+      "precip_in": 18.0,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1061:CO:SNTL",
@@ -772,9 +757,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 11.4,
+      "precip_in": 11.3,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1041:CO:SNTL",
@@ -787,9 +772,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 13.2,
+      "precip_in": 13.1,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "902:AZ:SNTL",
@@ -799,12 +784,12 @@
       "latitude": 33.69115,
       "longitude": -109.21685,
       "huc": "150601010107",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 10.3,
+      "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09N05:AZ:SNOW",
@@ -819,7 +804,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1143:AZ:SNTL",
@@ -829,12 +814,12 @@
       "latitude": 36.32671,
       "longitude": -109.05702,
       "huc": "140802040401",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 12.2,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "BS01:AZ:MPRC",
@@ -849,7 +834,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "05K03:CO:SNOW",
@@ -864,7 +849,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09021500:CO:USGS",
@@ -879,7 +864,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "335:CO:SNTL",
@@ -890,11 +875,11 @@
       "longitude": -105.77786,
       "huc": "140100010202",
       "swe_in": 0.0,
-      "swe_median_in": 5.0,
+      "swe_median_in": 4.0,
       "pct_of_median": 0.0,
       "precip_in": 23.2,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09261700:UT:USGS",
@@ -909,7 +894,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "0937300:CO:USGS",
@@ -924,7 +909,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "5800539A:CO:USGS",
@@ -939,7 +924,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTBSWR:UT:BOR",
@@ -954,7 +939,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09213700:WY:BOR",
@@ -969,7 +954,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "342:WY:SNTL",
@@ -979,12 +964,12 @@
       "latitude": 42.6458,
       "longitude": -109.25965,
       "huc": "140401040101",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 16.6,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09213500:WY:USGS",
@@ -999,22 +984,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
-    },
-    {
-      "triplet": "345:CO:SNTL",
-      "name": "Bison Lake",
-      "state": "CO",
-      "elevation_ft": 10950.0,
-      "latitude": 39.76458,
-      "longitude": -107.35628,
-      "huc": "140100011401",
-      "swe_in": 0.0,
-      "swe_median_in": 15.2,
-      "pct_of_median": 0.0,
-      "precip_in": 24.6,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "0761:WY:COOP",
@@ -1029,7 +999,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "348:UT:SNTL",
@@ -1039,12 +1009,27 @@
       "latitude": 38.6799,
       "longitude": -111.59765,
       "huc": "140700030101",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 9.6,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
+    },
+    {
+      "triplet": "1185:CO:SNTL",
+      "name": "Black Mesa",
+      "state": "CO",
+      "elevation_ft": 11580.0,
+      "latitude": 37.78968,
+      "longitude": -108.18376,
+      "huc": "140300020103",
+      "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "0808:AZ:COOP",
@@ -1059,7 +1044,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09217900:UT:USGS",
@@ -1074,7 +1059,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1162:UT:SNTL",
@@ -1084,12 +1069,12 @@
       "latitude": 40.95814,
       "longitude": -110.5828,
       "huc": "140401070303",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 14.1,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09343200:CO:USGS",
@@ -1104,7 +1089,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "353:WY:SNTL",
@@ -1115,11 +1100,11 @@
       "longitude": -110.60992,
       "huc": "140401010402",
       "swe_in": 0.0,
-      "swe_median_in": 11.9,
+      "swe_median_in": 10.9,
       "pct_of_median": 0.0,
-      "precip_in": 18.6,
+      "precip_in": 18.8,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009010:CO:BOR",
@@ -1134,7 +1119,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09050700:CO:USGS",
@@ -1149,7 +1134,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09057500:CO:USGS",
@@ -1164,7 +1149,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "06K21:CO:SNOW",
@@ -1179,7 +1164,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "0825:CO:COOP",
@@ -1194,7 +1179,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "08P06:NM:SNOW",
@@ -1209,7 +1194,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "0951:WY:COOP",
@@ -1223,8 +1208,8 @@
       "swe_median_in": null,
       "pct_of_median": null,
       "precip_in": null,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "08N04:NM:SNOW",
@@ -1239,7 +1224,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "BC01:NM:MPRC",
@@ -1254,7 +1239,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "BOWLLAKE:NM:USGS",
@@ -1269,7 +1254,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "0909:CO:COOP",
@@ -1284,7 +1269,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "12N01:AZ:SNOW",
@@ -1299,7 +1284,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1001:AZ:COOP",
@@ -1314,7 +1299,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1111:NV:SNTL",
@@ -1329,7 +1314,7 @@
       "pct_of_median": null,
       "precip_in": 21.4,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "368:UT:SNTL",
@@ -1339,12 +1324,12 @@
       "latitude": 40.58102,
       "longitude": -110.58587,
       "huc": "140600030604",
-      "swe_in": 0.0,
-      "swe_median_in": 3.0,
-      "pct_of_median": 0.0,
-      "precip_in": 21.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTBRWN:UT:BOR",
@@ -1359,7 +1344,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "371:UT:SNTL",
@@ -1369,12 +1354,12 @@
       "latitude": 39.134,
       "longitude": -111.43722,
       "huc": "140600090302",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 16.6,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "1192:UT:SNTL",
@@ -1384,12 +1369,12 @@
       "latitude": 40.84456,
       "longitude": -110.66068,
       "huc": "140401070301",
-      "swe_in": 0.0,
+      "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 19.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09R11:AZ:SNOW",
@@ -1404,7 +1389,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1153:UT:SNTL",
@@ -1414,12 +1399,12 @@
       "latitude": 37.86943,
       "longitude": -109.44717,
       "huc": "140802030103",
-      "swe_in": 0.0,
+      "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 21.0,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "5800564A:CO:USGS",
@@ -1434,7 +1419,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "913:CO:SNTL",
@@ -1449,7 +1434,7 @@
       "pct_of_median": null,
       "precip_in": 13.4,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "378:CO:SNTL",
@@ -1459,12 +1444,12 @@
       "latitude": 39.87504,
       "longitude": -107.59902,
       "huc": "140500050302",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 18.6,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "380:CO:SNTL",
@@ -1477,9 +1462,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 14.2,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": 14.1,
+      "snow_depth_in": 1.0,
+      "date": "2026-06-05"
     },
     {
       "triplet": "06J37:CO:SNOW",
@@ -1494,7 +1479,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "383:UT:SNTL",
@@ -1507,9 +1492,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 19.3,
+      "precip_in": 18.8,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CTOMWASH:NM:USGS",
@@ -1524,7 +1509,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "UT0011:UT:USGS",
@@ -1539,7 +1524,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1314:AZ:COOP",
@@ -1554,7 +1539,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1326:CO:SNTL",
@@ -1564,12 +1549,12 @@
       "latitude": 39.00074,
       "longitude": -106.83912,
       "huc": "140100040202",
-      "swe_in": 0.0,
+      "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 27.1,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "2161:UT:SCAN",
@@ -1584,7 +1569,7 @@
       "pct_of_median": null,
       "precip_in": 15.26,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1139:AZ:SNTL",
@@ -1599,7 +1584,7 @@
       "pct_of_median": null,
       "precip_in": 11.2,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "12P01:AZ:SNOW",
@@ -1614,7 +1599,22 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
+    },
+    {
+      "triplet": "1101:CO:SNTL",
+      "name": "Chapman Tunnel",
+      "state": "CO",
+      "elevation_ft": 10090.0,
+      "latitude": 39.2621,
+      "longitude": -106.62944,
+      "huc": "140100040504",
+      "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09R07:AZ:SNOW",
@@ -1629,7 +1629,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "396:UT:SNTL",
@@ -1639,12 +1639,12 @@
       "latitude": 40.77458,
       "longitude": -110.0105,
       "huc": "140600031202",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
       "precip_in": 18.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "1736:WY:COOP",
@@ -1659,7 +1659,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1609:CO:COOP",
@@ -1674,7 +1674,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTCLEV:UT:BOR",
@@ -1689,7 +1689,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09118450:CO:USGS",
@@ -1704,7 +1704,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1713:CO:COOP",
@@ -1719,7 +1719,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09379900:AZ:USGS",
@@ -1734,7 +1734,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09034250:CO:USGS",
@@ -1749,7 +1749,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09019000:CO:USGS",
@@ -1764,7 +1764,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09095500:CO:USGS",
@@ -1779,7 +1779,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09180500:UT:USGS",
@@ -1794,7 +1794,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09070500:CO:USGS",
@@ -1809,7 +1809,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09019500:CO:USGS",
@@ -1824,7 +1824,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09058000:CO:USGS",
@@ -1839,7 +1839,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09380000:AZ:USGS",
@@ -1854,7 +1854,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "409:CO:SNTL",
@@ -1864,12 +1864,12 @@
       "latitude": 38.41819,
       "longitude": -108.38313,
       "huc": "140200050202",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 22.8,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "904:CO:SNTL",
@@ -1884,7 +1884,7 @@
       "pct_of_median": null,
       "precip_in": 26.1,
       "snow_depth_in": 1.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "415:CO:SNTL",
@@ -1899,7 +1899,7 @@
       "pct_of_median": null,
       "precip_in": 13.6,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09S07:AZ:SNOW",
@@ -1914,7 +1914,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1236:UT:SNTL",
@@ -1927,9 +1927,9 @@
       "swe_in": 0.0,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 15.2,
+      "precip_in": 14.6,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "06J17:CO:SNOW",
@@ -1944,7 +1944,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1886:CO:COOP",
@@ -1959,7 +1959,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1281:CO:SNTLT",
@@ -1973,8 +1973,8 @@
       "swe_median_in": null,
       "pct_of_median": null,
       "precip_in": null,
-      "snow_depth_in": 1.0,
-      "date": "2026-06-04"
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09398300:AZ:BOR",
@@ -1989,7 +1989,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009340:CO:BOR",
@@ -2004,7 +2004,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "07L01:CO:SNOW",
@@ -2019,7 +2019,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1959:CO:COOP",
@@ -2034,7 +2034,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "426:CO:SNTL",
@@ -2044,12 +2044,12 @@
       "latitude": 40.16749,
       "longitude": -107.05769,
       "huc": "140500010106",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 15.0,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09368000:CO:USGS",
@@ -2064,7 +2064,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09126000:CO:BOR",
@@ -2079,7 +2079,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09286700:UT:USGS",
@@ -2094,7 +2094,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09287000:UT:USGS",
@@ -2109,7 +2109,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09288000:UT:USGS",
@@ -2124,22 +2124,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
-    },
-    {
-      "triplet": "432:UT:SNTL",
-      "name": "Currant Creek",
-      "state": "UT",
-      "elevation_ft": 7920.0,
-      "latitude": 40.35747,
-      "longitude": -111.08993,
-      "huc": "140600040401",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
-      "pct_of_median": null,
-      "precip_in": 14.3,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09286699:UT:USGS",
@@ -2154,7 +2139,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTCURR:UT:BOR",
@@ -2169,7 +2154,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09147000:CO:USGS",
@@ -2184,7 +2169,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "08P05:NM:SNOW",
@@ -2199,7 +2184,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2242:WY:COOP",
@@ -2213,8 +2198,8 @@
       "swe_median_in": null,
       "pct_of_median": null,
       "precip_in": null,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "435:UT:SNTL",
@@ -2228,8 +2213,8 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 17.3,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "snow_depth_in": 1.0,
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0002:CO:USGS",
@@ -2244,7 +2229,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2243:NV:COOP",
@@ -2259,7 +2244,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2281:CO:COOP",
@@ -2274,7 +2259,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009020:CO:BOR",
@@ -2289,7 +2274,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "444:UT:SNTL",
@@ -2302,9 +2287,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 14.7,
+      "precip_in": 14.6,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09449000:AZ:USGS",
@@ -2319,7 +2304,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "449:WY:SNTL",
@@ -2332,9 +2317,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 21.6,
+      "precip_in": 21.5,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "UT0008:UT:USGS",
@@ -2349,7 +2334,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09180000:UT:USGS",
@@ -2364,7 +2349,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09166500:CO:USGS",
@@ -2379,7 +2364,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09169000:CO:USGS",
@@ -2394,7 +2379,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0043:CO:USGS",
@@ -2409,7 +2394,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "452:UT:SNTL",
@@ -2419,12 +2404,12 @@
       "latitude": 38.2084,
       "longitude": -111.47412,
       "huc": "140700030305",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 8.1,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0042:CO:USGS",
@@ -2439,7 +2424,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "457:CO:SNTL",
@@ -2454,7 +2439,7 @@
       "pct_of_median": null,
       "precip_in": 24.4,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "UT0005:UT:USGS",
@@ -2469,7 +2454,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09279150:UT:USGS",
@@ -2484,7 +2469,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09295000:UT:USGS",
@@ -2499,7 +2484,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09302000:UT:USGS",
@@ -2514,7 +2499,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09277500:UT:USGS",
@@ -2529,7 +2514,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2608:NM:COOP",
@@ -2544,7 +2529,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09070000:CO:USGS",
@@ -2559,7 +2544,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09398300:AZ:USGS",
@@ -2574,7 +2559,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09219750:UT:USGS",
@@ -2589,7 +2574,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0005:CO:USGS",
@@ -2604,7 +2589,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09112500:CO:USGS",
@@ -2619,7 +2604,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09507580:AZ:USGS",
@@ -2634,22 +2619,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
-    },
-    {
-      "triplet": "461:UT:SNTL",
-      "name": "East Willow Creek",
-      "state": "UT",
-      "elevation_ft": 8300.0,
-      "latitude": 39.31213,
-      "longitude": -109.53179,
-      "huc": "140600060205",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
-      "pct_of_median": null,
-      "precip_in": 13.3,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2130:UT:SCAN",
@@ -2662,9 +2632,9 @@
       "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 8.12,
+      "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09214600:WY:BOR",
@@ -2679,7 +2649,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1163:UT:SNTL",
@@ -2692,9 +2662,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 14.1,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": 14.0,
+      "snow_depth_in": 1.0,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09220000:WY:USGS",
@@ -2709,7 +2679,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "465:CO:SNTL",
@@ -2724,7 +2694,7 @@
       "pct_of_median": null,
       "precip_in": 20.7,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2785:NM:COOP",
@@ -2739,7 +2709,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTELLK:UT:BOR",
@@ -2754,7 +2724,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09242500:CO:USGS",
@@ -2769,7 +2739,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1323:UT:SNTL",
@@ -2779,12 +2749,12 @@
       "latitude": 37.82308,
       "longitude": -109.77156,
       "huc": "140802010402",
-      "swe_in": 0.0,
+      "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 13.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "467:CO:SNTL",
@@ -2799,7 +2769,7 @@
       "pct_of_median": null,
       "precip_in": 22.0,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "468:WY:SNTL",
@@ -2809,12 +2779,12 @@
       "latitude": 43.00657,
       "longitude": -109.75893,
       "huc": "140401020103",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 15.3,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09246200:CO:USGS",
@@ -2829,7 +2799,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1252:CO:SNTL",
@@ -2839,12 +2809,12 @@
       "latitude": 40.79637,
       "longitude": -107.10113,
       "huc": "140500010601",
-      "swe_in": 0.0,
+      "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 22.5,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09246300:CO:BOR",
@@ -2859,7 +2829,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1120:CO:SNTL",
@@ -2872,9 +2842,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 17.2,
+      "precip_in": 17.1,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09319000:UT:USGS",
@@ -2889,7 +2859,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09309600:UT:USGS",
@@ -2904,7 +2874,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "UT0002:UT:USGS",
@@ -2919,7 +2889,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "3170:WY:COOP",
@@ -2934,7 +2904,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09326500:UT:USGS",
@@ -2949,7 +2919,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0007:CO:USGS",
@@ -2964,7 +2934,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09310500:UT:USGS",
@@ -2979,7 +2949,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "11L03:UT:SNOW",
@@ -2994,7 +2964,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1149:UT:SNTL",
@@ -3007,24 +2977,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 7.6,
+      "precip_in": 7.7,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
-    },
-    {
-      "triplet": "481:UT:SNTL",
-      "name": "Five Points Lake",
-      "state": "UT",
-      "elevation_ft": 10920.0,
-      "latitude": 40.71785,
-      "longitude": -110.46721,
-      "huc": "140600030701",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
-      "pct_of_median": null,
-      "precip_in": 21.2,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "5800643A:CO:USGS",
@@ -3039,7 +2994,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "3010:AZ:COOP",
@@ -3054,7 +3009,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09234400:UT:BOR",
@@ -3069,7 +3024,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09234300:UT:USGS",
@@ -3084,7 +3039,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09363100:CO:USGS",
@@ -3099,7 +3054,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09P01:AZ:SNOW",
@@ -3114,7 +3069,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "FR01:AZ:MPRC",
@@ -3129,7 +3084,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09211150:WY:BOR",
@@ -3144,7 +3099,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "3396:WY:COOP",
@@ -3159,7 +3114,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1186:CO:SNTL",
@@ -3174,7 +3129,7 @@
       "pct_of_median": null,
       "precip_in": 18.4,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09R05:AZ:SNOW",
@@ -3189,7 +3144,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1121:AZ:SNTL",
@@ -3204,7 +3159,7 @@
       "pct_of_median": null,
       "precip_in": 11.0,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "11P02:AZ:SNOW",
@@ -3219,7 +3174,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09022000:CO:USGS",
@@ -3234,7 +3189,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09330000:UT:USGS",
@@ -3249,7 +3204,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "486:NM:SNTL",
@@ -3262,9 +3217,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 7.1,
+      "precip_in": 7.0,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009320:CO:BOR",
@@ -3279,7 +3234,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009330:CO:BOR",
@@ -3294,7 +3249,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "488:AZ:SNTL",
@@ -3309,7 +3264,7 @@
       "pct_of_median": null,
       "precip_in": 20.4,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09080190:CO:USGS",
@@ -3324,7 +3279,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0046:CO:USGS",
@@ -3339,7 +3294,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1066:UT:SNTL",
@@ -3349,12 +3304,12 @@
       "latitude": 37.40083,
       "longitude": -113.45988,
       "huc": "150100080701",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 19.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09466500:AZ:USGS",
@@ -3369,7 +3324,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09430500:NM:USGS",
@@ -3384,7 +3339,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09432000:NM:USGS",
@@ -3399,7 +3354,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09469499:AZ:USGS",
@@ -3414,7 +3369,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09448500:AZ:USGS",
@@ -3429,7 +3384,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0009:CO:USGS",
@@ -3444,7 +3399,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "3359:CO:COOP",
@@ -3459,7 +3414,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1304:UT:SNTL",
@@ -3474,7 +3429,7 @@
       "pct_of_median": null,
       "precip_in": 20.4,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "06J11:CO:SNOW",
@@ -3489,7 +3444,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0045:CO:USGS",
@@ -3504,7 +3459,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "05J16:CO:SNOW",
@@ -3519,7 +3474,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "11P01:AZ:SNOW",
@@ -3534,7 +3489,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "3581:AZ:COOP",
@@ -3549,7 +3504,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "3488:CO:COOP",
@@ -3564,7 +3519,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "3496:CO:COOP",
@@ -3579,7 +3534,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "3500:CO:COOP",
@@ -3594,7 +3549,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0044:CO:USGS",
@@ -3609,7 +3564,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0010:CO:USGS",
@@ -3624,7 +3579,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009030:CO:BOR",
@@ -3639,7 +3594,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09234400:UT:USGS",
@@ -3654,7 +3609,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09211150:WY:USGS",
@@ -3669,7 +3624,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09315000:UT:USGS",
@@ -3684,7 +3639,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09188500:WY:USGS",
@@ -3699,7 +3654,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09217000:WY:USGS",
@@ -3714,7 +3669,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09234500:UT:USGS",
@@ -3729,7 +3684,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09209400:WY:USGS",
@@ -3744,7 +3699,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2131:UT:SCAN",
@@ -3759,7 +3714,7 @@
       "pct_of_median": null,
       "precip_in": 3.35,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "4065:WY:COOP",
@@ -3773,8 +3728,8 @@
       "swe_median_in": null,
       "pct_of_median": null,
       "precip_in": null,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "UT0006:UT:USGS",
@@ -3789,7 +3744,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "505:CO:SNTL",
@@ -3800,11 +3755,11 @@
       "longitude": -105.8694,
       "huc": "140100020201",
       "swe_in": 0.0,
-      "swe_median_in": 0.3,
-      "pct_of_median": 0.0,
-      "precip_in": 16.0,
+      "swe_median_in": 0.0,
+      "pct_of_median": null,
+      "precip_in": 15.9,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "08M03:CO:SNOW",
@@ -3819,7 +3774,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009170:CO:BOR",
@@ -3834,7 +3789,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTGUNL:UT:BOR",
@@ -3849,7 +3804,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09127600:CO:USGS",
@@ -3864,7 +3819,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09125400:CO:USGS",
@@ -3879,7 +3834,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "3662:CO:COOP",
@@ -3894,7 +3849,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09124800:CO:USGS",
@@ -3909,7 +3864,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09114500:CO:USGS",
@@ -3924,7 +3879,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09152500:CO:USGS",
@@ -3939,7 +3894,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09127999:CO:USGS",
@@ -3954,7 +3909,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1065:UT:SNTL",
@@ -3967,9 +3922,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 20.2,
+      "precip_in": 19.9,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09273400:UT:USGS",
@@ -3984,7 +3939,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "06K42:CO:SNOW",
@@ -3999,7 +3954,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09223000:WY:USGS",
@@ -4014,7 +3969,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09223100:WY:USGS",
@@ -4029,7 +3984,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "509:WY:SNTL",
@@ -4039,12 +3994,12 @@
       "latitude": 42.146,
       "longitude": -110.67833,
       "huc": "140401070504",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 15.8,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "511:AZ:SNTL",
@@ -4054,12 +4009,12 @@
       "latitude": 33.65352,
       "longitude": -109.30877,
       "huc": "150601010107",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 13.3,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "11R05:AZ:SNOW",
@@ -4074,7 +4029,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "969:AZ:SNTL",
@@ -4089,7 +4044,7 @@
       "pct_of_median": null,
       "precip_in": 19.9,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "3828:AZ:COOP",
@@ -4104,7 +4059,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2166:UT:SCAN",
@@ -4119,7 +4074,7 @@
       "pct_of_median": null,
       "precip_in": 5.88,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "07H01:WY:SNOW",
@@ -4134,7 +4089,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1271:AZ:SNTL",
@@ -4149,7 +4104,7 @@
       "pct_of_median": null,
       "precip_in": 17.4,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "3867:CO:COOP",
@@ -4164,7 +4119,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "519:AZ:SNTL",
@@ -4179,7 +4134,7 @@
       "pct_of_median": null,
       "precip_in": 14.2,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1193:UT:SNTLT",
@@ -4192,9 +4147,9 @@
       "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 14.9,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "521:UT:SNTL",
@@ -4204,12 +4159,12 @@
       "latitude": 40.95009,
       "longitude": -110.48419,
       "huc": "140401070203",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 15.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "522:UT:SNTL",
@@ -4222,9 +4177,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 12.5,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": 12.4,
+      "snow_depth_in": 4.0,
+      "date": "2026-06-05"
     },
     {
       "triplet": "08N05:NM:SNOW",
@@ -4239,7 +4194,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "HV01:NM:MPRC",
@@ -4254,7 +4209,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1187:CO:SNTL",
@@ -4264,12 +4219,12 @@
       "latitude": 40.0359,
       "longitude": -105.75472,
       "huc": "140100010205",
-      "swe_in": 0.0,
+      "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 17.7,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09255450:WY:BOR",
@@ -4284,7 +4239,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "263671:NV:COOP",
@@ -4299,7 +4254,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "528:UT:SNTL",
@@ -4312,9 +4267,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 12.8,
+      "precip_in": 12.7,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009040:CO:BOR",
@@ -4329,7 +4284,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "3069:AZ:CSCAN",
@@ -4344,7 +4299,7 @@
       "pct_of_median": null,
       "precip_in": 4.64,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0011:CO:USGS",
@@ -4359,7 +4314,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTHNTN:UT:BOR",
@@ -4374,7 +4329,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09317801:UT:USGS",
@@ -4389,7 +4344,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09317997:UT:USGS",
@@ -4404,7 +4359,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1216:UT:SNTL",
@@ -4417,9 +4372,9 @@
       "swe_in": 0.0,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 20.5,
+      "precip_in": 20.4,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTHUNT:UT:BOR",
@@ -4434,7 +4389,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "11K05:UT:SNOW",
@@ -4449,7 +4404,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "538:CO:SNTL",
@@ -4459,12 +4414,12 @@
       "latitude": 37.93389,
       "longitude": -107.6762,
       "huc": "140200060201",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 17.8,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "06K04:CO:SNOW",
@@ -4479,7 +4434,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "542:CO:SNTL",
@@ -4489,12 +4444,12 @@
       "latitude": 39.07543,
       "longitude": -106.61154,
       "huc": "140100040101",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 13.5,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "544:WY:SNTL",
@@ -4505,11 +4460,11 @@
       "longitude": -110.67753,
       "huc": "140401070502",
       "swe_in": 0.0,
-      "swe_median_in": 6.2,
+      "swe_median_in": 5.0,
       "pct_of_median": 0.0,
       "precip_in": 26.4,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "07M06:CO:SNOW",
@@ -4524,7 +4479,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "547:CO:SNTL",
@@ -4534,12 +4489,12 @@
       "latitude": 39.29228,
       "longitude": -106.54907,
       "huc": "140100040501",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 14.5,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTIVIN:UT:BOR",
@@ -4554,7 +4509,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTJACK:UT:BOR",
@@ -4569,7 +4524,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009050:CO:BOR",
@@ -4584,7 +4539,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "UT0003:UT:USGS",
@@ -4599,7 +4554,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09323900:UT:BOR",
@@ -4614,7 +4569,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "05K21:CO:SNOW",
@@ -4629,7 +4584,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "970:CO:SNTL",
@@ -4639,12 +4594,12 @@
       "latitude": 39.7645,
       "longitude": -105.90655,
       "huc": "140100010402",
-      "swe_in": 0.0,
-      "swe_median_in": 1.5,
-      "pct_of_median": 0.0,
-      "precip_in": 18.8,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "554:WY:SNTL",
@@ -4654,12 +4609,12 @@
       "latitude": 42.26554,
       "longitude": -110.80181,
       "huc": "140401070501",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
       "precip_in": 21.9,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "5105:WY:COOP",
@@ -4674,7 +4629,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTKENS:UT:BOR",
@@ -4689,7 +4644,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "555:WY:SNTL",
@@ -4699,12 +4654,12 @@
       "latitude": 43.24922,
       "longitude": -110.01671,
       "huc": "140401010302",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 19.7,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "07L04:CO:SNOW",
@@ -4719,7 +4674,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "556:CO:SNTL",
@@ -4729,12 +4684,12 @@
       "latitude": 39.3172,
       "longitude": -106.61501,
       "huc": "140100040504",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 10.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "559:UT:SNTL",
@@ -4749,7 +4704,7 @@
       "pct_of_median": null,
       "precip_in": 15.6,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "KINLCHEE:AZ:USGS",
@@ -4764,7 +4719,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09279200:UT:USGS",
@@ -4779,7 +4734,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "561:UT:SNTL",
@@ -4792,9 +4747,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 24.7,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": 24.6,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTKOLB:UT:BOR",
@@ -4809,7 +4764,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "15N05:NV:SNOW",
@@ -4824,7 +4779,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2141:NV:SCAN",
@@ -4839,7 +4794,7 @@
       "pct_of_median": null,
       "precip_in": 18.57,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09365500:CO:USGS",
@@ -4854,7 +4809,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "07M08:CO:SNOW",
@@ -4869,7 +4824,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09124500:CO:USGS",
@@ -4884,7 +4839,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09289500:UT:USGS",
@@ -4899,7 +4854,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09291000:UT:USGS",
@@ -4914,7 +4869,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009060:CO:BOR",
@@ -4929,7 +4884,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09427500:AZ:BOR",
@@ -4944,7 +4899,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "05J10:CO:SNOW",
@@ -4959,7 +4914,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "565:CO:SNTL",
@@ -4969,12 +4924,12 @@
       "latitude": 40.41446,
       "longitude": -105.81941,
       "huc": "140100010302",
-      "swe_in": 0.0,
-      "swe_median_in": 7.0,
-      "pct_of_median": 0.0,
-      "precip_in": 22.8,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "11P12:AZ:SNOW",
@@ -4989,7 +4944,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09400910:AZ:USGS",
@@ -5004,7 +4959,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09421000:AZ:BOR",
@@ -5019,7 +4974,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09422500:AZ:BOR",
@@ -5034,7 +4989,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09379900:AZ:BOR",
@@ -5049,7 +5004,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "566:UT:SNTL",
@@ -5059,12 +5014,12 @@
       "latitude": 40.59709,
       "longitude": -110.43316,
       "huc": "140600030705",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 18.0,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "1116:UT:SNTL",
@@ -5074,12 +5029,12 @@
       "latitude": 40.5502,
       "longitude": -110.3529,
       "huc": "140600030705",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 13.7,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "513:UT:SNTL",
@@ -5090,11 +5045,11 @@
       "longitude": -110.62121,
       "huc": "140600030601",
       "swe_in": 0.0,
-      "swe_median_in": 7.2,
+      "swe_median_in": 6.2,
       "pct_of_median": 0.0,
       "precip_in": 25.7,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "05K07:CO:SNOW",
@@ -5109,7 +5064,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09115000:CO:USGS",
@@ -5124,7 +5079,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "4436:NV:COOP",
@@ -5139,7 +5094,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "572:UT:SNTL",
@@ -5152,9 +5107,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 17.2,
+      "precip_in": 17.1,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09L01:UT:SNOW",
@@ -5169,7 +5124,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1215:UT:SNTL",
@@ -5182,9 +5137,9 @@
       "swe_in": 0.0,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 12.7,
+      "precip_in": 12.6,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "UT0009:UT:USGS",
@@ -5199,7 +5154,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0013:CO:USGS",
@@ -5214,7 +5169,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1112:NV:SNTL",
@@ -5224,12 +5179,12 @@
       "latitude": 36.30537,
       "longitude": -115.67508,
       "huc": "150100150206",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 24.6,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "15N03:NV:SNOW",
@@ -5244,7 +5199,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "07M23:CO:SNOW",
@@ -5259,7 +5214,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009070:CO:BOR",
@@ -5274,7 +5229,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "5800738A:CO:USGS",
@@ -5289,7 +5244,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09384000:AZ:USGS",
@@ -5304,7 +5259,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09394500:AZ:USGS",
@@ -5319,7 +5274,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "LOSODVCO:CO:USGS",
@@ -5334,7 +5289,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2155:UT:SCAN",
@@ -5349,7 +5304,7 @@
       "pct_of_median": null,
       "precip_in": 4.78,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09257000:WY:USGS",
@@ -5364,7 +5319,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09260000:CO:USGS",
@@ -5379,7 +5334,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09253000:CO:USGS",
@@ -5394,7 +5349,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1047:WY:SNTL",
@@ -5404,12 +5359,12 @@
       "latitude": 41.07051,
       "longitude": -106.94284,
       "huc": "140500030103",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 33.9,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "586:CO:SNTL",
@@ -5419,12 +5374,12 @@
       "latitude": 37.79895,
       "longitude": -107.92475,
       "huc": "140300020201",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 16.3,
-      "snow_depth_in": 1.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "589:CO:SNTL",
@@ -5434,12 +5389,12 @@
       "latitude": 37.89169,
       "longitude": -108.19636,
       "huc": "140300030302",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 19.7,
-      "snow_depth_in": 1.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "1261:UT:SNTL",
@@ -5449,12 +5404,12 @@
       "latitude": 38.07,
       "longitude": -110.77241,
       "huc": "140700010301",
-      "swe_in": 0.0,
+      "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 12.9,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0014:CO:USGS",
@@ -5469,7 +5424,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "593:UT:SNTL",
@@ -5482,9 +5437,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 14.5,
+      "precip_in": 14.4,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "595:NM:SNTL",
@@ -5494,12 +5449,12 @@
       "latitude": 33.36089,
       "longitude": -107.83203,
       "huc": "150400010402",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 8.0,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "597:WY:SNTL",
@@ -5512,9 +5467,9 @@
       "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 20.2,
-      "snow_depth_in": 1.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09353500:CO:USGS",
@@ -5529,7 +5484,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "940:CO:SNTL",
@@ -5542,9 +5497,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 24.6,
+      "precip_in": 24.5,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "06K49:CO:SNOW",
@@ -5559,7 +5514,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09385500:AZ:BOR",
@@ -5574,7 +5529,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "607:CO:SNTL",
@@ -5584,12 +5539,12 @@
       "latitude": 40.07832,
       "longitude": -106.67095,
       "huc": "140100011001",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 10.9,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "5327:CO:COOP",
@@ -5604,7 +5559,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "905:CO:SNTL",
@@ -5619,7 +5574,7 @@
       "pct_of_median": null,
       "precip_in": 14.9,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09370500:CO:USGS",
@@ -5634,7 +5589,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "617:AZ:SNTL",
@@ -5648,8 +5603,8 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 11.7,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "snow_depth_in": 1.0,
+      "date": "2026-06-05"
     },
     {
       "triplet": "618:CO:SNTL",
@@ -5659,12 +5614,12 @@
       "latitude": 39.12899,
       "longitude": -107.28834,
       "huc": "140200040203",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 20.5,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "06K28:CO:SNOW",
@@ -5679,7 +5634,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "5412:AZ:COOP",
@@ -5694,22 +5649,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
-    },
-    {
-      "triplet": "1040:CO:SNTL",
-      "name": "Mccoy Park",
-      "state": "CO",
-      "elevation_ft": 9500.0,
-      "latitude": 39.60231,
-      "longitude": -106.544,
-      "huc": "140100030304",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
-      "pct_of_median": null,
-      "precip_in": 17.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2140:UT:SCAN",
@@ -5724,7 +5664,7 @@
       "pct_of_median": null,
       "precip_in": 4.75,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "08P07:NM:SNOW",
@@ -5739,7 +5679,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "MPHC2000:CO:BOR",
@@ -5754,7 +5694,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09218400:WY:BOR",
@@ -5769,7 +5709,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "08K04:CO:SNOW",
@@ -5784,7 +5724,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "622:CO:SNTL",
@@ -5797,9 +5737,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 19.7,
+      "precip_in": 19.6,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "5531:CO:COOP",
@@ -5814,7 +5754,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "06K12:CO:SNOW",
@@ -5829,7 +5769,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0015:CO:USGS",
@@ -5844,7 +5784,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09183500:UT:USGS",
@@ -5859,7 +5799,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTMILF:UT:BOR",
@@ -5874,7 +5814,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTMILL:UT:BOR",
@@ -5889,7 +5829,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "05J24:CO:SNOW",
@@ -5904,7 +5844,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "629:CO:SNTL",
@@ -5918,8 +5858,8 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 18.0,
-      "snow_depth_in": null,
-      "date": "2026-06-04"
+      "snow_depth_in": 0.0,
+      "date": "2026-06-05"
     },
     {
       "triplet": "08N06:NM:SNOW",
@@ -5934,7 +5874,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "MS01:NM:MPRC",
@@ -5949,7 +5889,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "632:CO:SNTL",
@@ -5964,7 +5904,7 @@
       "pct_of_median": null,
       "precip_in": 20.3,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09290500:UT:BOR",
@@ -5979,7 +5919,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "640:AZ:SNTL",
@@ -5992,9 +5932,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 18.7,
+      "precip_in": 18.6,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "11R12:AZ:SNOW",
@@ -6009,7 +5949,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009080:CO:BOR",
@@ -6024,7 +5964,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09267500:UT:USGS",
@@ -6039,7 +5979,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "643:UT:SNTL",
@@ -6052,9 +5992,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 17.0,
+      "precip_in": 16.7,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2134:UT:SCAN",
@@ -6069,7 +6009,7 @@
       "pct_of_median": null,
       "precip_in": 5.51,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "6555:WY:COOP",
@@ -6084,7 +6024,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1269:UT:SNTL",
@@ -6097,9 +6037,9 @@
       "swe_in": 0.0,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 14.1,
+      "precip_in": 13.8,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09041500:CO:USGS",
@@ -6114,7 +6054,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09131400:CO:USGS",
@@ -6129,7 +6069,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09330500:UT:USGS",
@@ -6144,7 +6084,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09041400:CO:USGS",
@@ -6159,7 +6099,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "UT0007:UT:USGS",
@@ -6174,7 +6114,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009350:CO:BOR",
@@ -6189,7 +6129,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "06K06:CO:SNOW",
@@ -6204,7 +6144,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "658:CO:SNTL",
@@ -6214,12 +6154,12 @@
       "latitude": 39.29695,
       "longitude": -106.60786,
       "huc": "140100040504",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 9.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "9355200:NM:USGS",
@@ -6234,7 +6174,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09344400:CO:USGS",
@@ -6249,7 +6189,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09109090:NM:BOR",
@@ -6264,7 +6204,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1138:NM:SNTL",
@@ -6278,8 +6218,8 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 10.8,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "661:WY:SNTL",
@@ -6289,12 +6229,12 @@
       "latitude": 43.11265,
       "longitude": -109.94947,
       "huc": "140401020201",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 16.0,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09205000:WY:USGS",
@@ -6309,7 +6249,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "11P05:AZ:SNOW",
@@ -6324,7 +6264,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09132500:CO:USGS",
@@ -6339,7 +6279,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0016:CO:USGS",
@@ -6354,7 +6294,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "5924:AZ:COOP",
@@ -6369,7 +6309,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "05J09:CO:SNOW",
@@ -6384,7 +6324,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "669:CO:SNTL",
@@ -6394,12 +6334,12 @@
       "latitude": 39.07818,
       "longitude": -107.14388,
       "huc": "140100040703",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 20.7,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09S04:AZ:SNOW",
@@ -6414,7 +6354,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09504500:AZ:USGS",
@@ -6429,7 +6369,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09504420:AZ:USGS",
@@ -6444,7 +6384,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09344300:CO:USGS",
@@ -6459,7 +6399,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "675:CO:SNTL",
@@ -6469,12 +6409,12 @@
       "latitude": 39.09035,
       "longitude": -107.63583,
       "huc": "140200040101",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 16.3,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "265846:NV:COOP",
@@ -6489,7 +6429,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "6180:AZ:COOP",
@@ -6504,7 +6444,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "6258:CO:COOP",
@@ -6519,7 +6459,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009100:CO:BOR",
@@ -6534,7 +6474,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "06L02:CO:SNOW",
@@ -6549,7 +6489,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "680:CO:SNTL",
@@ -6559,12 +6499,12 @@
       "latitude": 38.81982,
       "longitude": -106.58962,
       "huc": "140200010107",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 12.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "682:CO:SNTL",
@@ -6574,12 +6514,12 @@
       "latitude": 39.04433,
       "longitude": -107.87951,
       "huc": "140200050111",
-      "swe_in": 0.0,
-      "swe_median_in": 4.8,
-      "pct_of_median": 0.0,
-      "precip_in": 27.1,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "6323:AZ:COOP",
@@ -6594,7 +6534,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "688:CO:SNTL",
@@ -6604,12 +6544,12 @@
       "latitude": 40.39803,
       "longitude": -105.84606,
       "huc": "140100010302",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 14.6,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "6481:AZ:COOP",
@@ -6624,7 +6564,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09349800:CO:USGS",
@@ -6639,7 +6579,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09196500:WY:USGS",
@@ -6654,7 +6594,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09337000:UT:USGS",
@@ -6669,7 +6609,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2144:NV:SCAN",
@@ -6682,9 +6622,9 @@
       "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 8.22,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09352000:CO:USGS",
@@ -6699,7 +6639,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "7260:WY:COOP",
@@ -6714,7 +6654,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "UT0004:UT:USGS",
@@ -6729,7 +6669,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09105000:CO:USGS",
@@ -6744,7 +6684,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "6653:AZ:COOP",
@@ -6759,7 +6699,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09G11:WY:SNOW",
@@ -6774,7 +6714,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1133:WY:SNTL",
@@ -6789,7 +6729,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "06L03:CO:SNOW",
@@ -6804,7 +6744,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "701:CO:SNTL",
@@ -6814,12 +6754,12 @@
       "latitude": 38.48864,
       "longitude": -106.33967,
       "huc": "140200030105",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 16.2,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "6796:AZ:COOP",
@@ -6834,7 +6774,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2132:UT:SCAN",
@@ -6849,7 +6789,7 @@
       "pct_of_median": null,
       "precip_in": 5.34,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09311000:UT:USGS",
@@ -6864,7 +6804,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "UT0012:UT:USGS",
@@ -6879,7 +6819,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "705:AZ:SNTL",
@@ -6893,8 +6833,8 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 22.0,
-      "snow_depth_in": 1.0,
-      "date": "2026-06-04"
+      "snow_depth_in": 0.0,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTQUAI:UT:BOR",
@@ -6909,7 +6849,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "709:CO:SNTL",
@@ -6922,9 +6862,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 29.2,
+      "precip_in": 29.1,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1110:NV:SNTL",
@@ -6937,9 +6877,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 28.0,
+      "precip_in": 27.8,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09386921:NM:USGS",
@@ -6954,7 +6894,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "05K18:CO:SNOW",
@@ -6969,7 +6909,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0021:CO:USGS",
@@ -6984,7 +6924,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09378630:UT:USGS",
@@ -6999,7 +6939,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTREDF:UT:BOR",
@@ -7014,7 +6954,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "713:CO:SNTL",
@@ -7025,11 +6965,11 @@
       "longitude": -107.71389,
       "huc": "140801040103",
       "swe_in": 0.0,
-      "swe_median_in": 2.2,
+      "swe_median_in": 1.2,
       "pct_of_median": 0.0,
       "precip_in": 24.0,
       "snow_depth_in": 1.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "714:UT:SNTL",
@@ -7039,12 +6979,12 @@
       "latitude": 39.45197,
       "longitude": -111.27221,
       "huc": "140600090202",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 17.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "UT0001:UT:USGS",
@@ -7059,7 +6999,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09275900:UT:USGS",
@@ -7074,7 +7014,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09147022:CO:BOR",
@@ -7089,7 +7029,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "07J01:CO:SNOW",
@@ -7104,7 +7044,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09343300:CO:USGS",
@@ -7119,7 +7059,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09386900:NM:USGS",
@@ -7134,7 +7074,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "717:CO:SNTL",
@@ -7144,12 +7084,12 @@
       "latitude": 40.10844,
       "longitude": -107.29383,
       "huc": "140500050102",
-      "swe_in": 0.0,
-      "swe_median_in": 9.2,
-      "pct_of_median": 0.0,
-      "precip_in": 22.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09085000:CO:USGS",
@@ -7164,7 +7104,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09277800:UT:USGS",
@@ -7179,7 +7119,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09279000:UT:USGS",
@@ -7194,7 +7134,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "720:UT:SNTL",
@@ -7207,9 +7147,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 16.4,
+      "precip_in": 16.3,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "7845:WY:COOP",
@@ -7224,7 +7164,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "10G21:WY:SNOW",
@@ -7239,7 +7179,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009110:CO:BOR",
@@ -7254,7 +7194,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0022:CO:USGS",
@@ -7269,7 +7209,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "7390:AZ:COOP",
@@ -7284,7 +7224,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09498500:AZ:USGS",
@@ -7299,7 +7239,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09501000:AZ:BOR",
@@ -7314,7 +7254,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0023:CO:USGS",
@@ -7329,7 +7269,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09469000:AZ:BOR",
@@ -7344,7 +7284,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09444500:AZ:USGS",
@@ -7359,7 +7299,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09444000:NM:USGS",
@@ -7374,7 +7314,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09379500:UT:USGS",
@@ -7389,7 +7329,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09355200:NM:USGS",
@@ -7404,7 +7344,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09346400:CO:USGS",
@@ -7419,7 +7359,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09172500:CO:USGS",
@@ -7434,7 +7374,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09471000:AZ:USGS",
@@ -7449,7 +7389,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09328500:UT:USGS",
@@ -7464,7 +7404,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2159:UT:SCAN",
@@ -7479,7 +7419,7 @@
       "pct_of_median": null,
       "precip_in": 4.35,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UTSAND:UT:BOR",
@@ -7494,7 +7434,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "732:WY:SNTL",
@@ -7504,12 +7444,12 @@
       "latitude": 41.11179,
       "longitude": -107.17043,
       "huc": "140500030208",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 18.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09408400:UT:USGS",
@@ -7524,7 +7464,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "7460:CO:COOP",
@@ -7539,7 +7479,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "737:CO:SNTL",
@@ -7549,12 +7489,12 @@
       "latitude": 39.01467,
       "longitude": -107.04933,
       "huc": "140100040701",
-      "swe_in": 0.0,
-      "swe_median_in": 7.2,
-      "pct_of_median": 0.0,
-      "precip_in": 29.6,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09311000:UT:BOR",
@@ -7569,7 +7509,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "739:CO:SNTL",
@@ -7579,12 +7519,12 @@
       "latitude": 37.64562,
       "longitude": -108.00833,
       "huc": "140300020204",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 14.9,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "7369:NV:COOP",
@@ -7599,7 +7539,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "742:UT:SNTL",
@@ -7609,12 +7549,12 @@
       "latitude": 39.31042,
       "longitude": -111.43297,
       "huc": "140600090203",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 12.0,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09323900:UT:USGS",
@@ -7629,7 +7569,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09329050:UT:USGS",
@@ -7644,7 +7584,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09014500:CO:BOR",
@@ -7659,7 +7599,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1060:CO:SNTL",
@@ -7669,12 +7609,12 @@
       "latitude": 37.50356,
       "longitude": -108.11405,
       "huc": "140300020206",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 21.6,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "7618:CO:COOP",
@@ -7689,7 +7629,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "06K09:CO:SNOW",
@@ -7704,7 +7644,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "7880:AZ:COOP",
@@ -7719,7 +7659,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "755:NM:SNTL",
@@ -7729,12 +7669,12 @@
       "latitude": 32.92342,
       "longitude": -108.14546,
       "huc": "150400010803",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 12.0,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "757:NM:SNTL",
@@ -7744,12 +7684,12 @@
       "latitude": 33.3696,
       "longitude": -108.70711,
       "huc": "150400040605",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 14.0,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09125800:CO:BOR",
@@ -7764,7 +7704,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "7656:CO:COOP",
@@ -7779,7 +7719,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "385106106571000:CO:USGS",
@@ -7794,7 +7734,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09111500:CO:USGS",
@@ -7809,7 +7749,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "762:CO:SNTL",
@@ -7819,12 +7759,12 @@
       "latitude": 37.99076,
       "longitude": -107.20392,
       "huc": "140200020502",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 13.6,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0025:CO:USGS",
@@ -7839,7 +7779,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0026:CO:USGS",
@@ -7854,7 +7794,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "05K16:CO:SNOW",
@@ -7869,7 +7809,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "765:WY:SNTL",
@@ -7884,7 +7824,7 @@
       "pct_of_median": null,
       "precip_in": 17.6,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "11P06:AZ:SNOW",
@@ -7899,7 +7839,22 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
+    },
+    {
+      "triplet": "927:AZ:SNTL",
+      "name": "Snowslide Canyon",
+      "state": "AZ",
+      "elevation_ft": 9720.0,
+      "latitude": 35.34179,
+      "longitude": -111.65084,
+      "huc": "150200160201",
+      "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09378170:UT:USGS",
@@ -7914,7 +7869,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "3068:CO:CSCAN",
@@ -7927,9 +7882,9 @@
       "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": null,
+      "precip_in": 7.87,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0047:CO:USGS",
@@ -7944,7 +7899,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0028:CO:USGS",
@@ -7959,7 +7914,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1117:UT:SNTL",
@@ -7973,8 +7928,8 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 19.3,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "snow_depth_in": 3.0,
+      "date": "2026-06-05"
     },
     {
       "triplet": "2154:UT:SCAN",
@@ -7989,7 +7944,7 @@
       "pct_of_median": null,
       "precip_in": 4.95,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2158:UT:SCAN",
@@ -8004,7 +7959,37 @@
       "pct_of_median": null,
       "precip_in": 5.25,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
+    },
+    {
+      "triplet": "779:WY:SNTL",
+      "name": "Spring Creek Divide",
+      "state": "WY",
+      "elevation_ft": 9020.0,
+      "latitude": 42.52516,
+      "longitude": -110.66148,
+      "huc": "140401011001",
+      "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
+    },
+    {
+      "triplet": "780:CO:SNTL",
+      "name": "Spud Mountain",
+      "state": "CO",
+      "elevation_ft": 10660.0,
+      "latitude": 37.69883,
+      "longitude": -107.77841,
+      "huc": "140801040203",
+      "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09237495:CO:BOR",
@@ -8019,7 +8004,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09UT02JJ:UT:BOR",
@@ -8034,7 +8019,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09S08:NM:SNOW",
@@ -8049,7 +8034,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09219600:UT:BOR",
@@ -8064,7 +8049,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "7936:CO:COOP",
@@ -8079,7 +8064,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "790:UT:SNTL",
@@ -8090,11 +8075,11 @@
       "longitude": -110.50462,
       "huc": "140401070203",
       "swe_in": 0.0,
-      "swe_median_in": 2.3,
+      "swe_median_in": 1.1,
       "pct_of_median": 0.0,
-      "precip_in": 18.9,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": 18.8,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09271300:UT:BOR",
@@ -8109,7 +8094,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "793:CO:SNTL",
@@ -8124,7 +8109,7 @@
       "pct_of_median": null,
       "precip_in": 9.6,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09277700:UT:USGS",
@@ -8139,7 +8124,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09282399:UT:USGS",
@@ -8154,7 +8139,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "795:UT:SNTL",
@@ -8167,9 +8152,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 18.2,
+      "precip_in": null,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09288180:UT:USGS",
@@ -8184,7 +8169,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09285000:UT:USGS",
@@ -8199,7 +8184,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09282500:UT:BOR",
@@ -8214,7 +8199,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "797:CO:SNTL",
@@ -8229,7 +8214,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "802:CO:SNTL",
@@ -8244,7 +8229,7 @@
       "pct_of_median": null,
       "precip_in": 12.8,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1249:UT:SNTL",
@@ -8254,12 +8239,12 @@
       "latitude": 38.048,
       "longitude": -111.33981,
       "huc": "140700030406",
-      "swe_in": 0.0,
+      "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 20.0,
+      "precip_in": 19.9,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09143500:CO:USGS",
@@ -8274,7 +8259,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09282400:UT:USGS",
@@ -8289,7 +8274,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09110000:CO:USGS",
@@ -8304,7 +8289,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "8184:CO:COOP",
@@ -8319,7 +8304,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009120:CO:BOR",
@@ -8334,7 +8319,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09109209:CO:USGS",
@@ -8349,7 +8334,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "07M02:CO:SNOW",
@@ -8364,7 +8349,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "8204:CO:COOP",
@@ -8379,7 +8364,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1097:UT:SNTL",
@@ -8392,9 +8377,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 16.1,
+      "precip_in": 16.0,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09119000:CO:USGS",
@@ -8409,7 +8394,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09115500:CO:USGS",
@@ -8424,7 +8409,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09499000:AZ:USGS",
@@ -8439,7 +8424,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0031:CO:USGS",
@@ -8454,7 +8439,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "827:CO:SNTL",
@@ -8467,9 +8452,9 @@
       "swe_in": 0.0,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 16.2,
+      "precip_in": 16.1,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "831:WY:SNTL",
@@ -8482,9 +8467,9 @@
       "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 31.9,
-      "snow_depth_in": 1.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "833:UT:SNTL",
@@ -8497,9 +8482,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 14.2,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": 14.1,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "07M28:CO:SNOW",
@@ -8514,7 +8499,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09171300:CO:BOR",
@@ -8529,7 +8514,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "T101:AZ:MPRC",
@@ -8544,7 +8529,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "T301:AZ:MPRC",
@@ -8559,7 +8544,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09N02:AZ:SNOW",
@@ -8574,7 +8559,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09N04:AZ:SNOW",
@@ -8589,7 +8574,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "8820:AZ:COOP",
@@ -8604,7 +8589,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09296800:UT:USGS",
@@ -8619,7 +8604,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09147500:CO:USGS",
@@ -8634,7 +8619,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09147025:CO:USGS",
@@ -8649,7 +8634,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09146200:CO:USGS",
@@ -8664,7 +8649,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1227:UT:SNTL",
@@ -8674,12 +8659,12 @@
       "latitude": 39.4155,
       "longitude": -111.2491,
       "huc": "140600090201",
-      "swe_in": 0.0,
+      "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 12.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "06M03:CO:SNOW",
@@ -8694,7 +8679,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "840:CO:SNTL",
@@ -8708,8 +8693,8 @@
       "swe_median_in": 0.0,
       "pct_of_median": null,
       "precip_in": 35.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "snow_depth_in": 1.0,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09278000:UT:BOR",
@@ -8724,7 +8709,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1141:CO:SNTL",
@@ -8739,7 +8724,7 @@
       "pct_of_median": null,
       "precip_in": 16.3,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "842:CO:SNTL",
@@ -8754,7 +8739,7 @@
       "pct_of_median": null,
       "precip_in": 16.8,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "843:CO:SNTL",
@@ -8764,12 +8749,12 @@
       "latitude": 37.48524,
       "longitude": -107.50748,
       "huc": "140801011105",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 21.8,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "8582:CO:COOP",
@@ -8784,7 +8769,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009130:CO:BOR",
@@ -8799,7 +8784,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "05K19:CO:SNOW",
@@ -8814,7 +8799,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09274898:UT:USGS",
@@ -8829,7 +8814,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009140:CO:BOR",
@@ -8844,7 +8829,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09508500:AZ:USGS",
@@ -8859,7 +8844,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09509500:AZ:BOR",
@@ -8874,7 +8859,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2162:UT:SCAN",
@@ -8889,7 +8874,7 @@
       "pct_of_median": null,
       "precip_in": 9.43,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "VIDTUNCO:CO:USGS",
@@ -8904,7 +8889,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09415000:AZ:USGS",
@@ -8919,7 +8904,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09406000:UT:USGS",
@@ -8934,7 +8919,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09408150:UT:USGS",
@@ -8949,7 +8934,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09223100:WY:BOR",
@@ -8964,7 +8949,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09116500:CO:BOR",
@@ -8979,7 +8964,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09276600:UT:USGS",
@@ -8994,7 +8979,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1188:CO:SNTL",
@@ -9004,12 +8989,12 @@
       "latitude": 37.88248,
       "longitude": -107.36428,
       "huc": "140200020602",
-      "swe_in": 0.0,
+      "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 14.0,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "2026:AZ:SCAN",
@@ -9024,7 +9009,7 @@
       "pct_of_median": null,
       "precip_in": 5.16,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "9459:WY:COOP",
@@ -9039,7 +9024,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "849:NV:SNTL",
@@ -9052,9 +9037,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 17.6,
+      "precip_in": 17.5,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "UT0010:UT:USGS",
@@ -9069,7 +9054,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0034:CO:USGS",
@@ -9084,7 +9069,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0035:CO:USGS",
@@ -9099,7 +9084,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0048:CO:USGS",
@@ -9114,7 +9099,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "853:UT:SNTL",
@@ -9127,9 +9112,9 @@
       "swe_in": 0.0,
       "swe_median_in": 0.0,
       "pct_of_median": null,
-      "precip_in": 23.5,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": 23.1,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "1160:CO:SNTL",
@@ -9139,12 +9124,12 @@
       "latitude": 37.51968,
       "longitude": -107.32139,
       "huc": "140801020203",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 26.4,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0036:CO:USGS",
@@ -9159,7 +9144,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "2139:UT:SCAN",
@@ -9174,7 +9159,7 @@
       "pct_of_median": null,
       "precip_in": 7.77,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09274899:UT:USGS",
@@ -9189,7 +9174,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "WHEATFLD:AZ:USGS",
@@ -9204,7 +9189,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "08N03:NM:SNOW",
@@ -9219,7 +9204,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "WC01:NM:MPRC",
@@ -9234,7 +9219,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "859:WY:SNTL",
@@ -9244,12 +9229,12 @@
       "latitude": 41.00368,
       "longitude": -106.90795,
       "huc": "140500030102",
-      "swe_in": 0.0,
-      "swe_median_in": 1.4,
-      "pct_of_median": 0.0,
-      "precip_in": 31.9,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09312600:UT:USGS",
@@ -9264,7 +9249,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09304500:CO:USGS",
@@ -9279,7 +9264,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09306500:UT:USGS",
@@ -9294,7 +9279,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "15L01:NV:SNOW",
@@ -9309,7 +9294,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "864:UT:SNTL",
@@ -9324,7 +9309,7 @@
       "pct_of_median": null,
       "precip_in": 14.1,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "1213:NV:SNTL",
@@ -9337,9 +9322,9 @@
       "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 12.2,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "09299500:UT:USGS",
@@ -9354,7 +9339,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "543:UT:SNTL",
@@ -9364,12 +9349,27 @@
       "latitude": 39.89166,
       "longitude": -110.74604,
       "huc": "140600040701",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
+      "swe_in": null,
+      "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 15.9,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
+    },
+    {
+      "triplet": "866:AZ:SNTL",
+      "name": "Wildcat",
+      "state": "AZ",
+      "elevation_ft": 7850.0,
+      "latitude": 33.74347,
+      "longitude": -109.48078,
+      "huc": "150601010109",
+      "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "9334:AZ:COOP",
@@ -9384,7 +9384,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "9359:AZ:COOP",
@@ -9399,7 +9399,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0037:CO:USGS",
@@ -9414,7 +9414,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0038:CO:USGS",
@@ -9429,7 +9429,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09038500:CO:USGS",
@@ -9444,7 +9444,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09037500:CO:USGS",
@@ -9459,7 +9459,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009150:CO:BOR",
@@ -9474,7 +9474,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "12P03:AZ:SNOW",
@@ -9489,7 +9489,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09021000:CO:USGS",
@@ -9504,7 +9504,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "06J05:CO:SNOW",
@@ -9519,22 +9519,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
-    },
-    {
-      "triplet": "869:CO:SNTL",
-      "name": "Willow Creek Pass",
-      "state": "CO",
-      "elevation_ft": 9520.0,
-      "latitude": 40.34734,
-      "longitude": -106.0952,
-      "huc": "140100010102",
-      "swe_in": 0.0,
-      "swe_median_in": 0.0,
-      "pct_of_median": null,
-      "precip_in": 15.6,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09009160:CO:BOR",
@@ -9549,7 +9534,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09275950:UT:USGS",
@@ -9564,7 +9549,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "9439:AZ:COOP",
@@ -9579,7 +9564,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "9175:CO:COOP",
@@ -9594,7 +9579,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "874:CO:SNTL",
@@ -9605,11 +9590,11 @@
       "longitude": -106.80234,
       "huc": "140801010203",
       "swe_in": 0.0,
-      "swe_median_in": 15.8,
+      "swe_median_in": 14.6,
       "pct_of_median": 0.0,
-      "precip_in": 33.1,
+      "precip_in": 33.3,
       "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09041395:CO:BOR",
@@ -9624,7 +9609,22 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
+    },
+    {
+      "triplet": "877:AZ:SNTL",
+      "name": "Workman Creek",
+      "state": "AZ",
+      "elevation_ft": 7030.0,
+      "latitude": 33.81259,
+      "longitude": -110.91852,
+      "huc": "150601030802",
+      "swe_in": null,
+      "swe_median_in": null,
+      "pct_of_median": null,
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "1228:UT:SNTL",
@@ -9634,12 +9634,12 @@
       "latitude": 39.13233,
       "longitude": -111.35685,
       "huc": "140600090303",
-      "swe_in": 0.0,
+      "swe_in": null,
       "swe_median_in": null,
       "pct_of_median": null,
-      "precip_in": 11.6,
-      "snow_depth_in": 0.0,
-      "date": "2026-06-04"
+      "precip_in": null,
+      "snow_depth_in": null,
+      "date": "2026-06-05"
     },
     {
       "triplet": "CO0040:CO:USGS",
@@ -9654,7 +9654,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "06K51:CO:SNOW",
@@ -9669,7 +9669,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "YAMRESCO:CO:BOR",
@@ -9684,7 +9684,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "9265:CO:COOP",
@@ -9699,7 +9699,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09237450:CO:USGS",
@@ -9714,7 +9714,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09239500:CO:USGS",
@@ -9729,7 +9729,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09237500:CO:USGS",
@@ -9744,7 +9744,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09251000:CO:USGS",
@@ -9759,7 +9759,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "06J10:CO:SNOW",
@@ -9774,7 +9774,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09292500:UT:USGS",
@@ -9789,7 +9789,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     },
     {
       "triplet": "09386950:NM:USGS",
@@ -9804,7 +9804,7 @@
       "pct_of_median": null,
       "precip_in": null,
       "snow_depth_in": null,
-      "date": "2026-06-04"
+      "date": "2026-06-05"
     }
   ]
 }
